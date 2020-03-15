@@ -1,0 +1,337 @@
+[
+    {
+        "id": 4814912,
+        "label": "Study Quality ",
+        "checked": false,
+        "children": [
+            {
+                "id": 5413915,
+                "label": "High quality primary studies",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5413925,
+                "label": "Low and medium primary studies",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5413935,
+                "label": "High quality systematic review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5413936,
+                "label": "Low and medium quality systematic review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4814916,
+                "label": "Primary study quality",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4814919,
+                "label": "Systematic review quality",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 4691471,
+        "label": "Region",
+        "checked": false,
+        "children": [
+            {
+                "id": 4691472,
+                "label": "East Asia and Pacific",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691473,
+                "label": "Europe and Central Asia",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691474,
+                "label": "North America",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691475,
+                "label": "Middle East and North Africa",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691476,
+                "label": "South Asia",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691477,
+                "label": "Sub-Saharan Africa",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 4691478,
+        "label": "Population",
+        "checked": false,
+        "children": [
+            {
+                "id": 4691479,
+                "label": "Youth/young people",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691480,
+                "label": "Families with children",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691481,
+                "label": "Women and girls",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691482,
+                "label": "Elderly",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691483,
+                "label": "Discharge from health facilities",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691484,
+                "label": "People with/history of mental illness",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691485,
+                "label": "People with complex needs/dual diagnosis",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691486,
+                "label": "Veterans/ex-services",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691487,
+                "label": "People with alcohol/drug issues",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691488,
+                "label": "LGBT",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691489,
+                "label": "Survivors of domestic violence/abuse",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691490,
+                "label": "People with disabilities",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691491,
+                "label": "Migrants",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691492,
+                "label": "Ex-prisoners",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4731285,
+                "label": "HIV patients",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5442586,
+                "label": "Indegenous people",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 4691468,
+        "label": "Publication status",
+        "checked": false,
+        "children": [
+            {
+                "id": 4691469,
+                "label": "Completed",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5437035,
+                "label": "On-going",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 4691458,
+        "label": "Study design",
+        "checked": false,
+        "children": [
+            {
+                "id": 4691460,
+                "label": "Systematic review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691461,
+                "label": "RCT",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416391,
+                "label": "Natural experiment",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416392,
+                "label": "Regression Discontinuity Design",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416393,
+                "label": "ITT",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416394,
+                "label": "IV ",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416396,
+                "label": "Propensity Score Matching",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416398,
+                "label": "Other Matching",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416399,
+                "label": "Unmatched",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416400,
+                "label": "No control",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416401,
+                "label": "Associational studies",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691462,
+                "label": "Cross-sectional",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691463,
+                "label": "Quasi-experimental",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691464,
+                "label": "Cohort",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691465,
+                "label": "Case-control",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691466,
+                "label": "Qualitative",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691467,
+                "label": "Mixed-method",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4691470,
+                "label": "On-going",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 4735597,
+                "label": "Review of Reviews",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 5416397,
+                "label": "Other Matching",
+                "checked": false,
+                "children": []
+            }
+        ]
+    }
+]
