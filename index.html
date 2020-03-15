@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>EPPI-Mapper</title>
+  <link rel="stylesheet" href="./index.css">
+  <script type="text/javascript">
+    var isIE = false || !!document.documentMode;
+    if (isIE === true) {
+      alert("Unfortunately this map cannot be used in Internet Explorer. You will need to use Microsoft Edge, Firefox or Google Chrome.");
+    }
+  </script>
+</head>
+
+<body>
+  <div class="loader">
+    <span class="spinner"></span>
+  </div>
+  <div class="veil"></div>
+  <div class="settings"></div>
+  <div class="reader"></div>
+  <div class="menu"></div>
+  <div class="header clearfix">
+    <div class="logoOne">
+      <img src="./img/uned.png">
+    </div>
+    <div class="header-title">
+      <span style="font-size:0.9em">
+        Canabinol
+      </span><br>
+      <span style="font-size:0.6em">227 studies mapped by intervention type (left hand column) and outcomes (along the
+        top)</span><br>
+      </span>
+    </div>
+    <div class="logoTwo">
+      <img src="./img/udea.jpeg">
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="pivot-table clearfix">
+      <div class="top-head-wrapper">
+        <div class="top-head">
+          <table>
+            <thead>
+            </thead>
+          </table>
+        </div>
+      </div>
+      <div class="side-head">
+        <table>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+      <div class="body">
+        <table>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="legend"></div>
+    <div class="spacer"></div>
+    <div class="inner">
+      Creado con
+      <svg fill="#c62828" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 0h24v24H0z" fill="none" />
+        <path
+          d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+      </svg>
+      Por el los amiguitos de pame
+    </div>
+  </div>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+  <!-- Importar StyleFix 1.0.3 & PrefixFree 1.0.7 -->
+  <script src="./src/index.js"></script>
+</body>
+
+</html>
