@@ -5,51 +5,135 @@
             "span": 25,
             "isColumn": true,
             "id": 5437027,
-            "title": "Outcome "
+            "title": "Descenlaces "
          }
       ],
       [
          {
-            "span": 4,
-            "isColumn": true,
-            "id": 5437028,
-            "title": "Capabilities and Wellbeing\t\t\t\t"
-         },
-         {
-            "span": 3,
-            "isColumn": true,
-            "id": 5437029,
-            "title": "Cost\t\t\t"
-         },
-         {
-            "span": 3,
-            "isColumn": true,
-            "id": 5437030,
-            "title": "Crime and justice\t\t\t"
-         },
-         {
-            "span": 4,
-            "isColumn": true,
-            "id": 5437031,
-            "title": "Employment and income\t\t\t\t"
-         },
-         {
-            "span": 5,
-            "isColumn": true,
-            "id": 5437032,
-            "title": "Health\t\t\t\t\t"
-         },
-         {
             "span": 2,
             "isColumn": true,
+            "id": 5437028,
+            "title": "Cancer\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437029,
+            "title": "VIH\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437030,
+            "title": "DM\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437031,
+            "title": "Trauma\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437032,
+            "title": "Dolor cronico por cualquier causa\t\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
             "id": 5437033,
-            "title": "Housing stability\t\t"
+            "title": "Dolor en ortopedia\t\t"
          },
          {
             "span": 4,
             "isColumn": true,
             "id": 5437034,
-            "title": "Public attitudes and engagement\t\t\t\t"
+            "title": "Esclerosis multiple \t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Fibromialgia\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Lennox - Gastaut\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Epilepsia\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Epilepsia refractaria a tratamiento\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Alzheimer\t\t\t\t"
+         },
+         {
+            "span": 2,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Demencia por cualquier causa \t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Crohn\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Esclerosis Lateral Amniotrofica\t\t\t\t"
+         },
+         {
+            "span": 2,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Trastorno de estres postraumatico\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Depresión\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Trastorno de Ansiedad\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "Sindrome de Tourette\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437034,
+            "title": "TDAH\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437039,
+            "title": "Psicosis Primaria o secundaria \t\t\t\t"
          }
       ],
       [
@@ -57,151 +141,163 @@
             "span": 1,
             "isColumn": true,
             "id": 5437057,
-            "title": "Community engagement and social connectedness"
+            "title": "Dolor oncologico "
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437058,
-            "title": "Improved skill and self care"
+            "title": "Nauseas y vomito inducidos por quimioterapia"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437059,
-            "title": "Overall well being and quality of life"
+            "title": "Dolor neuropatico"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437060,
-            "title": "Loneliness"
+            "title": "Dolor neuropatico"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437054,
-            "title": "Cost effectiveness"
+            "title": "Dolor neuropatico"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437055,
-            "title": "Cost per participant"
+            "title": "Calidad de vida "
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437056,
-            "title": "Saving"
+            "title": "Dolor"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437051,
-            "title": "Arrest and imprisonment"
+            "title": "Espasticidad"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437052,
-            "title": "Recindivism"
+            "title": "Calidad de vida "
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437053,
-            "title": "Victims of crime"
+            "title": "Actividad diaria"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437047,
-            "title": "Access to welfare benefits"
+            "title": "Dolor cronico"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437048,
-            "title": "Earned income"
+            "title": "Dolor cronico"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437049,
-            "title": "Employment status"
+            "title": "Eventos convulsivos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437049,
+            "title": "Eventos convulsivos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437049,
+            "title": "Eventos convulsivos"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437050,
-            "title": "Forced labour and sex work"
+            "title": "Sintomas neuropsiquiatricos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 5437050,
+            "title": "Sintomas neuropsiquiatricos"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437042,
-            "title": "Abstinence from substance abuse"
+            "title": "Agitación"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437043,
-            "title": "Access to mainstream health care"
+            "title": "Remisión"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437044,
-            "title": "Harm reduction"
+            "title": "Calidad de vida"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437045,
-            "title": "Mental health status"
+            "title": "Severidad Sintomas"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437046,
-            "title": "Physical health and nutrition status"
+            "title": "Ansiedad y sueño"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437040,
-            "title": "Accommodation status"
+            "title": "Remision"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437041,
-            "title": "Satisfaction with housing"
+            "title": "Remision"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437036,
-            "title": "Fundraising"
+            "title": "Disminución de Tics"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437037,
-            "title": "Public understanding"
+            "title": "Cambio en sisntomas comportamentales"
          },
          {
             "span": 1,
             "isColumn": true,
             "id": 5437038,
-            "title": "Support for intervention"
-         },
-         {
-            "span": 1,
-            "isColumn": true,
-            "id": 5437039,
-            "title": "Engagement in homelessness related activities"
+            "title": "Remisión"
          }
       ],
       [
@@ -209,13 +305,13 @@
             "span": 16,
             "isColumn": false,
             "id": 5437010,
-            "title": "Intervention"
+            "title": "Intervenciones"
          },
          {
             "span": 1,
             "isColumn": false,
             "id": 5442600,
-            "title": "Accomodation"
+            "title": "Tetrahydrocannabinol (THC)"
          }
       ],
       [
@@ -223,7 +319,7 @@
             "span": 1,
             "isColumn": false,
             "id": 5437012,
-            "title": "Accomodation with support services"
+            "title": "Cannabidiol (CBD)"
          }
       ],
       [
@@ -231,7 +327,7 @@
             "span": 1,
             "isColumn": false,
             "id": 5437013,
-            "title": "Accomodation based support services"
+            "title": "Nabiximols"
          }
       ],
       [
@@ -239,7 +335,7 @@
             "span": 1,
             "isColumn": false,
             "id": 5437014,
-            "title": "Armed forces"
+            "title": "Canabidiol purificado"
          }
       ],
       [
@@ -247,7 +343,7 @@
             "span": 1,
             "isColumn": false,
             "id": 5437015,
-            "title": "Arts sports and culture"
+            "title": "Dronabinol"
          }
       ],
       [
@@ -255,91 +351,11 @@
             "span": 1,
             "isColumn": false,
             "id": 5437016,
-            "title": "Communications and Campaign"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437017,
-            "title": "Crime and Justice"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437018,
-            "title": "Crisis services and emergency accomodations"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437019,
-            "title": "Direct donations and relief grants\t\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437020,
-            "title": "Education, skills and employment\t\t\t\t\t\t\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437021,
-            "title": "Health and social care - mainstream\t\t\t\t\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437022,
-            "title": "Health and social care - specialist\t\t\t\t\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437023,
-            "title": "Public policy - housing/homelessness\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437024,
-            "title": "Public policy - other\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437025,
-            "title": "Social relationships and community\t\t\t"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 5437026,
-            "title": "Technology"
+            "title": " Nabilone "
          }
       ]
    ],
-   "totalColBreadth": 25,
+   "totalColBreadth": 28,
    "totalColDepth": 3,
    "totalRowBreadth": 16,
    "totalRowDepth": 1
