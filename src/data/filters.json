@@ -6,25 +6,25 @@
         "children": [
             {
                 "id": 5413915,
-                "label": "High quality primary studies",
+                "label": "Revisión sistemática de alta calidad",
                 "checked": false,
                 "children": []
             },
             {
                 "id": 5413925,
-                "label": "Low and medium primary studies",
+                "label": "Revisión sistemática de moderada calidad",
                 "checked": false,
                 "children": []
             },
             {
                 "id": 5413935,
-                "label": "High quality systematic review",
+                "label": "Revisión sistemática de baja calidad",
                 "checked": false,
                 "children": []
             },
             {
                 "id": 5413936,
-                "label": "Low and medium quality systematic review",
+                "label": "Revisión sistemática calidad críticamente baja",
                 "checked": false,
                 "children": []
             },
