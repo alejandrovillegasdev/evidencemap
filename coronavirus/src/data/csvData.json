@@ -31,157 +31,157 @@
       [
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11101,
             "title": "Clinical improvement"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11102,
             "title": "Oxygen requirement"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11103,
             "title": "Hospital stay"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11104,
             "title": "Mild / moderate to severe disease progression"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11105,
             "title": "Progression to ARDS"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11106,
             "title": "ICU admission"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11107,
             "title": "ICU length of stay"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11108,
             "title": "Mortality"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11109,
             "title": "Viral clearance"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11110,
             "title": "Negativization"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11111,
             "title": "Viral replication"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11112,
             "title": "Nosocomial infection"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11113,
             "title": "Imaging improvement"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11114,
             "title": "Gastrointestinal Symptoms"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11115,
             "title": "Headache"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11116,
             "title": "Transaminase elevation"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11117,
             "title": "Skin Lesions"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11118,
             "title": "Hematologic abnormalities"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11119,
             "title": "Cardiovascular signs or symptoms"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11120,
             "title": "QT interval prolongation"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11121,
             "title": "Arrhythmias"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11122,
             "title": "Transmissibility reduction"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11123,
             "title": "Health services pressure reduction"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11124,
             "title": "Control of new outbreaks"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11125,
             "title": "Cost savings"
          },
          {
             "span": 1,
-            "isColumn": "TRUE",
+            "isColumn": true,
             "id": 11126,
             "title": "Adverse events Non-pharmacological interventions"
          }
