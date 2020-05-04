@@ -1,0 +1,1477 @@
+[
+    {
+        "ItemId": 1,
+        "Title": "Cannabinoids for adult cancer- related pain: systematic review and meta- analysis",
+        "ParentTitle": "BMJ Supportive & Palliative Care 2020;10:14–24.",
+        "ShortTitle": "Boland, 2020",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "January",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "10",
+        "Pages": "14-24",
+        "Edition": "",
+        "Issue": "",
+        "Availability": "",
+        "URL": "https://www.ncbi.nlm.nih.gov/pubmed/31959586",
+        "OldItemId": "",
+        "Abstract": "Objectives There is increased interest in cannabinoids for cancer pain management and legislative changes are in progress in many countries. This study aims to determine the beneficial and adverse effects of cannabis/ cannabinoids compared with placebo/other active agents for the treatment of cancer- related pain in adults. Methods Systematic review and meta- analysis to identify randomised controlled trials of cannabinoids compared with placebo/other active agents for the treatment of cancer- related pain in adults to determine the effect on pain intensity (primary outcome) and adverse effects, including dropouts. Searches included Embase, MEDLINE, PsycINFO, Web of Science, ClinicalTrials. gov, Cochrane and grey literature. Preferred Reporting Items for Systematic Reviews and Meta- Analyses guidelines were followed. results We identified 2805 unique records, of which six randomised controlled trials were included in this systematic review (n=1460 participants). Five studies were included in the meta- analysis (1442 participants). All had a low risk of bias. There was no difference between cannabinoids and placebo for the difference in the change in average Numeric Rating Scale pain scores (mean difference −0.21 (−0.48 to 0.07, p=0.14)); this remained when only phase III studies were meta- analysed: mean difference −0.02 (−0.21 to 0.16, p=0.80). Cannabinoids had a higher risk of adverse events when compared with placebo, especially somnolence (OR 2.69 (1.54 to 4.71), p<0.001) and dizziness (OR 1.58 (0.99 to 2.51), p=0.05). No treatment- related deaths were reported. Dropouts and mortality rates were high. conclusions Studies with a low risk of bias showed that for adults with advanced cancer, the addition of cannabinoids to opioids did not reduce cancer pain.",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "Elaine G Boland ; Michael I Bennett ; Victoria Allgar ; Jason W Boland ",
+        "ParentAuthors": "",
+        "DOI": "doi:10.1136/bmjspcare-2019-002032",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 2,
+        "Title": "Pharmacologic and Non-Pharmacologic Interventions for HIV-Neuropathy Pain. A Systematic Review and a Meta-Analysis",
+        "ParentTitle": "Medicina",
+        "ShortTitle": "Amaniti, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "November",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Lithuania",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "55",
+        "Pages": "1-38",
+        "Edition": "",
+        "Issue": "12",
+        "Availability": "",
+        "URL": "https://www.ncbi.nlm.nih.gov/pubmed/31959586",
+        "OldItemId": "",
+        "Abstract": "Abstract: Background and Objectives: Among HIV infection symptoms, sensory neuropathy (HIV-SN) remains a main cause of suffering, with incidence varying from 13–50%. So far, numerous pharmacological and non-pharmacological treatments have been tested, although few evidence-based analgesic options are available. We conducted an up-to-date systematic review and meta-analysis of the literature in order to evaluate the efficacy and safety of pharmacologic and non-pharmacologic treatments for pain control, in patients with HIV neuropathy. Materials and Methods: We searched MEDLINE, EMBASE, Scopus/Elsevier, The Cochrane Central Register of Controlled Trials (CENTRAL), USA Clinical Trials registry, and The International Web of Science up to April 2019. All randomized controlled trials evaluating efficacy and safety of non-pharmacologic and pharmacologic therapies were included. Efficacy was defined as pain reduction during the study period. Safety was estimated from adverse events. A meta-analysis was performed whenever possible. Results: 27 randomized controlled trials (RCTs) were included for analysis (7 evaluating non pharmacologic interventions, 20 pharmacologic therapies). Non-pharmacologic studies (n = 742) involved seven different therapeutic modalities. Only Acupuncture/Moxibustion showed pain reduction over placebo, Gracely Pain Scale Mean (SD): Acu/Moxa 0.85 (0.12), placebo 1.10 (0.09), p = 0.05. Pharmacologic studies, involving 2516 patients revealed efficacy for capsaicin 8% over placebo (mean difference −8.04 [95% CI: −14.92 −1.15], smoked cannabis (where pooling data for meta-analysis was not possible) and recombinant Nerve Growth Factor. Conclusion: Despite various modalities for pain control in HIV-SN, strongest evidence exists for capsaicin 8% and smoked cannabis, although of low methodological quality. Among non-pharmacologic modalities, only Acu/Moxa gave a marginal beneficial effect in one study, possibly limited by inherent methodological flaws",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "Aikaterini Amaniti , Chrysanthi Sardeli  , Varvara Fyntanidou ,Panagiota Papakonstantinou , Ioannis Dalakakis , Antonios Mylonas , Konstantinos Sapalidis , Christoforos Kosmidis , Athanasios Katsaounis , Dimitrios Giannakidis , Charilaos Koulouris , Zoi Aidoni , Nikolaos Michalopoulos , Paul Zarogoulidis , Isaak Kesisoglou , Aris Ioannidis , Anastasios Vagionas , Konstantinos Romanidis , Panagoula Oikonomou  and Vasilios Grosomanidis",
+        "ParentAuthors": "",
+        "DOI": "doi:10.3390/medicina55120762",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 3,
+        "Title": "Pharmacologic and Non-Pharmacologic Interventions for HIV-Neuropathy Pain. A Systematic Review and a Meta-Analysis",
+        "ParentTitle": "Medicina",
+        "ShortTitle": "Amaniti, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "November",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Lithuania",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "55",
+        "Pages": "1-38",
+        "Edition": "",
+        "Issue": "12",
+        "Availability": "",
+        "URL": "https://www.ncbi.nlm.nih.gov/pubmed/31959586",
+        "OldItemId": "",
+        "Abstract": "Abstract: Background and Objectives: Among HIV infection symptoms, sensory neuropathy (HIV-SN) remains a main cause of suffering, with incidence varying from 13–50%. So far, numerous pharmacological and non-pharmacological treatments have been tested, although few evidence-based analgesic options are available. We conducted an up-to-date systematic review and meta-analysis of the literature in order to evaluate the efficacy and safety of pharmacologic and non-pharmacologic treatments for pain control, in patients with HIV neuropathy. Materials and Methods: We searched MEDLINE, EMBASE, Scopus/Elsevier, The Cochrane Central Register of Controlled Trials (CENTRAL), USA Clinical Trials registry, and The International Web of Science up to April 2019. All randomized controlled trials evaluating efficacy and safety of non-pharmacologic and pharmacologic therapies were included. Efficacy was defined as pain reduction during the study period. Safety was estimated from adverse events. A meta-analysis was performed whenever possible. Results: 27 randomized controlled trials (RCTs) were included for analysis (7 evaluating non pharmacologic interventions, 20 pharmacologic therapies). Non-pharmacologic studies (n = 742) involved seven different therapeutic modalities. Only Acupuncture/Moxibustion showed pain reduction over placebo, Gracely Pain Scale Mean (SD): Acu/Moxa 0.85 (0.12), placebo 1.10 (0.09), p = 0.05. Pharmacologic studies, involving 2516 patients revealed efficacy for capsaicin 8% over placebo (mean difference −8.04 [95% CI: −14.92 −1.15], smoked cannabis (where pooling data for meta-analysis was not possible) and recombinant Nerve Growth Factor. Conclusion: Despite various modalities for pain control in HIV-SN, strongest evidence exists for capsaicin 8% and smoked cannabis, although of low methodological quality. Among non-pharmacologic modalities, only Acu/Moxa gave a marginal beneficial effect in one study, possibly limited by inherent methodological flaws",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "Aikaterini Amaniti , Chrysanthi Sardeli  , Varvara Fyntanidou ,Panagiota Papakonstantinou , Ioannis Dalakakis , Antonios Mylonas , Konstantinos Sapalidis , Christoforos Kosmidis , Athanasios Katsaounis , Dimitrios Giannakidis , Charilaos Koulouris , Zoi Aidoni , Nikolaos Michalopoulos , Paul Zarogoulidis , Isaak Kesisoglou , Aris Ioannidis , Anastasios Vagionas , Konstantinos Romanidis , Panagoula Oikonomou  and Vasilios Grosomanidis",
+        "ParentAuthors": "",
+        "DOI": "doi:10.3390/medicina55120762",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 4,
+        "Title": "Evidence for cannabis and cannabinoids for epilepsy: a systematic review of controlled and observational evidence",
+        "ParentTitle": "The Journal of Neurology, Neurosurgery, and Psychiatry ",
+        "ShortTitle": "Stockings E, et al. 2018",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2018",
+        "Month": "July",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Lithuania",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "89",
+        "Pages": "741-753",
+        "Edition": "",
+        "Issue": "7",
+        "Availability": "",
+        "URL": "https://jnnp.bmj.com/content/89/7/741",
+        "OldItemId": "",
+        "Abstract": "Review evidence for cannabinoids as adjunctive treatments for treatment-resistant epilepsy. Systematic search of Medline, Embase and PsycINFO was conducted in October 2017. Outcomes were: 50%+ seizure reduction, complete seizure freedom; improved quality of life (QoL). Tolerability/safety were assessed by study withdrawals, adverse events (AEs) and serious adverse events (SAEs). Analyses were conducted in Stata V.15.0. 36 studies were identified: 6 randomised controlled trials (RCTs), 30 observational studies. Mean age of participants was 16.1 years (range 0.5–55 years). Cannabidiol (CBD) 20 mg/kg/day was more effective than placebo at reducing seizure frequency by 50%+(relative risk (RR) 1.74, 95% CI 1.24 to 2.43, 2 RCTs, 291 patients, low Grades of Recommendation, Assessment, Development and Evaluation (GRADE) rating). The number needed to treat for one person using CBD to experience 50%+ seizure reduction was 8 (95% CI 6 to 17). CBD was more effective than placebo at achieving complete seizure freedom (RR 6.17, 95% CI 1.50 to 25.32, 3 RCTs, 306 patients, low GRADE rating), and improving QoL (RR 1.73, 95% CI 1.33 to 2.26), however increased risk of AEs (RR 1.24, 95% CI 1.13 to 1.36) and SAEs (RR 2.55, 95% CI 1.48 to 4.38). Pooled across 17 observational studies, 48.5% (95% CI 39.0% to 58.1%) of patients reported 50%+ reductions in seizures; in 14 observational studies 8.5% (95% CI 3.8% to 14.5%) were seizure-free. Twelve observational studies reported improved QoL (55.8%, 95% CI 40.5 to 70.6); 50.6% (95% CI 31.7 to 69.4) AEs and 2.2% (95% CI 0 to 7.9) SAEs. Pharmaceutical-grade CBD as adjuvant treatment in paediatric-onset drug-resistant epilepsy may reduce seizure frequency. Existing RCT evidence is mostly in paediatric samples with rare and severe epilepsy syndromes; RCTs examining other syndromes and cannabinoids are needed.",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "Emily Stockings, Dino Zagic, Gabrielle Campbell, Megan Weier, Wayne D Hall, Suzanne Nielsen, Geoffrey K Herkes, Michael Farrell, Louisa Degenhardt",
+        "ParentAuthors": "",
+        "DOI": "10.1136/jnnp-2017-317168",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 5,
+        "Title": "Cannabinoids for the Treatment of Chronic Non-Cancer Pain: An Updated Systematic Review of Randomized Controlled Trials",
+        "ParentTitle": "Journal of Neuroimmune Pharmacology",
+        "ShortTitle": "Lynch, 2015",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2015",
+        "Month": "January",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Springer New York LLC",
+        "Institution": "",
+        "Volume": "10",
+        "Pages": "293-301",
+        "Edition": "",
+        "Issue": "2",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "An updated systematic review of randomized controlled trials examining cannabinoids in the treatment of chronic non-cancer pain was conducted according to PRISMA guidelines for systematic reviews reporting on health care outcomes. Eleven trials published since our last review met inclusion criteria. The quality of the trials was excellent. Seven of the trials demonstrated a significant analgesic effect. Several trials also demonstrated improvement in secondary outcomes (e.g., sleep, muscle stiffness and spasticity). Adverse effects most frequently reported such as fatigue and dizziness were mild to moderate in severity and generally well tolerated. This review adds further support that currently available cannabinoids are safe, modestly effective analgesics that provide a reasonable therapeutic option in the management of chronic non-cancer pain.",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "M. E. Lynch, Mark A. Ware",
+        "ParentAuthors": "",
+        "DOI": "10.1007/s11481-015-9600-6",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 6,
+        "Title": "A Systematic Review of Clinical Studies on the Effect of Psychoactive Cannabinoids in Psychiatric Conditions in Alzheimer Dementia",
+        "ParentTitle": "American Journal of Therapeutics",
+        "ShortTitle": "Lynch, 2015",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Springer New York LLC",
+        "Institution": "",
+        "Volume": "21",
+        "Pages": "1-21",
+        "Edition": "",
+        "Issue": "2",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: The systematic reviews and meta-analyses performed until now did not provide the adequate picture of actual knowledge in the field of neuropsychiatric symptoms treatment using psychotropic cannabinoids in patients with Alzheimer disease (AD). The Study Question: Which is the level of evidence, from quantitative and qualitative point of view, concerning the efficacy and safety of the treatment with psychotropic cannabinoids of  neuropsychiatric symptoms in AD? Study Design: PubMed, EMBASE, Cochrane Database of Systematic Reviews, Google Scholar Data, and Clinicaltrials.gov were searched for randomized clinical trials with cannabinoids in Alzheimer dementia agitation and aggression. Measures and Outcomes: The rationale, the objectives, and the methods used for searching the trials have been established according to PRISMA Criteria 2009. Results: The total number of patients in the 9 publications evaluated in this study, which included data from 6 clinical trials, was 422 patients-treatments, where treatment was a psychoactive cannabinoid or placebo, some of them obtained by multiplying selected patients with the number of cannabinoid treatments in the crossover studies. There are multiple sources of bias in the analyzed studies; 2 elements have prevented conclusive results. One element was polypragmazia, a major role being played by the use of psychotropic drugs other than cannabinoids, in an effort to reduce agitation and aggressive behavior. The second one was the large number of concomitant symptoms, for example, pain (commonly causing anxiety and agitation). Conclusions: No clear conclusion can be drawn on the effectiveness of psychoactive cannabinoids in the treatment of psychiatric manifestations, in particular agitation and aggression, in AD. In the future, large randomized controlled trial with adequate designs, without crossover and for longer duration, adapted to cannabinoid pharmacokinetics, is required to establish the real efficacy and safety of these drugs in aggressive and/or agitated patients with AD.",
+        "Comments": "",
+        "TypeName": "Journal, Article",
+        "Authors": "Horia Paunescu,  Lorena Dima, Isabel Ghita, Laurent¸iu Coman, Petru Iulian Ifteni,  Ion Fulga, Oana Andreia Coman",
+        "ParentAuthors": "",
+        "DOI": "10.1007/s11481-015-9600-6",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 7,
+        "Title": "The Use of Cannabinoids in Colitis: A Systematic Review and Meta-Analysis",
+        "ParentTitle": "Inflamm Bowel Dis",
+        "ShortTitle": "Couch, 2018",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2018",
+        "Month": "April",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Springer New York LLC",
+        "Institution": "",
+        "Volume": "24",
+        "Pages": "680-697",
+        "Edition": "",
+        "Issue": "4",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: Clinical trials investigating the use of cannabinoid drugs for the treatment of intestinal inflammation are anticipated secondary to preclinical literature demonstrating efficacy in reducing inflammation. Methods: We systematically reviewed publications on the benefit of drugs targeting the endo-cannabinoid system in intestinal inflammation. We collated studies examining outcomes for meta-analysis from EMBASE, MEDLINE and Pubmed until March 2017. Quality was assessed according to mSTAIR and SRYCLE score. Results: From 2008 papers, 51 publications examining the effect of cannabinoid compounds on murine colitis and 2 clinical studies were identified. Twenty-four compounds were assessed across 71 endpoints. Cannabidiol, a phytocannabinoid, was the most investigated drug. Macroscopic colitis severity (disease activity index [DAI]) and myeloperoxidase activity (MPO) were assessed throughout publications and were meta-analyzed using random effects models. Cannabinoids reduced DAI in comparison with the vehicle (standard mean difference [SMD] -1.36; 95% CI, -1.62 to-1.09; I2 = 61%). FAAH inhibitor URB597 had the largest effect size (SMD -4.43; 95% CI, -6.32 to -2.55), followed by the synthetic drug AM1241 (SMD -3.11; 95% CI, -5.01 to -1.22) and the endocannabinoid anandamide (SMD -3.03; 95% CI, -4.89 to -1.17; I2 not assessed). Cannabinoids reduced MPO in rodents compared to the vehicle; SMD -1.26; 95% CI, -1.54 to -0.97; I2 = 48.1%. Cannabigerol had the largest effect size (SMD -6.20; 95% CI, -9.90 to -2.50), followed by the synthetic CB1 agonist ACEA (SMD -3.15; 95% CI, -4.75 to -1.55) and synthetic CB1/2 agonist WIN55,212-2 (SMD -1.74; 95% CI, -2.81 to -0.67; I2 = 57%). We found no evidence of reporting bias. No significant difference was found between the prophylactic and therapeutic use of cannabinoid drugs",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Daniel G. Couch, Henry Maudslay, Brett Doleman, Jonathan N. Lund, Saoirse E. O’Sullivan",
+        "ParentAuthors": "",
+        "DOI": "doi: 10.1093/ibd/izy014",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 8,
+        "Title": "Symptomatic treatments for amyotrophic lateral sclerosis/motor neuron disease (Review)",
+        "ParentTitle": "Cochrane Database of Systematic Reviews",
+        "ShortTitle": "Ng, 2017",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2017",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "John Wiley & Sons, Ltd.",
+        "Institution": "",
+        "Volume": "",
+        "Pages": "",
+        "Edition": "",
+        "Issue": "1",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background\r\nMotor neuron disease (MND), which is also known as amyotrophic lateral sclerosis (ALS), causes a wide range of symptoms but the\r\nevidence base for the effectiveness of the symptomatic treatment therapies is limited.\r\nObjectives\r\nTo summarise the evidence from Cochrane Systematic Reviews of all symptomatic treatments for MND.\r\nMethods\r\nWe searched the Cochrane Database of Systematic Reviews (CDSR) on 15 November 2016 for systematic reviews of symptomatic\r\ntreatments for MND. We assessed the methodological quality of the included reviews using the Assessment of Multiple Systematic\r\nReviews (AMSTAR) tool and the GRADE approach. We followed standard Cochrane study (review) selection and data extraction\r\nprocedures. We reported findings narratively and in tables.\r\nMain results\r\nWe included nine Cochrane Systematic Reviews of interventions to treat symptoms in people with MND. Three were empty reviews\r\nwith no included randomised controlled trials (RCTs); however, all three reported on non-RCT evidence and the remaining six included\r\nmostly one or two studies. We deemed all of the included reviews of high methodological quality.\r\nDrug therapy for pain\r\nThere is no RCT evidence in a Cochrane Systematic Review exploring the efficacy of drug therapy for pain in MND. Treatment for cramps There is evidence (13 RCTs, N = 4012) that for the treatment of cramps in MND, compared to placebo:\r\n- memantine and tetrahydrocannabinol (THC) are probably ineffective (moderate-quality evidence);\r\n- vitamin E may have little or no effect (low-quality evidence); and\r\n- the effects of L-threonine, gabapentin, xaliproden, riluzole, and baclofen are uncertain as the evidence is either very low quality or the\r\ntrial specified the outcome but did not report numerical data.\r\nThe review reported adverse effects of riluzole, but it is not clear whether other interventions had adverse effects.\r\nTreatment for spasticity\r\nIt is uncertain whether an endurance-based exercise programme improved spasticity or quality of life, measured at three months after\r\nthe programme, as the quality of evidence is very low (1 RCT, comparison \u201Cusual activities\u201D, N = 25). The review did not evaluate\r\nother approaches, such as use of baclofen as no RCTs were available.\r\nMechanical ventilation for supporting respiratory function\r\nNon-invasive ventilation (NIV) probably improves median survival and quality of life in people with respiratory insufficiency and\r\nnormal tomoderately impaired bulbar function compared to standard care, and improves quality of life but not survival for people with\r\npoor bulbar function (1 RCT, N = 41, moderate-quality evidence; a second RCT did not provide data). The review did not evaluate\r\nother approaches such as tracheostomy-assisted (\u2019invasive\u2019) ventilation, or assess timing of NIV initiation.\r\nTreatment for sialorrhoea\r\nA single session of botulinum toxin type B injections to parotid and submandibular glands probably improves sialorrhoea and quality\r\nof life at up to 4 weeks compared to placebo injections, but not at 8 or 12 weeks after the injections (moderate-quality evidence from\r\n1 placebo-controlled RCT, N = 20). The review authors found no trials of other approaches.\r\nEnteral tube feeding for supporting nutrition\r\nThere is no RCT evidence in a Cochrane Systematic Review to support benefit or harms of enteral tube feeding in supporting nutrition\r\nin MND.\r\nRepetitive transcranial magnetic stimulation\r\nIt is uncertain whether repetitive transcranial magnetic stimulation (rTMS) improves disability or limitation in activity in MND in\r\ncomparison with sham rTMS (3 RCTs, very low quality evidence, N = 50).\r\nTherapeutic exercise\r\nThere is evidence that exercise may improve disability in MND at three months after the exercise programme, but not quality of life,\r\nin comparison with \u201Cusual activities\u201D or \u201Cusual care\u201D including stretching (2 RCTs, low-quality evidence, N = 43).\r\nMultidisciplinary care\r\nThere is no RCT evidence in a Cochrane Systematic Review to demonstrate any benefit or harm for multidisciplinary care in MND.\r\nNone of the reviews, other than the review of treatment for cramps, reported that adverse events occurred. However, the trials were too\r\nsmall for reliable adverse event reporting.\r\nAuthors\u2019 conclusions\r\nThis overview has highlighted the lack of robust evidence in Cochrane Systematic Reviews on interventions to manage symptoms\r\nresulting from MND. It is important to recognise that clinical trials may fail to demonstrate efficacy of an intervention for reasons\r\nother than a true lack of efficacy, for example because of insufficient statistical power, the wrong choice of dose, insensitive outcome\r\nmeasures or inappropriate participant eligibility. The trials were mostly too small to reliably assess adverse effects of the treatments. The\r\nnature ofMNDmakes it difficult to research clinically accepted or recommended practice, regardless of the level of evidence supporting\r\nthe practice. It would not be ethical, for example, to design a placebo-controlled trial for treatment of pain in MND or to withhold\r\nmultidisciplinary care where such care is available. It is therefore highly unlikely that there will ever be classically designed placebocontrolled\r\nRCTs in these areas. We need more research with appropriate study designs, robust methodology, and of sufficient duration to address the changing needsof\r\npeople with MND and their caregivers-associated with MND disease progression and mortality. There is a significant gap in studies\r\nassessing the effectiveness of interventions for symptoms relating to MND, such as pseudobulbar emotional lability and cognitive and\r\nbehavioural difficulties. Future studies should use appropriate outcome measures that are reliable, have internal and external validity,\r\nand are sensitive to change in what is being measured (such as quality of life).",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Louisa Ng, Fary Khan, Carolyn A Young, Mary Galea",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1002/14651858.CD011776.pub2",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 9,
+        "Title": "Efficacy and adverse event profile of cannabidiol and medicinal cannabis for treatment-resistant epilepsy: Systematic review and meta-analysis",
+        "ParentTitle": "Epilepsy & Behavior",
+        "ShortTitle": "De Carvalho, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "John Wiley & Sons, Ltd.",
+        "Institution": "",
+        "Volume": "102",
+        "Pages": "",
+        "Edition": "",
+        "Issue": "1",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "This paper aimed to systematically examine the efficacy and adverse event (AE) profile of cannabidiol and medicinal cannabis by analyzing qualitative and meta-analytic data. We used the terms (“Cannabidiol” OR “Cannabis”) AND“Epilepsy” AND (“Treatment” OR “Therapeutics”) as keywords to retrieve studies indexed on PubMed, ScienceDirect, and CENTRAL databases. The inclusion criteriawere as follows: clinical studieswith a longitudinal observational design and intervention using cannabinoid derivatives, especially cannabidiol and medicinal cannabis, whereby some results involved the frequency of epileptic seizures. We used Cochrane Collaboration's Review Manager software (RevMan 5.1.6) for the meta-analysis and dichotomized the articles to a confidence interval of 95%. From 236 articles, we selected 16 for descriptive analysis; we selected only 4 for the metaanalysis. According to the results, a statisticallymeaningful effect of cannabidiol compared with placebowas observed (p b 0.00001).When comparing treatment with cannabidiol or medicinal cannabis, significance was not found for the AE profile (p = 0.74). As AEs for cannabidiol were more common under short-term than under long-term treatment (p b 0.00001), this approach was favorable in the long term. Furthermore, cannabidiol is more effective than placebo, regardless of the etiology of epileptic syndromes and dosage. Overall, the AE profile did not differ across treatments with cannabidiol or medicinal cannabis, though it did differ favorably for longterm than for short-term treatment.",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Renandro de Carvalho Reis,Kelson James Almeida , Luciano da Silva Lopes, Cíntia Maria de Melo Mendes , Edson Bor-Seng-Shu ",
+        "ParentAuthors": "",
+        "DOI": "https://doi.org/10.1016/j.yebeh.2019.106635",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 10,
+        "Title": "Benefits and harms of cannabis in chronic pain or post-traumatic stress disorder: a systematic review",
+        "ParentTitle": "Query",
+        "ShortTitle": "Kansagara D, et al. 2017",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2011",
+        "Month": "August",
+        "StandardNumber": "",
+        "City": "Portland",
+        "Country": "EEUU",
+        "Publisher": "John Wiley & Sons, Ltd.",
+        "Institution": "Evidence-based Synthesis Program (ESP) Center",
+        "Volume": "102",
+        "Pages": "1-135",
+        "Edition": "",
+        "Issue": "1",
+        "Availability": "",
+        "URL": "https://search.proquest.com/docview/1935253884?accountid=28179 NS",
+        "OldItemId": "",
+        "Abstract": "Eight states and the District of Columbia have legalized cannabis use for recreational purposes, and 28 states plus the District of Columbia have legalized cannabis for medical purposes. Recent studies suggest that 45-80% of individuals who seek cannabis for medical purposes do so for pain management, and an estimated 6%-39% of patients prescribed opioid medication for pain are also utilizing cannabis. Over one-third of patients seeking cannabis for medical purposes list post-traumatic stress disorder (PTSD) as the primary reason for the request. Approximately 15% of Veterans who are treated in Department of Veterans Affairs (VA) outpatient PTSD clinics report recent (past 6 months) cannabis use. Given the social, political, and legal changes surrounding cannabis use, physicians in both VA and non-VA settings will increasingly need to engage in evidence-informed discussions about the potential benefits and harms of cannabis use with their patients. Despite the rapidly moving legislative landscape, there is little comprehensive and critically appraised information available about what is known and not known about cannabis use for the treatment of chronic pain or PTSD. The objectives of this systematic review are to: 1) assess the physical and mental health outcome effects of cannabis in patients with chronic pain; 2) assess the physical and mental health outcome effects of cannabis in patients with PTSD; 3) assess the impact of short- and long-term cannabis use on the risk of adverse effects such as pulmonary diseases, cardiovascular diseases, cancer, cannabis use disorder (CUD), and psychosis in the general adult population; and 4) provide a broad overview of more recently recognized “emerging harms” of cannabis use.",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Devan Kansagara, Maya O’Neil, Shannon Nugent, Michele Freeman, Allison Low, Karli Kondo, Camille Elven, Bernadette Zakher, Makalapua Motu’apuaka, Robin Paynter, Benjamin J. Morasco",
+        "ParentAuthors": "",
+        "DOI": "",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 11,
+        "Title": "Cannabis for the treatment of Crohn’s disease (Review)",
+        "ParentTitle": "Cochrane Database of Systematic Reviews",
+        "ShortTitle": "Kafil, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "August",
+        "StandardNumber": "",
+        "City": "Portland",
+        "Country": "EEUU",
+        "Publisher": "John Wiley & Sons, Ltd.",
+        "Institution": "Evidence-based Synthesis Program (ESP) Center",
+        "Volume": "102",
+        "Pages": "1-135",
+        "Edition": "",
+        "Issue": "6",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background Crohn’s disease (CD) is a chronic immune-mediated condition of transmural inflammation in the gastrointestinal tract, associated with significant morbidity and decreased quality of life. The endocannabinoid systemprovides a potential therapeutic target for cannabis and cannabinoids and animal models have shown benefit in decreasing inflammation. However, there is also evidence to suggest transient adverse events such as weakness, dizziness and diarrhea, and an increased risk of surgery in people with CD who use cannabis. Objectives The objectives were to assess the efficacy and safety of cannabis and cannabinoids for induction and maintenance of remission in people with CD. Search methods We searchedMEDLINE, Embase, AMED, PsychINFO, theCochrane IBDGroup epecializedRegister,CENTRAL,ClinicalTrials.Gov, and the European Clinical Trials Register up to 17 October 2018. We searched conference abstracts, references and we also contacted researchers in this field for upcoming publications. Selection criteria Randomized controlled trials comparing any form of cannabis or its cannabinoid derivatives (natural or synthetic) to placebo or an active therapy for adults with Crohn’s disease were included. Data collection and analysis Two authors independently screened search results, extracted data and assessed bias using the Cochrane risk of bias tool. The primary outcomes were clinical remission and relapse. Remission is commonly defined as a Crohn’s disease activity index (CDAI) of < 150. Relapse is defined as a CDAI > 150. Secondary outcomes included clinical response, endoscopic remission, endoscopic improvement, histological improvement, quality of life, C-reactive protein (CRP) and fecal calprotectin measurements, adverse events (AEs), serious AEs, withdrawal due to AEs, and cannabis dependence and withdrawal effects. We calculated the risk ratio (RR) and corresponding 95%confidence interval (95%CI) for dichotomous outcomes. For continuous outcomes, we calculated themean difference (MD) and 95% CI. Data were combined for analysis when the interventions, patient groups and outcomes were sufficiently similar (determined by consensus). Data were analyzed on an intention-to-treat basis and the overall certainty of the evidence supporting the outcomes was evaluated using the GRADE criteria.Main results Three studies (93 participants) that assessed cannabis in people with active CD met the inclusion criteria. One ongoing study was also identified. Participants in two of the studies were adults with active Crohn’s disease who had failed at least one medical treatment. The inclusion criteria for the third study were unclear. No studies that assessed cannabis therapy in quiescent CD were identified. The studies were not pooled due to differences in the interventional drug. One small study (N = 21) compared eight weeks of treatment with cannabis cigarettes containing 115 mg of D9-tetrahydrocannabinol (THC) to placebo cigarettes containing cannabis with the THC removed in participants with active CD. This study was rated as high risk of bias for blinding and other bias (cannabis participants were older than placebo). The effects of cannabis on clinical remission were unclear. Forty-five per cent (5/11) of the cannabis group achieved clinical remission compared with 10% (1/10) of the placebo group (RR 4.55, 95% CI 0.63 to 32.56; very low certainty evidence). A difference was observed in clinical response (decrease in CDAI score of >100 points) rates. Ninety-one per cent (10/11) of the cannabis group achieved a clinical response compared to 40% (4/10) of the placebo group (RR 2.27, 95% CI 1.04 to 4.97; very low certainty evidence). More AEs were observed in the cannabis cigarette group compared to placebo (RR 4.09, 95% CI 1.15 to 14.57; very low certainty evidence). These AEs were considered to be mild in nature and included sleepiness, nausea, difficulty with concentration, memory loss, confusion and dizziness. This study did not report on serious AEs or withdrawal due to AEs. One small study (N = 22) compared cannabis oil (5% cannabidiol) to placebo oil in people with active CD. This study was rated as high risk of bias for other bias (cannabis participants were more likely than placebo participants to be smokers). There was no difference in clinical remission rates. Forty per cent (4/10) of cannabis oil participants achieved remission at 8 weeks compared to 33% (3/9) of the placebo participants (RR 1.20, 95% CI 0.36 to 3.97; very low certainty evidence). There was no difference in the proportion of participants who had a serious adverse event. Ten per cent (1/10) of participants in the cannabis oil group had a serious adverse event compared to 11% (1/9) of placebo participants (RR 0.90, 95% CI 0.07 to 12.38, very low certainty evidence). Both serious AEs were worsening Crohn’s disease that required rescue intervention. This study did not report on clinical response, CRP, quality of life or withdrawal due to AEs. One small study (N= 50) compared cannabis oil (15% cannabidiol and 4% THC) to placebo in participants with active CD. This study was rated as low risk of bias. Differences in CDAI and quality of life scores measured by the SF-36 instrument were observed. The mean quality of life score after 8 weeks of treatment was 96.3 in the cannabis oil group compared to 79.9 in the placebo group (MD 16.40, 95% CI 5.72 to 27.08, low certainty evidence). After 8 weeks of treatment, the mean CDAI score was118.6 in the cannabis oil group compared to 212.6 in the placebo group (MD -94.00, 95%CI -148.86 to -39.14, low certainty evidence). This study did not report on clinical remission, clinical response, CRP or AEs. Authors’ conclusions The effects of cannabis and cannabis oil on Crohn’s disease are uncertain. Thus no firm conclusions regarding the efficacy and safety of cannabis and cannabis oil in adults with active Crohn’s disease can be drawn. The effects of cannabis or cannabis oil in quiescent Crohn’s disease have not been investigated. Further studies with larger numbers of participants are required to assess the potential benefits and harms of cannabis in Crohn’s disease. Future studies should assess the effects of cannabis in people with active and quiescent Crohn’s disease. Different doses of cannabis and delivery modalities should be investigated.",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Kafil TS, Nguyen TM, MacDonald JK, Chande N",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1002/14651858.CD012853.pub2.",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 12,
+        "Title": "Pharmacotherapeutic considerations for use of cannabinoids to relieve pain in patients with malignant diseases",
+        "ParentTitle": "Journal of Pain Research",
+        "ShortTitle": "Darkovska-Serafimovska M, et al. 2018",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2018",
+        "Month": "April",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "11",
+        "Pages": "837–842",
+        "Edition": "",
+        "Issue": "6",
+        "Availability": "",
+        "URL": "https://www.readcube.com/articles/10.2147/jpr.s160556",
+        "OldItemId": "",
+        "Abstract": "Purpose: The aim of this review was to assess the efficacy of cannabis preparations for relieving pain in patients with malignant diseases, through a systematic review of randomized controlled trials (RCTs), which were predominantly double-blind trials that compared cannabis preparation to a placebo. Methods: An electronic search of all literature published until June 2017 was made in MEDLINE/ PubMed, Embase, The Cochrane Controlled Trials Register and specific web pages devoted to cannabis. Results: Fifteen of the 18 trials demonstrated a significant analgesic effect of cannabinoids as compared to placebo. The most commonly reported adverse effects were generally well tolerated, mild to moderate. The main side effects were drowsiness, nausea, vomiting and dry mouth. There is evidence that cannabinoids are safe and modestly effective in neuropathic pain and also for relieving pain in patients with malignant diseases. The proportion of “responders” (patients who at the end of 2 weeks of treatment reported ≥30% reduction in pain intensity on a scale of 0-10, which is considered to be clinically important) was 43% in comparison with placebo (21%). Conclusion: The target dose for relieving pain in patients with malignant diseases is most likely about 10 actuations per day, which is about 27 mg tetrahydrocannabinol (THC) and 25 mg cannabidiol (CBD), and the highest approved recommended dose is 12 actuations per day (32 mg THC/30 mg CBD). Further large studies of cannabinoids in homogeneous populations are required.",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Marija Darkovska-Serafimovska, Tijana Serafimovska, Zorica Arsova-Sarafinovska, Sasho Stefanoski, Zlatko Keskovski, Trajan Balkanov",
+        "ParentAuthors": "",
+        "DOI": "10.2147/JPR.S160556",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 13,
+        "Title": "Benefits and Harms of Plant-Based Cannabis for Posttraumatic Stress Disorder",
+        "ParentTitle": "Annals of Internal Medicine",
+        "ShortTitle": "O´neil, 2017",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2017",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "167",
+        "Pages": "332-340",
+        "Edition": "",
+        "Issue": "5",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: Cannabis is available from medical dispensaries for treating posttraumatic stress disorder (PTSD) in many states of the union, yet its efficacy in treating PTSD symptoms remains uncertain. Purpose: To identify ongoing studies and review existing evidence regarding the benefits and harms of plant-based cannabis preparations in treating PTSD in adults. Data Sources: MEDLINE, the Cochrane Library, and other sources from database inception to March 2017. Study Selection: English-language systematic reviews, trials, and observational studies with a control group that reported PTSD symptoms and adverse effects of plant-based cannabis use in adults with PTSD. Data Extraction: Study data extracted by 1 investigator was checked by a second reviewer; 2 reviewers independently assessed study quality, and the investigator group graded the overall strength of evidence by using standard criteria. Data Synthesis: Two systematic reviews, 3 observational studies, and no randomized trials were found. The systematic reviews reported insufficient evidence to draw conclusions about benefits and harms. The observational studies found that compared with nonuse, cannabis did not reduce PTSD symptoms. Studies had medium and high risk of bias, and overall evidence was judged insufficient. Two randomized trials and 6 other studies examining outcomes of cannabis use in patients with PTSD are ongoing and are expected to be completed within 3 years. Limitation: Very scant evidence with medium to high risk of bias. Conclusion: Evidence is insufficient to draw conclusions about the benefits and harms of plant-based cannabis preparations in patients with PTSD, but several ongoing studies may soon provide important results.",
+        "Comments": "",
+        "TypeName": "Journal article",
+        "Authors": "Maya E. O’Neil, Shannon M. Nugent,  Benjamin J. Morasco, Michele Freeman,  Allison Low, Karli Kondo, Bernadette Zakher, Camille Elven,  Makalapua Motu’apuaka,  Robin Paynter,  and Devan Kansagara",
+        "ParentAuthors": "",
+        "DOI": "10.2147/JPR.S160556",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 14,
+        "Title": "The Effectiveness of Cannabinoids in the Treatment of Posttraumatic Stress Disorder (PTSD): A Systematic Review",
+        "ParentTitle": "Journal of Dual Diagnosis",
+        "ShortTitle": "Hindocha, 2020",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Taylor & Francis",
+        "Institution": "",
+        "Volume": "16",
+        "Pages": "120-139",
+        "Edition": "",
+        "Issue": "1",
+        "Availability": "",
+        "URL": "https://doi.org/10.1080/15504263.2019.1652380",
+        "OldItemId": "",
+        "Abstract": "Objectives: Posttraumatic stress disorder (PTSD) is a potentially debilitating mental health problem. There has been a recent surge of interest regarding the use of cannabinoids in the treatment of PTSD. We therefore sought to systematically review and assess the quality of the clinical evidence of the effectiveness of cannabinoids for the treatment of PTSD. Method: We included all studies published until December 2018 where a patient has had PTSD diagnosed and had been prescribed or were using a cannabinoid for the purpose of reducing PTSD symptoms. Our primary outcome measure was the reduction in PTSD symptoms using a validated instrument. In the absence of randomized controlled trials, we included the next best available levels of evidence including observational and retrospective studies and case reports. We assessed risk of bias and quality using validated tools appropriate for the study design. Results: We included 10 studies in this review, of which only one study was a pilot randomized, double-blind, placebo-controlled, crossover clinical trial. Every identified study had medium to high risk of bias and was of low quality. We found that cannabinoids may decrease PTSD symptomology, in particular sleep disturbances and nightmares. Conclusions: Most studies to date are small and of low quality, with significant limitations to the study designs precluding any clinical recommendations about its use in routine clinical practice. Evidence that cannabinoids may help reduce global PTSD symptoms, sleep disturbances, and nightmares indicates that future well-controlled, randomized, double-blind clinical trials are highly warranted. PROSPERO registration number: 121646.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Hindocha, C.Cousijn, J. Rall, M. Bloomfield, M. A.P.",
+        "ParentAuthors": "",
+        "DOI": "10.1080/15504263.2019.1652380",
+        "Keywords": "CBD; Cannabis; THC; nabilone; posttraumatic stress disorder; treatments",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 15,
+        "Title": "Cannabis for pain in orthopedics: a systematic review focusing on study methodology",
+        "ParentTitle": "Canadian Journal of Surgery",
+        "ShortTitle": "Madden K, et al. 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "September",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Taylor & Francis",
+        "Institution": "",
+        "Volume": "62",
+        "Pages": "369-380",
+        "Edition": "",
+        "Issue": "6",
+        "Availability": "",
+        "URL": "http://canjsurg.ca/62-6-369/",
+        "OldItemId": "",
+        "Abstract": "Background: Medical cannabis use is an emerging topic of interest in orthopedics. Although there is a large amount of literature on medical cannabis use for managing various types of pain, few studies have focused on orthopedic conditions. There is little high-quality evidence in core orthopedic areas. The objective of this study was to summarize the literature on the efficacy of cannabis use for pain related to orthopedic conditions. Methods: We conducted a systematic review of the literature on the use of cannabinoids for pain management in core orthopedic conditions. Two independent reviewers extracted information on reporting quality, risk of bias, drugs, population, control, duration of study, pain outcomes and the authors’ conclusions regarding efficacy for pain outcomes. Results: We identified 33 orthopedic studies, including 21 primary studies and 12 reviews. Study quality was generally low to moderate. Six of the included studies had a control group and 15 were noncontrolled studies. Methodologies, drugs and protocols of administration varied greatly across studies. Study conclusions were generally positive in noncontrolled studies and mixed in controlled studies. Studies using higher doses tended to conclude that cannabis use was effective, but the potential for harmful effects may also be increased with higher doses. Conclusion: Variability in the methodologies used in cannabis research makes it challenging to draw conclusions about dosing, routes and frequency of administration. Most of the existing evidence suggests that medical cannabis use is effective, but this efficacy has been demonstrated only when either there is no comparator or cannabis is compared with placebo. Studies using an active comparator have not demonstrated efficacy. Future research should focus on improving study reporting and methodologic quality so that protocols that optimize pain control while minimizing harmful effects can be determined.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Kim Madden, PhD; Annie George, BHSc; Niek J. van der Hoek, MD; Felipe Moreira Borim, MD; George Mammen, PhD; Mohit Bhandari, MD, PhD",
+        "ParentAuthors": "",
+        "DOI": "10.1503/cjs.001018",
+        "Keywords": "10.1503/cjs.001018",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 16,
+        "Title": "Oral cannabinoid for the prophylaxis of chemotherapy-induced nausea and vomiting—a systematic review and meta-analysis",
+        "ParentTitle": "Supportive Care in Cancer",
+        "ShortTitle": "Chow, 2020",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "September",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Springer",
+        "Institution": "",
+        "Volume": "",
+        "Pages": "1-9",
+        "Edition": "",
+        "Issue": "6",
+        "Availability": "",
+        "URL": "http://canjsurg.ca/62-6-369/",
+        "OldItemId": "",
+        "Abstract": "Introduction: Chemotherapy-induced nausea and vomiting (CINV) is a burdensome adverse event frequently associated with chemotherapy treatment of cancer. Evidence suggests that cannabinoid CB2 receptors are present in brainstem neurons, and thus, there may exist a role for cannabinoids to counter CINV. The aim of this paper is to conduct a systematic review and meta-analysis of the efficacy and safety of oral cannabinoids compared with other treatments as documented in randomized controlled trials (RCTs). Methods: A literature search was conducted using Ovid MEDLINE up until December 31, 2018; Embase Classic and Embase up until 2018 week 53; and Cochrane Central Register of Controlled Trials up until November 2018. Study data were extracted and included in this meta-analysis if they reported on at least one of the following efficacy endpoints: no nausea and no vomiting, no nausea, and no vomiting. The Mantel-Haenszel method and random effects analysis model were used, to generate odds ratio (OR) and accompanying 95% confidence intervals (CI). Results: In the setting of prophylactic treatment against both nausea and vomiting, oral cannabinoid was more efficacious than placebo or other studied antiemetic treatments. When controlling for vomiting, oral cannabinoid was equally as efficacious as others. Against nausea, oral cannabinoid was equally as effective as other treatments. A greater percentage of patients administered oral cannabinoid for CINV experienced dysphoria, euphoria, and sedation. Conclusion: Although there exists some evidence suggesting that oral cannabinoids may have a role in controlling for emesis from a neurophysiological perspective, these conclusions are currently not mirrored in the published RCTs to date. However, there exists only a limited number of RCTs, comparisons with older treatment regimens and a lack of standard reporting practice across published literature. Further RCTs should investigate the efficacy and safety of oral cannabinoids, to secure a better picture of the efficacy of oral cannabinoids against CINV.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Chow, Ronald Valdez, Crystal Chow, Natalie Zhang, Daniel Im, James Sodhi, Emily Lock, Michael",
+        "ParentAuthors": "",
+        "DOI": "10.1007/s00520-019-05280-4",
+        "Keywords": "Cannabinoid; Chemotherapy-induced nausea and vomiting; Dronabinol; Efficacy; Nabilone; Safety",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 17,
+        "Title": "Medical Cannabinoids in Children and Adolescents: A Systematic Review",
+        "ParentTitle": "PEDIATRICS",
+        "ShortTitle": "Wong, 2017",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2017",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "140",
+        "Pages": "1-9",
+        "Edition": "",
+        "Issue": "5",
+        "Availability": "",
+        "URL": "http://canjsurg.ca/62-6-369/",
+        "OldItemId": "",
+        "Abstract": "CONTEXT: Legalization of medical marijuana in many states has led to a widening gap between the accessibility and the evidence for cannabinoids as a medical treatment. OBJECTIVE: To systematically review published reports to identify the evidence base of cannabinoids as a medical treatment in children and adolescents. DATA SOURCES: Based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, a search of PubMed, Medline, and the Cumulative Index to Nursing and Allied Health Literature databases was conducted in May 2017. STUDY SELECTION: Searching identified 2743 citations, and 103 full texts were reviewed. DATA EXTRACTION: Searching identified 21 articles that met inclusion criteria, including 22 studies with a total sample of 795 participants. Five randomized controlled trials, 5 retrospective chart reviews, 5 case reports, 4 open-label trials, 2 parent surveys, and 1 case series were identified. RESULTS: Evidence for benefit was strongest for chemotherapy-induced nausea and vomiting, with increasing evidence of benefit for epilepsy. At this time, there is insufficient evidence to support use for spasticity, neuropathic pain, posttraumatic stress disorder, and Tourette syndrome. LIMITATIONS: The methodological quality of studies varied, with the majority of studies lacking control groups, limited by small sample size, and not designed to test for the statistical significance of outcome measures. Studies were heterogeneous in the cannabinoid composition and dosage and lacked long-term follow-up to identify potential adverse effects. CONCLUSIONS: Additional research is needed to evaluate the potential role of medical cannabinoids in children and adolescents, especially given increasing accessibility from state legalization and potential psychiatric and neurocognitive adverse effects identified from studies of recreational cannabis use.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "",
+        "ParentAuthors": "",
+        "DOI": "DOI: https:// doi. org/ 10. 1542/ peds. 2017- 1818",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 18,
+        "Title": "Cannabis-based products for pediatric epilepsy: An updated systematic review",
+        "ParentTitle": "Seizure",
+        "ShortTitle": "Elliott, 2020",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "W.B. Saunders Ltd",
+        "Institution": "",
+        "Volume": "75",
+        "Pages": "18-22",
+        "Edition": "",
+        "Issue": "5",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Purpose: To provide an up-to-date summary of the benefits and harms of cannabis-based products for epilepsy in children. Methods: We updated our earlier systematic review, by searching for studies published up to May 2019. We included randomized controlled trials (RCTs) and non-randomized studies (NRS) involving cannabis-based products administered to children with epilepsy. Outcomes were seizure freedom, seizure frequency, quality of life, sleep, status epilepticus, death, gastrointestinal adverse events, and emergency room visits. Results: Thirty-five studies, including four RCTs, have assessed the benefits and harms of cannabis-based products in pediatric epilepsy (12 since April 2018). All involved cannabis-based products as adjunctive treatment, and most involved cannabidiol. In the RCTs, there was no statistically significant difference between cannabidiol and placebo for seizure freedom (relative risk 6.77, 95 % confidence interval [CI] 0.36–128.38), quality of life (mean difference [MD] 0.6, 95 %CI –2.6 to 3.9), or sleep disruption (MD –0.3, 95 %CI –0.8 to 0.2). Data from both RCTs and NRS suggest that cannabidiol reduces seizure frequency and increases treatment response; however, there is an increased risk of gastrointestinal adverse events. Conclusion: Newly available evidence supports earlier findings that cannabidiol probably reduces the frequency of seizures among children with drug-resistant epilepsy. PROSPERO: CRD42018084755",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Elliott, Jesse, DeJean, Deirdre, Clifford, Tammy, Coyle, Doug, Potter, Beth K., Skidmore, Becky, Alexander, Christine, Repetski, Alexander E., Shukla, Vijay, McCoy, Bláthnaid, Wells, George A.",
+        "ParentAuthors": "",
+        "DOI": "10.1016/j.seizure.2019.12.006",
+        "Keywords": "Cannabidiol; Efficacy; Living systematic review; Paediatric drug-resistant epilepsy; Safety; Seizure",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 19,
+        "Title": "Adjunctive Cannabidiol in Patients with Dravet Syndrome: A Systematic Review and Meta-Analysis of Efficacy and Safety",
+        "ParentTitle": "Seizure",
+        "ShortTitle": "Lattanzi, 2020",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2020",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "Springer International Publishing",
+        "Institution": "",
+        "Volume": "",
+        "Pages": "1-13",
+        "Edition": "",
+        "Issue": "5",
+        "Availability": "",
+        "URL": "https://doi.org/10.1007/s40263-020-00708-6",
+        "OldItemId": "",
+        "Abstract": "Background: Dravet syndrome (DS) is one of the most severe forms of drug-resistant epilepsy and available interventions fail to control seizures in most patients. Cannabidiol (CBD) is the first in a new class of antiepileptic drugs with a distinctive chemical structure and mechanism of action. Objective: The aim of this systematic review was to evaluate the efficacy and safety of CBD as adjunctive treatment for seizures in patients with DS using meta-analytical techniques. Methods: We searched for randomized, placebo-controlled, single- or double-blinded trials. Main outcomes included ≥ 50% reduction in baseline convulsive seizure frequency and the incidence of treatment withdrawal and adverse events (AEs). Risk ratios (RRs) with 95% confidence intervals (95% CIs) were estimated through the inverse variance method. Results: Three trials were included involving 359 participants, 228 for CBD and 131 for placebo groups. In all trials, the active treatment was a plant-derived pharmaceutical formulation of purified CBD oral solution. The pooled RR for 50% response during the treatment was 1.69 (95% CI 1.21–2.36, p = 0.002). Across the trials, treatment was discontinued in 20 (9.0%) and 3 (2.3%) cases in the add-on CBD and placebo groups, respectively, the RR for CBD withdrawal was 3.12 (95% CI 1.07–9.10; p = 0.037). The RR to develop any AE during add-on CBD treatment was 1.06 (95% CI 0.87–1.28, p = 0.561). AEs significantly associated with adjunctive CBD were somnolence, decreased appetite, diarrhea, and increased serum aminotransferases. Conclusions: Adjunctive CBD resulted in a greater reduction in convulsive seizure frequency than placebo and a higher rate of AEs in patients with DS presenting with seizures uncontrolled by concomitant antiepileptic therapy.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Lattanzi, Simona Brigo, Francesco Trinka, Eugen Zaccara, Gaetano Striano, Pasquale Del Giovane, Cinzia Silvestrini, Mauro",
+        "ParentAuthors": "",
+        "DOI": "10.1007/s40263-020-00708-6",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 20,
+        "Title": "Cannabinoids for nausea and vomiting related to chemotherapy: Overview of systematic reviews",
+        "ParentTitle": "Phytotherapy Research",
+        "ShortTitle": "Schussel, 2017",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2017",
+        "Month": "October",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Brasil",
+        "Publisher": "John Wiley & Sons, Ltd.",
+        "Institution": "Escola Paulista de Medicina, Universidade Federal de São Paulo (UNIFESP)",
+        "Volume": "32",
+        "Pages": "567-576",
+        "Edition": "",
+        "Issue": "4",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Nausea and vomiting are common and distressing adverse events of chemotherapy. This review focuses on the findings and quality of systematic reviews (SRs) of cannabinoids for chemotherapy‐induced nausea and vomiting (CINV). Review of SRs, a systematic literature search, was conducted in several electronic databases and included SRs evaluating cannabinoids for CINV in cancer patients. Methodological quality and quality of reporting were evaluated by AMSTAR and PRISMA, respectively. Initial search retrieved 2,206 records, and 5 SRs were included. On the basis of findings of the sole SR judged as high methodological quality, cannabinoids seem to be more effective than placebo, equal to prochlorperazine for reducing CINV, and to be preferred by patients. The response to different combinations of antiemetic agents seems to be equal to 1 antiemetic alone. The average of AMSTAR score was 5, and the average of PRISMA score was 13.2. Cannabinoids represent a valuable option for treating CINV, despite the adverse events related to treatment, such as drowsiness and cognitive impairment. There is no good quality evidence to recommend or not the use of cannabinoids for CINV. More studies are still needed to evaluate the effectiveness of cannabinoids when compared with modern antiemetics.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Victor Schussel, Lucas Kenzo, Andreia Santos, Júlia Bueno, Ellen Yoshimura, Carolina de Oliveira Cruz Latorraca, Daniela Vianna Pachito, Rachel Riera",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1002/ptr.5975",
+        "Keywords": "antiemetics, cannabinoids, chemotherapy, nausea, systematic review, vomiting",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 21,
+        "Title": "Daily Practice Managing Resistant Multiple Sclerosis Spasticity With Delta-9-Tetrahydrocannabinol: Cannabidiol Oromucosal Spray: A Systematic Review of Observational Studies",
+        "ParentTitle": "Journal of Central Nervous System Disease",
+        "ShortTitle": "Akgun, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "January",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "11",
+        "Pages": "1 - 18",
+        "Edition": "",
+        "Issue": "4",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "ABSTRACT Bac kgro und/purpose: Spasticity is one of the most common symptoms in people with multiple sclerosis (MS). Conventional anti-spasticity agents have limitations in their efficacy and tolerability. Delta-9-tetrahydrocannabinol: cannabidiol (THC:CBD) spray, a cannabinoidbased medicine, is approved as an add-on therapy for MS spasticity not adequately controlled by other anti-spasticity medications. The results from randomized controlled trials (RCTs) have demonstrated a reduction in the severity of spasticity and associated symptoms. However, RCTs do not always reflect real-life outcomes. We systematically reviewed the complementary evidence from non-interventional realworld studies. Methods : A systematic literature review was conducted to identify all non-RCT publications on THC:CBD spray between 2011 and 2017. Data on study design, patient characteristics, effectiveness, and safety outcomes were extracted from those publications meeting our inclusion criteria. Results : In total, we reviewed 14 real-world publications including observational studies and treatment registries. The proportion of patients reaching the threshold of minimal clinical important difference (MCID), with at least a 20% reduction of the spasticity Numeric Rating Scale (NRS) score after 4 weeks ranged from 41.9% to 82.9%. The reduction in the mean NRS spasticity score after 4 weeks was maintained over 6-12 months. The average daily dose was five to six sprays. Delta-9-tetrahydrocannabinol: cannabidiol was well tolerated in the evaluated studies in the same way as in the RCTs. No new or unexpected adverse events or safety signals were reported in everyday clinical practice. Conclusions: The data evaluated in this systematic review provide evidence for the efficacy and safety of THC:CBD in clinical practice and confirm results obtained in RCTs.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Katja Akgün, Ute Essner , Cordula Seydel and Tjalf Ziemssen",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1177/1179573519831997",
+        "Keywords": "Central nervous system, multiple sclerosis, spasticity, cannabinoids, real-world data",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 22,
+        "Title": "Inhaled cannabis for chronic neuropathic pain: an individual patient data meta-analysis",
+        "ParentTitle": "Journal of Pain Research",
+        "ShortTitle": "Andrae, 2015",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2015",
+        "Month": "January",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Norte america",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "16",
+        "Pages": "1 - 12",
+        "Edition": "",
+        "Issue": "4",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: In 2016, the global number of individuals living with dementia was 43.8 million, representing a 117% increase\r\nfrom 1990\u2014mainly due to increases in aging and population growth. Up to 90% of individuals with dementia experience\r\nneuropsychiatric symptoms (NPS). However, the limitations of current treatments for NPS have drivent he search for safer\r\npharmacotherapies\u2014including cannabinoids.\r\nAim: To assess the efficacy and acceptability of cannabinoids for the treatment of NPS in individuals with dementia.\r\nDesign: Systematic review and meta-analysis of clinical trials.\r\nSetting and participants: Of 6,902 papers, 9 were eligible (n \u00BC 205, 44% female, 78 + 7 years, 85% Alzheimer disease).\r\nTrials were in North America and Europe and explored tetrahydrocannabinol (n \u00BC 3), dronabinol (n \u00BC 5), or nabilone (n \u00BC 1).\r\nMeasurement: Titles\/abstracts were independently screened by one reviewer and reviewed by a second. Full-text screening\r\nwas by two reviewers with discrepancies resolved via a third reviewer.We extracted data on the standardized mean difference\r\n(SMD) for several NPS instruments, trial completion, and adverse events. Data were pooled using random-effects models.\r\nFindings: Cannabinoids led to significant improvements across NPS instruments, including the Cohen Mansfield Agitation\r\nInventory (SMD \u00BC \u00020.80; 95% confidence interval [CI], \u00021.45 to \u00020.16), the Neuropsychiatric Inventory (SMD \u00BC \u00020.61; CI,\r\n\u00021.07 to \u00020.15), and nocturnal actigraphy (SMD \u00BC \u00021.05; CI, \u00021.56 to \u00020.54h). Cannabinoids were well-tolerated, with an\r\noverall trial completion rate of 93% (193\/205) and no serious treatment-related adverse events. Treatment efficacy was associated\r\nwith baseline dementia severity and dose, but not dementia subtype, age, or sex. The overall study quality was rated as low.\r\nConclusions: There is preliminary evidence for the efficacy and tolerability of cannabinoids as treatments for NPS.\r\nPopulation-based studies are needed to characterize their real-world effectiveness and acceptability.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Anees Bahji, Arthi Chinna Meyyappan, and Emily R. Hawken",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1177/0706743719892717",
+        "Keywords": "Central nervous system, multiple sclerosis, spasticity, cannabinoids, real-world data",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 23,
+        "Title": "Cannabinoids for the Neuropsychiatric Symptoms of Dementia: A Systematic Review and Meta-Analysis",
+        "ParentTitle": "The Canadian Journal of Psychiatry",
+        "ShortTitle": "Bahji, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Norte america",
+        "Publisher": "",
+        "Institution": "",
+        "Volume": "16",
+        "Pages": "1 - 12",
+        "Edition": "",
+        "Issue": "4",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: In 2016, the global number of individuals living with dementia was 43.8 million, representing a 117% increase from 1990\u2014mainly due to increases in aging and population growth. Up to 90% of individuals with dementia experience neuropsychiatric symptoms (NPS). However, the limitations of current treatments for NPS have drivent he search for safer pharmacotherapies\u2014including cannabinoids. Aim: To assess the efficacy and acceptability of cannabinoids for the treatment of NPS in individuals with dementia. Design: Systematic review and meta-analysis of clinical trials. Setting and participants: Of 6,902 papers, 9 were eligible (n \u00BC 205, 44% female, 78 + 7 years, 85% Alzheimer disease). Trials were in North America and Europe and explored tetrahydrocannabinol (n \u00BC 3), dronabinol (n \u00BC 5), or nabilone (n \u00BC 1). Measurement: Titles\/abstracts were independently screened by one reviewer and reviewed by a second. Full-text screening was by two reviewers with discrepancies resolved via a third reviewer.We extracted data on the standardized mean difference (SMD) for several NPS instruments, trial completion, and adverse events. Data were pooled using random-effects models. Findings: Cannabinoids led to significant improvements across NPS instruments, including the Cohen Mansfield Agitation Inventory (SMD \u00BC \u00020.80; 95% confidence interval [CI], \u00021.45 to \u00020.16), the Neuropsychiatric Inventory (SMD \u00BC \u00020.61; CI, \u00021.07 to \u00020.15), and nocturnal actigraphy (SMD \u00BC \u00021.05; CI, \u00021.56 to \u00020.54h). Cannabinoids were well-tolerated, with an overall trial completion rate of 93% (193\/205) and no serious treatment-related adverse events. Treatment efficacy was associated with baseline dementia severity and dose, but not dementia subtype, age, or sex. The overall study quality was rated as low. Conclusions: There is preliminary evidence for the efficacy and tolerability of cannabinoids as treatments for NPS. Population-based studies are needed to characterize their real-world effectiveness and acceptability.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Anees Bahji, Arthi Chinna Meyyappan,and Emily R. Hawken",
+        "ParentAuthors": "",
+        "DOI": "DOI: 10.1177/0706743719892717",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 24,
+        "Title": "Cannabinoids for the treatment of mental disorders and symptoms of mental disorders: a systematic review and meta-analysis",
+        "ParentTitle": "The Lancet Psychiatry",
+        "ShortTitle": "Black, 2019",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2019",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Norte america",
+        "Publisher": "Elsevier Ltd.",
+        "Institution": "",
+        "Volume": "6",
+        "Pages": "995-1010",
+        "Edition": "",
+        "Issue": "12",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Background: In 2016, the global number of individuals living with dementia was 43.8 million, representing a 117% increase from 1990\u2014mainly due to increases in aging and population growth. Up to 90% of individuals with dementia experience neuropsychiatric symptoms (NPS). However, the limitations of current treatments for NPS have drivent he search for safer pharmacotherapies\u2014including cannabinoids. Aim: To assess the efficacy and acceptability of cannabinoids for the treatment of NPS in individuals with dementia. Design: Systematic review and meta-analysis of clinical trials. Setting and participants: Of 6,902 papers, 9 were eligible (n \u00BC 205, 44% female, 78 + 7 years, 85% Alzheimer disease). Trials were in North America and Europe and explored tetrahydrocannabinol (n \u00BC 3), dronabinol (n \u00BC 5), or nabilone (n \u00BC 1). Measurement: Titles\/abstracts were independently screened by one reviewer and reviewed by a second. Full-text screening was by two reviewers with discrepancies resolved via a third reviewer.We extracted data on the standardized mean difference (SMD) for several NPS instruments, trial completion, and adverse events. Data were pooled using random-effects models. Findings: Cannabinoids led to significant improvements across NPS instruments, including the Cohen Mansfield Agitation Inventory (SMD \u00BC \u00020.80; 95% confidence interval [CI], \u00021.45 to \u00020.16), the Neuropsychiatric Inventory (SMD \u00BC \u00020.61; CI, \u00021.07 to \u00020.15), and nocturnal actigraphy (SMD \u00BC \u00021.05; CI, \u00021.56 to \u00020.54h). Cannabinoids were well-tolerated, with an overall trial completion rate of 93% (193\/205) and no serious treatment-related adverse events. Treatment efficacy was associated with baseline dementia severity and dose, but not dementia subtype, age, or sex. The overall study quality was rated as low. Conclusions: There is preliminary evidence for the efficacy and tolerability of cannabinoids as treatments for NPS. Population-based studies are needed to characterize their real-world effectiveness and acceptability.",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "Nicola Black, Emily Stockings, Gabrielle Campbell, Lucy T Tran, Dino Zagic, Wayne D Hall, Michael Farrell, Louisa Degenhard",
+        "ParentAuthors": "",
+        "DOI": "https://doi.org/10.1016/S2215-0366(19)30401-8",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    },
+    {
+        "ItemId": 25,
+        "Title": "Efficacy, Tolerability, and Safety of Cannabinoid Treatments in the Rheumatic Diseases: A Systematic Review of Randomized Controlled Trials",
+        "ParentTitle": "Arthritis Care and Research",
+        "ShortTitle": "Fitzcharles, 2016",
+        "DateCreated": "2018-02-19T09:04:35.75",
+        "CreatedBy": "",
+        "DateEdited": "2018-04-25T12:36:04.89",
+        "EditedBy": "",
+        "Year": "2016",
+        "Month": "",
+        "StandardNumber": "",
+        "City": "",
+        "Country": "Norte america",
+        "Publisher": "Elsevier Ltd.",
+        "Institution": "",
+        "Volume": "68",
+        "Pages": "681-688",
+        "Edition": "",
+        "Issue": "5",
+        "Availability": "",
+        "URL": "",
+        "OldItemId": "",
+        "Abstract": "Objective. To assess the efficacy, tolerability, and safety of cannabinoids (phyto- and syntheto-) in the management of rheumatic diseases. Methods. Multiple databases, including Medline, Embase, and CENTRAL, were searched. Randomized controlled trials with outcomes of pain, sleep, quality of life, tolerability (dropouts due to adverse events), and safety (serious adverse events), with comparison ofcannabinoids with any type ofcontrol, were included. Study methodology quality was evalu- ated with the Cochrane risk ofbias tool. Results. In 4 short-term studies comprising 203 patients (58 with rheumatoid arthritis, 71 with fibromyalgia, and 74 with osteoarthritis [OA]), cannabinoids had a statistically significant effect on pain in 2, sleep in 2, and improved quality of life in 1, with the OA study prematurely terminated due to futility. The risk of bias was high for all 3 completed studies. Dizzi- ness, cognitive problems, and drowsiness, as well as nausea, were reported for almost half of the patients. No serious adverse events were reported for cannabinoids during the study duration. No studies ofherbal cannabis were identified. Conclusion. Extremely small sample sizes, short study duration, heterogeneity of rheumatic conditions and products, and absence of studies of herbal cannabis allow for only limited conclusions for the effects of cannabinoids in rheumatic conditions. Pain relief and effect on sleep may have some potential therapeutic benefit, but with considerable mild to moderate adverse events. There is currently insufficient evidence to recommend cannabinoid treatments for management ofrheumatic diseases pending further study",
+        "Comments": "",
+        "TypeName": "Journal Article",
+        "Authors": "MARY-ANN FITZCHARLES,PETER A. STE-MARIE, WINFRIED H\u20ACAUSER, DANIEL J. CLAUW, SHAHIN JAMAL, JACOB KARSH, TARA LANDRY, SHARON LECLERCQ, JASON J. MCDOUGALL, YORAM SHIR, KAM SHOJANIA,AND ZACH WALSH",
+        "ParentAuthors": "",
+        "DOI": "DOI 10.1002/acr.22727",
+        "Keywords": "",
+        "ItemStatus": "I",
+        "ItemStatusTooltip": "Included in review",
+        "Codes": [
+            {
+                "AttributeId": 11001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 11101,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 21001,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            },
+            {
+                "AttributeId": 5413915,
+                "AdditionalText": "",
+                "ArmId": 0,
+                "ArmTitle": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,362 @@
+{
+   "rows": [
+      [
+         {
+            "span": 25,
+            "isColumn": true,
+            "id": 10000,
+            "title": "Descenlaces "
+         }
+      ],
+      [
+         {
+            "span": 2,
+            "isColumn": true,
+            "id": 11001,
+            "title": "Cancer\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11002,
+            "title": "VIH\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11003,
+            "title": "DM\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11004,
+            "title": "Trauma\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11005,
+            "title": "Dolor cronico por cualquier causa\t\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11006,
+            "title": "Dolor en ortopedia\t\t"
+         },
+         {
+            "span": 4,
+            "isColumn": true,
+            "id": 11007,
+            "title": "Esclerosis multiple \t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11008,
+            "title": "Fibromialgia\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11009,
+            "title": "Lennox - Gastaut\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11010,
+            "title": "Epilepsia\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11011,
+            "title": "Epilepsia refractaria a tratamiento\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11012,
+            "title": "Alzheimer\t\t\t\t"
+         },
+         {
+            "span": 2,
+            "isColumn": true,
+            "id": 11013,
+            "title": "Demencia por cualquier causa \t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11014,
+            "title": "Crohn\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11015,
+            "title": "Esclerosis Lateral Amniotrofica\t\t\t\t"
+         },
+         {
+            "span": 2,
+            "isColumn": true,
+            "id": 11016,
+            "title": "Trastorno de estres postraumatico\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11017,
+            "title": "Depresión\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11018,
+            "title": "Trastorno de Ansiedad\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11019,
+            "title": "Sindrome de Tourette\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11020,
+            "title": "TDAH\t\t\t\t"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11021,
+            "title": "Psicosis Primaria o secundaria \t\t\t\t"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11101,
+            "title": "Dolor oncologico "
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11102,
+            "title": "Nauseas y vomito inducidos por quimioterapia"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11103,
+            "title": "Dolor neuropatico"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11104,
+            "title": "Dolor neuropatico"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11105,
+            "title": "Dolor neuropatico"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11106,
+            "title": "Calidad de vida "
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11107,
+            "title": "Dolor"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11108,
+            "title": "Espasticidad"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11109,
+            "title": "Calidad de vida "
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11110,
+            "title": "Actividad diaria"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11111,
+            "title": "Dolor cronico"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11112,
+            "title": "Dolor cronico"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11113,
+            "title": "Eventos convulsivos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11114,
+            "title": "Eventos convulsivos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11115,
+            "title": "Eventos convulsivos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11116,
+            "title": "Sintomas neuropsiquiatricos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11117,
+            "title": "Sintomas neuropsiquiatricos"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11118,
+            "title": "Agitación"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11119,
+            "title": "Remisión"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11120,
+            "title": "Calidad de vida"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11121,
+            "title": "Severidad Sintomas"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11122,
+            "title": "Ansiedad y sueño"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11123,
+            "title": "Remision"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11124,
+            "title": "Remision"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11125,
+            "title": "Disminución de Tics"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11126,
+            "title": "Cambio en sisntomas comportamentales"
+         },
+         {
+            "span": 1,
+            "isColumn": true,
+            "id": 11127,
+            "title": "Remisión"
+         }
+      ],
+      [
+         {
+            "span": 16,
+            "isColumn": false,
+            "id": 20000,
+            "title": "Intervenciones"
+         },
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21001,
+            "title": "Tetrahydrocannabinol (THC)"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21002,
+            "title": "Cannabidiol (CBD)"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21003,
+            "title": "Nabiximols"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21004,
+            "title": "Canabidiol purificado"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21005,
+            "title": "Dronabinol"
+         }
+      ],
+      [
+         {
+            "span": 1,
+            "isColumn": false,
+            "id": 21006,
+            "title": " Nabilone "
+         }
+      ]
+   ],
+   "totalColBreadth": 28,
+   "totalColDepth": 3,
+   "totalRowBreadth": 16,
+   "totalRowDepth": 1
+}
