@@ -10,19 +10,19 @@
       ],
       [
          {
-            "span": 13,
+            "span": 14,
             "isColumn": true,
             "id": 11001,
             "title": "Effectiveness\t\t\t\t"
          },
          {
-            "span": 8,
+            "span": 9,
             "isColumn": true,
             "id": 11002,
             "title": "Security\t\t\t"
          },
          {
-            "span": 5,
+            "span": 4,
             "isColumn": true,
             "id": 11003,
             "title": "Impact\t\t\t"
@@ -30,162 +30,168 @@
       ],
       [
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11101,
-            "title": "Clinical improvement"
+           "span": 1,
+           "isColumn": true,
+           "id": 11101,
+           "title": "Mortality"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11102,
-            "title": "Oxygen requirement"
+           "span": 1,
+           "isColumn": true,
+           "id": 11102,
+           "title": "Mild / moderate to severe disease progression"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11103,
-            "title": "Hospital stay"
+           "span": 1,
+           "isColumn": true,
+           "id": 11103,
+           "title": "Progression to ARDS"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11104,
-            "title": "Mild / moderate to severe disease progression"
+           "span": 1,
+           "isColumn": true,
+           "id": 11104,
+           "title": "Clinical improvement"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11105,
-            "title": "Progression to ARDS"
+           "span": 1,
+           "isColumn": true,
+           "id": 11105,
+           "title": "ICU admission"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11106,
-            "title": "ICU admission"
+           "span": 1,
+           "isColumn": true,
+           "id": 11106,
+           "title": "ICU length of stay"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11107,
-            "title": "ICU length of stay"
+           "span": 1,
+           "isColumn": true,
+           "id": 11107,
+           "title": "Hospital stay"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11108,
-            "title": "Mortality"
+           "span": 1,
+           "isColumn": true,
+           "id": 11108,
+           "title": "Oxygen requirement"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11109,
-            "title": "Viral clearance"
+           "span": 1,
+           "isColumn": true,
+           "id": 11109,
+           "title": "Imaging improvement"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11110,
-            "title": "Negativization"
+           "span": 1,
+           "isColumn": true,
+           "id": 11110,
+           "title": "Negativization"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11111,
-            "title": "Viral replication"
+           "span": 1,
+           "isColumn": true,
+           "id": 11111,
+           "title": "Viral clearance"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11112,
-            "title": "Nosocomial infection"
+           "span": 1,
+           "isColumn": true,
+           "id": 11112,
+           "title": "Viral replication"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11113,
-            "title": "Imaging improvement"
+           "span": 1,
+           "isColumn": true,
+           "id": 11113,
+           "title": "Nosocomial infection"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11114,
-            "title": "Gastrointestinal Symptoms"
+           "span": 1,
+           "isColumn": true,
+           "id": 11114,
+           "title": "Description"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11115,
-            "title": "Headache"
+           "span": 1,
+           "isColumn": true,
+           "id": 11115,
+           "title": "Gastrointestinal Symptoms"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11116,
-            "title": "Transaminase elevation"
+           "span": 1,
+           "isColumn": true,
+           "id": 11116,
+           "title": "Headache"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11117,
-            "title": "Skin Lesions"
+           "span": 1,
+           "isColumn": true,
+           "id": 11117,
+           "title": "Transaminase elevation"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11118,
-            "title": "Hematologic abnormalities"
+           "span": 1,
+           "isColumn": true,
+           "id": 11118,
+           "title": "Skin Lesions"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11119,
-            "title": "Cardiovascular signs or symptoms"
+           "span": 1,
+           "isColumn": true,
+           "id": 11119,
+           "title": "Hematologic abnormalities"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11120,
-            "title": "QT interval prolongation"
+           "span": 1,
+           "isColumn": true,
+           "id": 11120,
+           "title": "Cardiovascular signs or symptoms"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11121,
-            "title": "Arrhythmias"
+           "span": 1,
+           "isColumn": true,
+           "id": 11121,
+           "title": "QT interval prolongation"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11122,
-            "title": "Transmissibility reduction"
+           "span": 1,
+           "isColumn": true,
+           "id": 11122,
+           "title": "Arrhythmias"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11123,
-            "title": "Health services pressure reduction"
+           "span": 1,
+           "isColumn": true,
+           "id": 11123,
+           "title": "Adverse events"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11124,
-            "title": "Control of new outbreaks"
+           "span": 1,
+           "isColumn": true,
+           "id": 11124,
+           "title": "Transmissibility reduction"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11125,
-            "title": "Cost savings"
+           "span": 1,
+           "isColumn": true,
+           "id": 11125,
+           "title": "Health services pressure reduction"
          },
          {
-            "span": 1,
-            "isColumn": true,
-            "id": 11126,
-            "title": "Adverse events Non-pharmacological interventions"
+           "span": 1,
+           "isColumn": true,
+           "id": 11126,
+           "title": "Control of new outbreaks"
+         },
+         {
+           "span": 1,
+           "isColumn": true,
+           "id": 11127,
+           "title": "Cost savings"
          }
-      ],
+       ],
       [
          {
             "span": 49,
@@ -200,393 +206,364 @@
             "title": "Chloroquine"
          }
       ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21002,
-            "title": "Hydroxychloroquine"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21003,
-            "title": "Lopinavir/ritonavir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21004,
-            "title": "Ribavirin"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21005,
-            "title": "Favipiravir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21006,
-            "title": "Oseltamivir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21007,
-            "title": "Ganciclovir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21008,
-            "title": "Sarilimumab"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21009,
-            "title": "Baricitinib"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21010,
-            "title": "Adalimumab"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21011,
-            "title": "Convalescent plasma"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21012,
-            "title": "Remdesivir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21013,
-            "title": "Tocilizumab"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21014,
-            "title": "Interferon"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21015,
-            "title": "Intravenous immunoglobulins"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21016,
-            "title": "Glucocorticoids"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21017,
-            "title": "Conservative Fluid Therapy"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21018,
-            "title": "Oxygen therapy"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21019,
-            "title": "Lopinavir/ritonavir + Ribavirin"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21020,
-            "title": "Hydroxychloroquine + Azithromycin"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21021,
-            "title": "Interferon + ribavirin"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21022,
-            "title": "Interferon + lopinavir/ritonavir"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21023,
-            "title": "Darunavir/ cobicistat"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21024,
-            "title": "Other Antiviral agents"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21025,
-            "title": "Combination of measures"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21026,
-            "title": "Quarantine of contacts"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21027,
-            "title": "Lockdown"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21028,
-            "title": "Quarantine of travelers from the affected area"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21029,
-            "title": "Social distancing"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21030,
-            "title": "Suspension of public transport"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21031,
-            "title": "Travel restriction between cities"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21032,
-            "title": "International flights restriction"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21033,
-            "title": "Contact reduction"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21034,
-            "title": "Early case detection"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21035,
-            "title": "Isolation of cases"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21036,
-            "title": "Sustaining distancing measures (at least six months after the outbreak)"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21037,
-            "title": "Contact tracking"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21038,
-            "title": "Self-isolation of symptomatic cases"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21039,
-            "title": "School Closure"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21040,
-            "title": "Measures at workplace"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21041,
-            "title": "Cancellation of large meetings"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21042,
-            "title": "Airport case detection procedures"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21043,
-            "title": "Domestic travel restrictions"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21044,
-            "title": "Border closure"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21045,
-            "title": "Social distancing of those over 70 years (and high-risk)"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21046,
-            "title": "Use of face masks and other protective utensils"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21047,
-            "title": "Increased installed capacity of medical centers"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21048,
-            "title": "Increased supply of health workers"
-         }
-      ],
-      [
-         {
-            "span": 1,
-            "isColumn": false,
-            "id": 21049,
-            "title": "Use of media, internet, platforms and web applications"
-         }
-      ]
-   ],
+      
+  [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21002,
+   "title": "Hydroxychloroquine"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21003,
+   "title": "Lopinavir/ritonavir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21004,
+   "title": "Ribavirin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21005,
+   "title": "Favipiravir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21006,
+   "title": "Oseltamivir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21007,
+   "title": "Ganciclovir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21008,
+   "title": "Arbidol"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21009,
+   "title": "Sarilimumab"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21010,
+   "title": "Baricitinib"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21011,
+   "title": "Adalimumab"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21012,
+   "title": "Convalescent plasma"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21013,
+   "title": "Remdesivir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21014,
+   "title": "Tocilizumab"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21015,
+   "title": "Interferon"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21016,
+   "title": "Intravenous immunoglobulins"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21017,
+   "title": "Glucocorticoids"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21018,
+   "title": "Thymopentin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21019,
+   "title": "Thymalfasin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21020,
+   "title": "Traditional Chinese medicines"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21021,
+   "title": "Conservative Fluid Therapy"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21022,
+   "title": "Renal replacement therapy"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21023,
+   "title": "Oxygen therapy"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21024,
+   "title": "Antibiotic treatment"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21025,
+   "title": "Antifungal"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21026,
+   "title": "Antiviral therapy"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21027,
+   "title": "Hydroxychloroquine + Azithromycin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21028,
+   "title": "Lopinavir/ritonavir + arbidol + SFJDC"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21029,
+   "title": "Lopinavir/ritonavir + Ribavirin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21030,
+   "title": "Hydroxychloroquine + Azithromycin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21031,
+   "title": "Interferon + ribavirin"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21032,
+   "title": "Interferon + lopinavir/ritonavir"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21033,
+   "title": "Interferon + lopinavir/ritonavir + arbidol"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21034,
+   "title": "Darunavir/ cobicistat"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21035,
+   "title": "Interferon + arbidol"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21036,
+   "title": "Combination of measures"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21037,
+   "title": "Lockdown"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21038,
+   "title": "Isolation of cases"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21039,
+   "title": "Self-isolation of symptomatic cases"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21040,
+   "title": "Quarantine of contacts"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21041,
+   "title": "Quarantine of travelers from the affected area"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21042,
+   "title": "Social distancing"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21043,
+   "title": "Social distancing of those over 70 years (and high-risk)"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21044,
+   "title": "Contact reduction"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21045,
+   "title": "Cancellation of large meetings"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21046,
+   "title": "Sustaining distancing measures (at least six months after the outbreak)"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21047,
+   "title": "School Closure"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21048,
+   "title": "Measures at workplace"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21049,
+   "title": "International flights restriction"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21050,
+   "title": "Travel restriction between cities"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21051,
+   "title": "Suspension of public transport"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21052,
+   "title": "Domestic travel restrictions"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21053,
+   "title": "Border closure"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21054,
+   "title": "Early case detection"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21055,
+   "title": "Contact tracking"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21056,
+   "title": "Airport case detection procedures"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21057,
+   "title": "Use of face masks and other protective utensils"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21058,
+   "title": "Increased installed capacity of medical centers"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21059,
+   "title": "Increased supply of health workers"
+ }],
+ [{
+   "span": 1,
+   "isColumn": false,
+   "id": 21060,
+   "title": "Use of media, internet, platforms and web applications"
+ }]
+],
    "totalColBreadth": 28,
    "totalColDepth": 3,
-   "totalRowBreadth": 50,
+   "totalRowBreadth": 59,
    "totalRowDepth": 1
 }
