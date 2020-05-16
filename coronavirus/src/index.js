@@ -400,12 +400,12 @@ $(window).on('load', function() {
 
 					segmentAttributes.forEach((segment) => {
 						legendHtml +=
-							'<span class="dot" style="background-color: ' +
+							'<li><span class="dot" style="background-color: ' +
 							segment.color +
 							'"></span>' +
 							'<span class="label">' +
 							segment.attribute.AttributeName +
-							'</span>';
+							'</span></li>';
 					});
 
 					$('.legend').html(legendHtml);
