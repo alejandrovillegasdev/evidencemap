@@ -141,7 +141,7 @@ $(window).on('load', function() {
          * @returns {number}
          */
 				function getLightness(stepNumber) {
-					let base = 24;
+					let base = 94;
 					let steps = 5;
 					let step = 8;
 
@@ -180,7 +180,7 @@ $(window).on('load', function() {
 							let style = '';
 
 							if (i === 1) {
-								style = 'style="background-color:hsla(170, 45%,' + getLightness(j) + '%, 1)"';
+								style = 'style="background-color:hsla(210, 16%,' + getLightness(j) + '%, 1)"';
 
 								for (let k = 0; k < colSpan; k++) {
 									styles.push(style);
@@ -240,8 +240,7 @@ $(window).on('load', function() {
 
 							if (level === 1) {
 								lightnessLevel += 1;
-								backgroundStyle =
-									'background-color:hsla(170, 45%,' + getLightness(lightnessLevel) + '%, 1)';
+								backgroundStyle = 'background-color:hsla(210, 16%,' + getLightness(j) + '%, 1)';
 							}
 
 							if (level > 0 && level + 1 < csvData.totalColDepth) {
