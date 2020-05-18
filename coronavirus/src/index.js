@@ -977,8 +977,8 @@ $(window).on('load', function() {
 
 					let settingsHtml =
 						'<div class="title clearfix">' +
-						'<span>Settings</span>' +
-						'<a class="btnSettings right" id="close">close</a>' +
+						'<span>Filters</span>' +
+						'<a class="btnSettings right" id="close">X</a>' +
 						'<a class="btnSettings left disabled" id="update">update</a>' +
 						'</div>';
 					settingsHtml += createFiltersPanel();
@@ -992,13 +992,14 @@ $(window).on('load', function() {
 						$('#update', $filters).on('click', handleUpdate);
 					});
 
-					$('.style-wrapper li', $filters).on('click', (e) => {
-						updateViewStyle($filters, $(e.currentTarget));
-						$('.disabled').removeClass('disabled');
-						$('#update', $filters).on('click', handleUpdate);
-					});
+					// $('.style-wrapper li', $filters).on('click', (e) => {
+					// 	updateViewStyle($filters, $(e.currentTarget));
+					// 	$('.disabled').removeClass('disabled');
+					// 	$('#update', $filters).on('click', handleUpdate);
+					// });
 
 					$('.menu-settings').on('click', function() {
+						console.log('hello');
 						$filters.addClass('open');
 						$veil.addClass('open');
 					});
@@ -1042,10 +1043,10 @@ $(window).on('load', function() {
          */
 				function createStylesPanel() {
 					let styleHtml =
-						'<div class="style-wrapper">' +
-						'<h2>Style</h2>' +
-						'<ul>' +
-						'<li class="checked" data-id="bubble">' +
+						// '<div class="style-wrapper">' +
+						// '<h2>Style</h2>' +
+						// '<ul>' +
+						// '<li class="checked" data-id="bubble">' +
 						radioCheckedSvg +
 						radioUncheckedSvg +
 						' <span>Bubble-map</span>' +
@@ -1874,7 +1875,7 @@ $(window).on('load', function() {
 				}
 
 				// Call all the methods to initialize the page.
-				// createSettingsPanel();
+				createSettingsPanel();
 				buildTable();
 				adjustTable();
 				buildLegend();
@@ -1898,7 +1899,7 @@ $(window).on('load', function() {
 				// Removes the loader after the animation is complete.
 				setTimeout(() => {
 					$loader.remove();
-				}, 2000);
+				}, 10);
 			});
 		});
 	});
