@@ -5,7 +5,7 @@
             "span": 26,
             "isColumn": true,
             "id": 10000,
-            "title": "Descenlaces "
+            "title": "Outcomes"
          }
       ],
       [
@@ -197,7 +197,7 @@
             "span": 49,
             "isColumn": false,
             "id": 20000,
-            "title": "Pharmacological interventions"
+            "title": "Interventions"
          },
          {
             "span": 1,
@@ -564,6 +564,6 @@
 ],
    "totalColBreadth": 28,
    "totalColDepth": 3,
-   "totalRowBreadth": 59,
+   "totalRowBreadth": 60,
    "totalRowDepth": 1
 }

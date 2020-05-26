@@ -293,11 +293,11 @@ header {
 }
 
 .segment-select {
-	display: none;
+	/* display: none; */
 }
 
 .footer {
-    display: none;
+    /* display: none; */
 	position: absolute;
 	bottom: 0;
 	background-color: #f5f5f5;
