@@ -1,0 +1,53 @@
+[
+  {
+    "ItemId": 1,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Thrombocytopenia is associated with severe coronavirus disease 2019 (covid-19) infections: a meta-analysis.",
+    "ParentTitle": "Clinica chimica acta",
+    "ShortTitle": "Giuseppe Lippi, 2020.",
+    "Study Type": "Systematic review",
+    "Study detail": "Meta-analysis",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "",
+    "Publisher": "Elsevier",
+    "Institution": "",
+    "Volume": 506,
+    "Pages": "145-148",
+    "Edition": "",
+    "Issue": 3,
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32178975",
+    "Abstract": "Background: Coronavirus disease 2019 (COVID-19) is a novel infectious disease with lack of established laboratory markers available to evaluate illness severity. In this study, we investigate whether platelet count could differentiate between COVID-19 patients with or without severe disease. Additionally, we evaluate if thrombocytopenia is associated with severe COVID-19. METHODS: An electronic search in Medline, Scopus and Web of Science was performed to identify studies reporting data on platelet count in COVID-19 patients. A meta-analysis was performed, with calculation of weighted mean difference (WMD) of platelet number in COVID-19 patients with or without severe disease and odds ratio (OR) of thrombocytopenia for severe form of COVID-19. RESULTS: Nine studies with 1779 COVID-19 patients, 399 (22.4%) with severe disease, were included in the meta-analysis. The pooled analysis revealed that platelet count was significantly lower in patients with more severe COVID-19 (WMD -31109 /L; 95% CI, from -35 to -29109 /L). A subgroup analysis comparing patients by survival, found an even lower platelet count was observed with mortality (WMD, -48109 /L; 95% CI, -57 to -39109 /L. In the four studies (n=1427) which reported data on rate of thrombocytopenia, a low platelet count was associated with over fivefold enhanced risk of severe COVID-19 (OR, 5.1; 95% CI, 1.8-14.6). CONCLUSIONS: Low platelet count is associated with increased risk of severe disease and mortality in patients with COVID-19, and thus should serve as clinical indicator of worsening illness during hospitalization.",
+    "TypeName": "Preproof",
+    "Authors": "Giuseppe Lippi, Mario Plebani, Brandon Michael Henry.",
+    "DOI": "10.1016/j.cca.2020.03.021",
+    "Keywords": "Platelets; thrombocytopenia; coronavirus; COVID-19.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 510001,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11102,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  }
+]

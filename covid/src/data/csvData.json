@@ -1,0 +1,671 @@
+{
+  "rows": [
+    [
+      {
+        "span": 26,
+        "isColumn": true,
+        "id": 10000,
+        "title": "Outcomes"
+      }
+    ],
+    [],
+    [
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11101,
+        "title": "Mortality"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11102,
+        "title": "Mild / moderate to severe disease progression"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11103,
+        "title": "ICU admission"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11104,
+        "title": "Description"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11105,
+        "title": "Mechanical ventilation"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11106,
+        "title": "Progression to ARDS"
+      }
+    ],
+    [
+      {
+        "span": 49,
+        "isColumn": false,
+        "id": 20000,
+        "title": "Interventions"
+      }
+    ],
+    [
+      {
+        "title": "Age",
+        "id": 21002,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Sex",
+        "id": 21003,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Comorbidities",
+        "id": 21004,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Cardio-cerebrovascular disease",
+        "id": 21005,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Diabetes",
+        "id": 21006,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hypertension",
+        "id": 21007,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Respiratory disease",
+        "id": 21008,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Chronic kidney disease",
+        "id": 21009,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Continuous renal replacement therapy",
+        "id": 21010,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Chronic heart failure",
+        "id": 21011,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "COPD",
+        "id": 21012,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Chronic liver disease",
+        "id": 21013,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Nervous system diseases",
+        "id": 21014,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Autoimmune disease",
+        "id": 21015,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Endocrine disease",
+        "id": 21016,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Digestive system disease",
+        "id": 21017,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "HIV infection",
+        "id": 21018,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hepatitis B infection",
+        "id": 21019,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Immunodeficiency",
+        "id": 21020,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Tumor/Malignancy",
+        "id": 21021,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Smoking",
+        "id": 21022,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Drinking",
+        "id": 21023,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Metabolic arthritis",
+        "id": 21024,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Obstructive sleep apnea",
+        "id": 21025,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Surgery",
+        "id": 21026,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Coagulation disorders",
+        "id": 21027,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Tuberculosis",
+        "id": 21028,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Coinfection",
+        "id": 21029,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Pregnancy",
+        "id": 21030,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Acute cardiac injury",
+        "id": 21031,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Acute kidney injury",
+        "id": 21032,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Acute liver injury",
+        "id": 21033,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "ARDS",
+        "id": 21034,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Severe pneumonia",
+        "id": 21035,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Sepsis/shock",
+        "id": 21036,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Ventilator-associated pneumonia",
+        "id": 21037,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Vital signs",
+        "id": 21038,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Oxygenation parameters",
+        "id": 21039,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "BMI",
+        "id": 21040,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Altered consciousness",
+        "id": 21041,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Oropharyngeal involvement",
+        "id": 21042,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Rash",
+        "id": 21043,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "General symptoms",
+        "id": 21044,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Gastrointestinal symptoms",
+        "id": 21045,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Fever",
+        "id": 21046,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Mucosal congestion",
+        "id": 21047,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Cough",
+        "id": 21048,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Expectoration",
+        "id": 21049,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Dyspnoea",
+        "id": 21050,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hemoptysis",
+        "id": 21051,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Chest pain / tightness",
+        "id": 21052,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Radiological findings",
+        "id": 21053,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hemoleukogram Parameters",
+        "id": 21054,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Acute phase reactants",
+        "id": 21055,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "LDH",
+        "id": 21056,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "RNAemia",
+        "id": 21057,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Cardiac enzymes",
+        "id": 21058,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hepatic function",
+        "id": 21059,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Coagulation tests",
+        "id": 21060,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Renal function",
+        "id": 21061,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Blood gas analysis",
+        "id": 21062,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Glucose",
+        "id": 21063,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Ionogram",
+        "id": 21064,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Uric acid",
+        "id": 21065,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Immunoglobulin levels",
+        "id": 21066,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Cytokines",
+        "id": 21067,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "C3/C4",
+        "id": 21068,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Exposure history",
+        "id": 21069,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Severity of presentation",
+        "id": 21070,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Hospital stay",
+        "id": 21071,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Onset of symptom to hospital admission",
+        "id": 21072,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Time from onset to diagnosis",
+        "id": 21073,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Time from illness onset to antiviral treatment",
+        "id": 21074,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Time to clinical recovery",
+        "id": 21075,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Occupation",
+        "id": 21076,
+        "isColumn": false,
+        "span": 1
+      }
+    ],
+    [
+      {
+        "title": "Non-invasive ventilation",
+        "id": 21077,
+        "isColumn": false,
+        "span": 1
+      }
+    ]
+  ],
+  "totalColBreadth": 18,
+  "totalColDepth": 3,
+  "totalRowBreadth": 77,
+  "totalRowDepth": 1
+}
