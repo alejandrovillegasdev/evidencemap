@@ -31,19 +31,7 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 510001,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
+        "AttributeId": 500003,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -55,7 +43,13 @@
         "ArmTitle": ""
       },
       {
-        "AttributeId": 5413936,
+        "AttributeId": 11101,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -94,36 +88,11 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 5413935,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 510028,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
         "AttributeId": 21002,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-
       {
         "AttributeId": 21003,
         "AdditionalText": "",
@@ -215,12 +184,6 @@
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
         "AttributeId": 21045,
         "AdditionalText": "",
         "ArmId": 0,
@@ -228,12 +191,6 @@
       },
       {
         "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -303,8 +260,2572 @@
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 500003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
       }
-
+    ]
+  },
+  {
+    "ItemId": 3,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Novel coronavirus (2019-ncov) infection in humans: a scoping review and meta-analysis.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Israel Junior Borges do Nascimento, 2020. ",
+    "Study Type": "Systematic review",
+    "Study detail": "Meta-analysis",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "Brazil",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": 506,
+    "Pages": "145-148",
+    "Edition": "",
+    "Issue": 3,
+    "URL": "https://papers.ssrn.com/abstract=3550028",
+    "Abstract": "Background: A growing body of literature on the 2019 novel coronavirus (2019-nCoV) is becoming available but a synthesis of available data has not been conducted. We performed a scoping review of currently available clinical, epidemiological, laboratory, and chest imaging data related to the 2019-nCoV infection.Methodology: We searched MEDLINE, Cochrane CENTRAL, EMBASE, Scopus and LILACS from January 1st, 2019 to February 24th, 2020. Study selection, data extraction and risk of bias assessment were performed by two independent reviewers. Qualitative synthesis was conducted, and random-effects models were applied to estimate pooled results.Findings: Sixty-one studies were included (101,905 patients). The most common disease-related symptoms were fever (84%, 95% confidence interval (CI) 77-91%; n=2,452), cough (63%, 95% CI 55-70%; n=2,027), and muscle aches and/or fatigue (27%, 95% CI 19-37%; n=1,742). Laboratory findings were described in a lower number of patients, and revealed lymphopenia (0.93x109/L, 95% CI 0.83-1.03x109/L, n=464) and abnormal C-reactive protein (33.72mg/dL, 95% CI 21.54-45.91mg/dL, n=1637). Radiological findings varied, but mostly described ground glass opacities and consolidation. Data on treatment options were limited. All-cause mortality was 1.1% (95% CI 0.1-2.7%; n=51,673). Epidemiological studies showed that mortality was higher in males and elderly patients.Interpretation: The majority of reported clinical symptoms and laboratory findings related to 2019-nCoV infection are non-specific. Clinical suspicion, accompanied by a relevant epidemiological history, should be followed by early imaging and virological assay.Funding Statement: No funding was obtained for this study.Declaration of Interests: None.Ethics Approval Statement: The authors stated that ethics approval was not necessary.",
+    "TypeName": "Preprint",
+    "Authors": "Israel Junior Borges do Nascimento, Ana Marusic, Nensi Cacic, Hebatullah Mohamed Abdulazeem,Meisam Abdar Esfahani, Umesh Jayarajah, Ana Jeroncic, Vinicius Tassoni Civile, Nelson Carvas Junior, Thilo Caspar von Groote,Ishanka Weerasekara,Tina Poklepovic Pericic, Irena Zakarija-Grkovic, Silvana Mangeon Meirelles Guimarães, Nicola L Bragazzi, Maria Bjorklund, Ahmad Sofi-Mahmudi, Mohammad Altujjar, Maoyi Tian, Diana Maria Cespedes Arcani, Milena Soriano Marcolino.",
+    "DOI": "10.2139/ssrn.3550028",
+    "Keywords": "Coronavirus; Evidence-based Medicine; Symptom Assessment; public health; 2019- nCoV.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5414335,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21070,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21073,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21050,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21042,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21053,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21067,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21059,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21056,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21060,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11101,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21035,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 4,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Systematic review of covid-19 in children shows milder cases and a better prognosis than adults.",
+    "ParentTitle": "Acta paediatrica",
+    "ShortTitle": "Jonas F Ludvigsson, 2020.",
+    "Study Type": "Systematic review",
+    "Study detail": "Systematic review",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "",
+    "Publisher": "Wiley",
+    "Institution": "",
+    "Volume": 109,
+    "Pages": "1088-1095",
+    "Edition": "",
+    "Issue": 3,
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32202343",
+    "Abstract": "AIM: The coronavirus disease 2019 (COVID-19) pandemic has affected hundreds of thousands of people. Data on symptoms and prognoses in children are rare. METHODS: A systematic literature review was carried out to identify papers on COVID-19, which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), using the Medline and EMBASE databases between 1 January and 18 March 2020. RESULTS: The search identified 45 relevant scientific papers and letters. The review showed that children have so far accounted for 1-5% of diagnosed COVID-19 cases, they often have milder disease than adults and deaths have been extremely rare. Diagnostic findings have been similar to adults, with fever and respiratory symptoms being prevalent, but fewer children seem to have developed severe pneumonia. Elevated inflammatory markers were less common in children and lymphocytopenia seemed rare. Newborn infants have developed symptomatic COVID-19, but evidence of vertical intrauterine transmission was scarce. Suggested treatment included providing oxygen, inhalations, nutritional support and maintaining fluids and electrolyte balances. CONCLUSIONS: COVID-19 has occurred in children, but they seemed to have a milder disease course and better prognoses than adults. Deaths were extremely rare.",
+    "TypeName": "Journal Article",
+    "Authors": "Jonas F Ludvigsson.",
+    "DOI": "10.1111/apa.15270",
+    "Keywords": "Children; Coronavirus; COVID-19; 2019-nCoV; SARS-CoV2.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413936,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21047,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21038,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21053,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21030,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21053,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21067,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 5,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical features and predictors for patients with severe sars-cov-2 pneumonia: a retrospective multicenter cohort study",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Chao Cao, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3556663",
+    "Abstract": "Background: Starting from early December 2019, cases of human infection with a novel coronavirus were identified in Wuhan, Hubei Province, China. It spreads rapidly to other cities and numerous countries. This study was performed to investigate clinical features of patients with severe SARS-CoV-2 pneumonia and identify risk factors for converting to severe cases in those who had mild to moderate diseases. Methods: In this retrospective, multicenter cohort study, patients with mild to moderate SARS-CoV-2 pneumonia were included from Ningbo First Hospital and Jingzhou Central Hospital. Demographic data, symptoms, laboratory values, comorbidities, and clinical outcomes were collected. Data were compared between non-severe and severe patients. Logistic regression analysis was performed to assess risk factors in predicting the patients with SARS-CoV-2 pneumonia who would convert to severe cases. Findings: 120 patients (36 from Ningbo First Hospital and 84 from Jingzhou Central Hospital) were included in this study, among which 62 were excluded and 58 were included in the final analysis. Compared with non-severe cases, severe patients with SARS-CoV-2 pneumonia had a longer: time to clinical recovery (12·9±4·4 vs 8·3±4·7; p=0·0011), duration of viral shedding (15·7±6·7 vs 11·8±5·0; p=0·0183), and hospital stay (20·7±1·2 vs 14·4±4·3; p=0·0211). Multivariate logistic regression indicated that lymphocyte count was significantly associated with the rate of converting to severe cases (odds ratio 1·28, 95%CI 1·06–1·54, per 0·1×109 /L reduced; p=0·007), while using of low-to-moderate doses of systematic corticosteroids was associated with reduced likelihood of converting to a severe case (odds ratio 0·14, 95%CI 0·02–0·80; p=0·0275). Interpretation: The low peripheral blood lymphocyte count was an independent risk factor for SARS-CoV-2 pneumonia patients converting to severe cases. This finding may help clinicians more accurately predict prognosis, and triage priorities to improve clinical outcomes.",
+    "TypeName": "Preprint",
+    "Authors": "Chao Cao, Meiping Chen, Yiting Li, Lili Yu, Weina Huang, Guoqing Qian, Chuanbing Zhu, Jinguo Chu, Li He, Jingping Ma, Xiaomin Chen.",
+    "DOI": "10.2139/ssrn.3556663",
+    "Keywords": "SARS-CoV-2; pneumonia; lymphocyte counts; corticosteroids",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413915,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11102,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21071,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21075,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21060,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21071,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21059,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21006,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21009,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21021,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21042,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21050,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 6,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical features and a simple model for predicting the mortality of coronavirus disease 2019 patients on admission.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Lijuan Zhang, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3551386",
+    "Abstract": "Background: Coronavirus disease 2019 is an emerging infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and has an average mortality rate of 2.3%. The risk factors for mortality remain unclear. Methods: Clinical and laboratory parameters of 319 hospitalized patients with SARS-CoV-2 infection from January 2 to February 13, 2020 in the Central Hospital of Wuhan were retrospectively reviewed. Patients were followed up to February 27, 2020. The association between potential risk factors and mortality was estimated by Cox proportional hazards regression models. We further investigated the predictive performance of these factors on mortality and plotted the corresponding receiver operating characteristic curve and nomogram. Findings: During the median follow-up of 17 days (range, 4‚Äì30 days), 273 patients survived and were discharged, whereas 46 died. Univariate Cox regression analyses indicated several death-related risk factors. Further multivariate Cox regression analysis indicated that older age and increased levels of CRP and lactate were independent risk factors for fatal outcomes. We used the three variables to assemble a score model. The Harrell‚Äôs C-index for the established model to predict death risk was 0.89 (95% CI: 0.85‚Äì0.92). The performance of prediction model for 7-, 14-, 21-, and 28-day survival was considerable. Interpretation: Older age, increased levels of CRP and lactate were independent risk factors for mortality. We established a simple and practical clinical scoring system that can be used to identify patients who at high risk of mortality, which might contribute to risk classification and clinical practice.Funding Statement: This study was supported by the Health and Family Planning Commission of Wuhan Municipality, grant number WX18A02.Declaration of Interests: The authors declared no conflict of interest.Ethics Approval Statement: This study was approved by the Ethics Committees of the Central Hospital of Wuhan.",
+    "TypeName": "Preprint",
+    "Authors": "Lijuan Zhang, Wenwu Sun, Liangkai Chen, Qiang Wang, Yanli Liu, Su Zhao, Jia Li,  Yujun Wang, Li Yu.",
+    "DOI": "10.2139/ssrn.3551386",
+    "Keywords": "coronavirus disease 2019; severe acute respiratory syndrome coronavirus 2; mortality; risk factors; model.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413915,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11101,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21061,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21059,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21060,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21056,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21058,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21050,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21052,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21007,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21006,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21009,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21005,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21012,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21072,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21062,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 7,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Prevalence and impact of cardiovascular metabolic diseases on covid-19 in china.",
+    "ParentTitle": "Clinical research in cardiology",
+    "ShortTitle": "Bo Li, 2020.",
+    "Study Type": "Systematic review",
+    "Study detail": "Meta-analysis",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "Springer",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32161990",
+    "Abstract": "Background: Studies have reminded that cardiovascular metabolic comorbidities made patients more susceptible to sufer 2019 novel coronavirus (2019-nCoV) disease (COVID-19), and exacerbated the infection. The aim of this analysis is to determine the association of cardiovascular metabolic diseases with the development of COVID-19. Methods: A meta-analysis of eligible studies that summarized the prevalence of cardiovascular metabolic diseases in COVID19 and compared the incidences of the comorbidities in ICU/severe and non-ICU/severe patients was performed. Embase and PubMed were searched for relevant studies. Results: A total of six studies with 1527 patients were included in this analysis. The proportions of hypertension, cardia-cerebrovascular disease and diabetes in patients with COVID-19 were 17.1%, 16.4% and 9.7%, respectively. The incidences of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts. At least 8.0% patients with COVID-19 sufered the acute cardiac injury. The incidence of acute cardiac injury was about 13 folds higher in ICU/severe patients compared with the non-ICU/severe patients. Conclusion Patients with previous cardiovascular metabolic diseases may face a greater risk of developing into the severe condition and the comorbidities can also greatly afect the prognosis of the COVID-19. On the other hand, COVID-19 can, in turn, aggravate the damage to the heart.",
+    "TypeName": "Journal Article",
+    "Authors": "Bo Li, Jing Yang, Faming Zhao, Lili Zhi, Xiqian Wang, Lin Liu,  Zhaohui Bi, Yunhe Zhao. ",
+    "DOI": "10.1007/s00392-020-01626-9",
+    "Keywords": "2019-nCoV; COVID-19; Cardiac injury; Cardiovascular metabolic diseases.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11103,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21007,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21005,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21006,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21031,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 8,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical features and short-term outcomes of 114 elderly patients with covid-19 in wuhan, china: a single-center, retrospective, observational study.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Xu Zhu, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "Renmin Hospital of Wuhan University.",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ssrn.com/abstract=3548774",
+    "Abstract": "Background: COVID-19 is an emerging infectious disease that first reported in China and has spread worldwide. We aimed to explore the clinical variables associated with severity and short-term outcomes of elderly patients with this disease. Methods: In this study, we enrolled patients over 70 years old (yo) with laboratory confirmed COVID-19 between January 20 and February 15, 2020 admitted to Renmin Hospital of Wuhan University. Epidemiological, demographic, and clinical data were retrospectively collected. The patients were classified into two groups for severity evaluation: severe and non-severe groups, and retrospectively defined into two groups for outcome evaluation based on their health status: deteriorated and improved groups. Findings:One hundred and fourteen patients were included. The most common symptoms were fever, cough, and dyspnea. Patients with severe disease were more often with comorbidity of respiratory disease and with oxygen administrated than patients with non-severe disease. Total case-fatality rate was 23.7%. Multivariate analyses showed that presence of basic respiratory diseases or lactic dehydrogenase (LDH) was independently associated with infection severity. With regards to outcomes, severe and critical types, elevated white blood cell, neutrophil, aspartate aminotransferase, LDH, creatine kinase, creatinine, blood urea nitrogen, D-dimmer, and PCT, or decreased lymphocyte, especially those CD3, CD4, CD19, and CD16+CD56 positive T cells were more common in the deteriorated group than the improved groups.  Interpretation: The patients over 70 yo with COVID-19 had a high case-fatality rate. Specific comorbidities and laboratory findings may help us evaluating severity and outcomes in elderly patients with COVID-19.",
+    "TypeName": "Preprint",
+    "Authors": "Xu Zhu, Wenzheng Yuan, Kesheng Huang, Qingbo Wang, Shuang Yao, Wei Lu, Li Liu, Tao Fu.",
+    "DOI": "10.2139/ssrn.3548774",
+    "Keywords": "Clinical feature; outcome; elderly patient; COVID-19",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11102,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21050,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21049,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21042,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21008,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21005,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21016,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21021,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21026,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21059,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21056,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21058,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21061,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21060,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 9,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics of fatal and recovered cases of coronavirus disease 2019 (covid-19) in wuhan, china: a retrospective study.",
+    "ParentTitle": "Chinese medical journal",
+    "ShortTitle": "Yan Deng, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cross sectional",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32209890",
+    "Abstract": "Background: The 2019 novel coronavirus has caused the outbreak of the acute respiratory disease in Wuhan, Hubei Province of China since December 2019. This study was performed to analyze the clinical characteristics of patients who succumbed to and who recovered from 2019 novel coronavirus disease (COVID-19). Methods: Clinical data were collected from two tertiary hospitals in Wuhan. A retrospective investigation was conducted to analyze the clinical characteristics of fatal cases of COVID-19 (death group) and we compare them with recovered patients (recovered group). Continuous variables were analyzed using the Mann-Whitney U test. Categorical variables were analyzed by χ test or Fisher exact test as appropriate. Results: Our study enrolled 109 COVID-19 patients who died during hospitalization and 116 recovered patients. The median age of the death group was older than the recovered group (69 [62, 74] vs. 40 [33, 57] years, Z = 9.738, P < 0.001). More patients in the death group had underlying diseases (72.5% vs. 41.4%, χ = 22.105, P < 0.001). Patients in the death group had a significantly longer time of illness onset to hospitalization (10.0 [6.5, 12.0] vs. 7.0 [5.0, 10.0] days, Z = 3.216, P = 0.001). On admission, the proportions of patients with symptoms of dyspnea (70.6% vs. 19.0%, χ = 60.905, P < 0.001) and expectoration (32.1% vs. 12.1%, χ = 13.250, P < 0.001) were significantly higher in the death group. The blood oxygen saturation was significantly lower in the death group (85 [77, 91]% vs. 97 [95, 98]%, Z = 10.625, P < 0.001). The white blood cell (WBC) in death group was significantly higher on admission (7.23 [4.87, 11.17] vs. 4.52 [3.62, 5.88] ×10/L, Z = 7.618, P < 0.001). Patients in the death group exhibited significantly lower lymphocyte count (0.63 [0.40, 0.79] vs. 1.00 [0.72, 1.27] ×10/L, Z = 8.037, P < 0.001) and lymphocyte percentage (7.10 [4.45, 12.73]% vs. 23.50 [15.27, 31.25]%, Z = 10.315, P < 0.001) on admission, and the lymphocyte percentage continued to decrease during hospitalization (7.10 [4.45, 12.73]% vs. 2.91 [1.79, 6.13]%, Z = 5.242, P < 0.001). Alanine transaminase (22.00 [15.00, 34.00] vs. 18.70 [13.00, 30.38] U/L, Z = 2.592, P = 0.010), aspartate transaminase (34.00 [27.00, 47.00] vs. 22.00 [17.65, 31.75] U/L, Z = 7.308, P < 0.001), and creatinine levels (89.00 [72.00, 133.50] vs. 65.00 [54.60, 78.75] μmol/L, Z = 6.478, P < 0.001) were significantly higher in the death group than those in the recovered group. C-reactive protein (CRP) levels were also significantly higher in the death group on admission (109.25 [35.00, 170.28] vs. 3.22 [1.04, 21.80] mg/L, Z = 10.206, P < 0.001) and showed no significant improvement after treatment (109.25 [35.00, 170.28] vs. 81.60 [27.23, 179.08] mg/L, Z = 1.219, P = 0.233). The patients in the death group had more complications such as acute respiratory distress syndrome (ARDS) (89.9% vs. 8.6%, χ = 148.105, P < 0.001), acute cardiac injury (59.6% vs. 0.9%, χ = 93.222, P < 0.001), acute kidney injury (18.3% vs. 0%, χ = 23.257, P < 0.001), shock (11.9% vs. 0%, χ = 14.618, P < 0.001), and disseminated intravascular coagulation (DIC) (6.4% vs. 0%, χ = 7.655, P = 0.006). Conclusions: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels. More patients in the death group had complications such as ARDS, acute cardiac injury, acute kidney injury, shock, and DIC.",
+    "TypeName": "Journal Article",
+    "Authors": "Yan Deng, Wei Liu, Kui Liu, Yuan-Yuan Fang, Jin Shang, Ling Zhou, Ke Wang, Fan Leng, Shuang Wei, Lei Chen, Hui-Guo Liu.",
+    "DOI": "10.1097/CM9.0000000000000824.",
+    "Keywords": "Coronavirus disease 2019; Fatality; Recovery; Clinical characteristics; Lymphocyte; C-reactive protein",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413936,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21007,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21008,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21005,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21006,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21021,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21002,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21003,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21050,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21049,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21046,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21044,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21048,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21051,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21045,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21039,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21072,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21054,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21059,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21055,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21032,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21036,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21027,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 10,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Analysis of death risk factors among 200 covid-19 patients in wuhan, china: a hospital-based case-cohort study.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Lin Fu, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cases and controls",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3551430",
+    "Abstract": "Background: Coronavirus disease 2019 (COVID-19) triggered by infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has been widely epidemic all over China. The aim of this study was to analyze the influence factors of death risk among 200 COVID-19 patients.Methods: Two hundred patients with confirmed SARS-CoV-2 infection were recruited. Demographic data and clinical characteristics were collected from electronic medical records. Biochemical indexes on admission were measured and patient's prognosis was tracked. The association of demographic data, clinical characteristics and biochemical indexes with death risk was analyzed.Findings: Of 200 COVID-19 patients, 163 (81.5%) had at least one of comorbidities, including diabetes, hypertension, hepatic disease, cardiac disease, chronic pulmonary disease and others. Among all patients, critical cases, defined as oxygenation index lower than 200, accounted for 26.2%. Severe cases, oxygenation index from 200 to 300, were 29.7%. Besides, common cases, oxygenation index higher than 300, accounted for 44.1%. At the end of follow-up, 34 (17%) were died on mean 10.9 day after hospitalization. Stratified analysis revealed that older ages, lower oxygenation index and comorbidities elevated death risk of COVID-19 patients. On admission, 91% COVID-19 patients were with at least one of extrapulmonary organ injuries. Univariable logistic regression showed that ALT and TBIL, two indexes of hepatic injury, AST, myoglobin and LDH, AST/ALT ratio, several markers of myocardial injury, creatinine, urea nitrogen and uric acid, three indexes of renal injury, were positively associated with death risk of COVID-19 patients. Multivariable logistic regression revealed that AST/ALT ratio, urea nitrogen, TBIL and LDH on admission were positively correlated with death risk of COVID-19 patients.Interpretation: Older age, lower oxygenation index and comorbidities on admission elevate death risk of COVID-19 patients. AST/ALT ratio, urea nitrogen, TBIL and LDH on admission may be potential prognostic indicators. Early hospitalization is of great significance to prevent multiple organ damage and improve the survival of COVID-19 patients.Funding: This study was supported by National Natural Science Foundation of China (81630084) and National Natural Science Foundation Incubation Program of the Second Affiliated Hospital of Anhui Medical University (2019GQFY06).Declaration of Interest: We declare no competing interests.Ethical Approval: This study was approved by the Ethics Committee of Anhui Medical University.",
+    "TypeName": "Preprint",
+    "Authors": "Lin Fu, Jun Fei, Hui-Xian Xiang, Ying Xiang, Zhu-Xia Tan, Meng-Die Li, Fang-Fang Liu, Hong-Yan Liu, Ling Zheng, Ying Li, Hui Zhao, DeXiang Xu ",
+    "DOI": "10.2139/ssrn.3551430",
+    "Keywords": "Coronavirus disease 2019; Severe acute respiratory syndrome coronavirus-2; Death risk; Comorbidities; Organ injury.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413915,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 11,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in wuhan, china: a descriptive study.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Nanshan Chen, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cross sectional",
+    "Year": 2020,
+    "Month": "Feb",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Lancet Publishing Group",
+    "Institution": "Jinyintan Hospital",
+    "Volume": "395",
+    "Pages": "507-513",
+    "Edition": "10223",
+    "Issue": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32007143/",
+    "Abstract": "Background: In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia. Methods: In this retrospective, single-centre study, we included all confirmed cases of 2019-nCoV in Wuhan Jinyintan Hospital from Jan 1 to Jan 20, 2020. Cases were confirmed by real-time RT-PCR and were analysed for epidemiological, demographic, clinical, and radiological features and laboratory data. Outcomes were followed up until Jan 25, 2020. Findings: Of the 99 patients with 2019-nCoV pneumonia, 49 (49%) had a history of exposure to the Huanan seafood market. The average age of the patients was 55·5 years (SD 13·1), including 67 men and 32 women. 2019-nCoV was detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic diseases. Patients had clinical manifestations of fever (82 [83%] patients), cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache (11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%] patients), sore throat (five [5%] patients), rhinorrhoea (four [4%] patients), chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and vomiting (one [1%] patient). According to imaging examination, 74 (75%) patients showed bilateral pneumonia, 14 (14%) patients showed multiple mottling and ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients developed acute respiratory distress syndrome and, among them, 11 (11%) patients worsened in a short period of time and died of multiple organ failure. Interpretation: The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome. In general, characteristics of patients who died were in line with the MuLBSTA score, an early warning model for predicting mortality in viral pneumonia. Further investigation is needed to explore the applicability of the MuLBSTA score in predicting the risk of mortality in 2019-nCoV infection. Funding: National Key R&D Program of China.",
+    "TypeName": "Journal Article",
+    "Authors": "Nanshan Chen, Min Zhou, Xuan Dong, Jieming Qu, Fengyun Gong, Yang Han, Yang Qiu, Jingli Wang, Ying Liu, Yuan Wei, Jia’an Xia, Ting Yu, Xinxin Zhang, Li Zhang.",
+    "DOI": "10.1016/S0140-6736(20)30211-7",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413936,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 12,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Leukopenia predicts risk for death in critically ill patients with covid-19 in wuhan, china: a single-centered, retrospective study.",
+    "ParentTitle": "The Lancet Infectious Diseases",
+    "ShortTitle": "Juyi Li, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Case series",
+    "Year": 2020,
+    "Month": "",
+    "City": "Wuhan",
+    "Country": "",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3555248",
+    "Abstract": "Background: A pneumonia associated with a novel coronavirus (COVID-19) emerged in Wuhan, Hubei province, China. The epidemiological, clinical characteristics the patients with COVID-19 have been reported, but biomarkers for risk of death have not been well discribed. Methods: Retrospective, single-center case series of the 134 hospitalized patients confirmed with COVID-19 at the Central Hospital of Wuhan, China, from Jan 1 to Feb 20, 2020. All participants were analyzed for real-time RT-PCR, epidemiological, clinical, and radiological, laboratory, microbiological and drug therapy data. Outcomes of moderate vs severe vs critically ill patients, died patients vs non-died ill patients were compared. We aimed to explore potential biomarkers for risk of death in critically ill patients with COVID-19. Findings: 134 discharged patients including deaths hospitalized with COVID-19 pneumonia were included in this study. The median age of all patients was 61.00 years, 69 (51.49 %) of the patients were 60 years or older, and 75 (55.97 %) of the patients were male. 44.03 % patients had cardiovascular disease and 25.37 % patients had endocrine disorder (diabetes). The most common symptom of the patients was fever (84.33 %) and cough (76.87 %). As increase in the severity of COVID-19 pneumonia, higher median values of leukocytes count, neutrophils count, D-dimer and C-reactive protein (all P < 0.05), lower platelets count and albumin (all P < 0.05). After adjusting for age, cardiovascular disease and acute respiratory distress syndrome, plasma levels of albumin remained a significant association with an lower odds ratio for risk of death in critical group (P< 0.05). The area under the curve of albumin was 0.79, the optimal cut-of point for albumin was 35.1 g/ L. At this level, sensitivity was 76.47 %; specificity was 73.81 %.Interpretation: Levels of albumin decreased with the progress of the disease, and could be used as an independent predictive marker for risk of death in critically ill patients with COVID-19, which could help clinicians to idientify patients with high risk of death at an early stage.Funding Statement: This study was supported by the Health and Family Planning Commission of Wuhan City (WX18M02 and WX18C25).Declaration of Interests: The authors declare no competing interests.Ethics Approval Statement: This study was approved by the Ethics Commission of the Central Hospital of Wuhan. Written informed consent was waived by the Ethics Commission of the designated hospital for emerging infectious diseases",
+    "TypeName": "Preprint",
+    "Authors": "Li, Juyi and Li, Meng and Zheng, Shasha and Li, Menglan and Wang, Xiufang and Zhang, Minhua and Sun, Minxian and Chen, Jian and Li, Xiang and Deng, Aiping and Cai, Yi and Zhang, Hongmei",
+    "DOI": "10.2139/ssrn.3555248",
+    "Keywords": "Pneumonia; COVID-19; albumin; critically ill patients; biomarkers.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 13,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics predicting progression of covid-19.",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Dong Ji, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Feb",
+    "City": "Beijing",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "Chinese PLA general hospital ",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3539674",
+    "Abstract": "Background: With the outbreak of COVID-19 from Wuhan, Hubei Province, China since January 2020, there is a tremendous pressure on medical resources. We studied predictive factors of progression to severe disease to facilitate proper allocation of patients to different level of medical facilities. Methods: All COVID-19 patients admitted to our hospital from 20 Jan 2020 were enrolled and follow-up until 16 Feb 2020. The patients were divided into two groups: stable non-severe and progressive to severe diseases. Clinical data was prospectively collected and compared between the two groups. Findings: Forty-nine COVID-19 patients, mean age: 43·6±17·1 years, 63·3% male, were enrolled. Sixteen (32·7%) had at least one comorbidity (hypertension, diabetes mellitus, cardiovascular disease and lung disease). Thirty-four 34 (69·4%) had stable non-severe disease and 15 (30·6%) progressed to severe disease. Univariate analysis showed that comorbidity, age >50, lymphocyte counts <1500 /μL and serum ferritin >400 ng/mL at presentation were predictive of progression to severe diseases. Seventy-three percent of patients (11/15) with three or all four risk factors progressed to severe disease, requiring intubation or intensive unit care as compared with 11·8% (4/34) of subjects with 0-2 risk factors (odds ratio 6·2, 95 % CI: 1·7 to 22·8, p=0·006). None of the subjects with absence of all 4 risk factors progressed to more severe diseases.  Interpretation: Around one-fifth of patients with COVID-19 will progress to severe diseases. Four simple clinical parameters at presentation, namely comorbidity, age, lymphocyte counts and serum ferritin were able to identify a group of patients with low risk of progression. This will greatly facilitate optimal utilization of the very tight medical resources in places with huge patient loads. Funding: Chinese PLA General Hospital and Beijing Municipal Science and Technology Commission.",
+    "TypeName": "Preprint",
+    "Authors": "Dong Ji , Dawei Zhang , Zhu Chen , Zhe Xu, Peng Zhao, Mingjie Zhang, Lunqing Zhang, Gregory Cheng, Yudong Wang, Guang Yang, Hongxia Liu, Boyu Li, Junsheng Ji, George Lau, Enqiang Qin.",
+    "DOI": "10.2139/ssrn.3539674",
+    "Keywords": "COVID-19; prediction; risk factors; severity of disease.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 14,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics of 101 non-survivors hospitalized with covid-19 - a single center, retrospective study",
+    "ParentTitle": "medRvix",
+    "ShortTitle": "Qiao Shi, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "Renmin Hospital of Wuhan University",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.medrxiv.org/content/10.1101/2020.03.04.20031039v4",
+    "Abstract": "Background: The outbreak of COVID-19 has aroused global concerns. We aimed to describe the clinical characteristics of COVID-19 nonsurvivors and analyze possible causes for the rapid disease progress to death. Methods: Patients with confirmed COVID-19 died in Renmin Hospital of Wuhan University before February 15, 2020, were identified. We obtained epidemiological, demographic, and clinical data from electronic medical records. Results: Among 101 nonsurvivors, the median age was 71.0 years (IQR, 59.0-80.0), 59.4% were male, 79.2% had one or more comorbidities including hypertension (58.4%), cardiovascular disease (22.8%), diabetes (20.8%) etc. The most common symptoms were fever (76.2%), cough (58.4%) and dyspnea (54.5%). Respiratory failure (99.0%), acute cardiac injury (52.5%), sepsis (40.6%) and acute kidney injury (23.8%) were most common complications. Compared with patients died after 3 days of admission, patients died within 3 days of admission had significantly higher white blood cell count (10.8 vs 6.7×109 /L, P=0.001) and neutrophil count (8.9 vs 5.5×109 /L, P=0.001), longer prothrombin time (13.2 vs 12.5 s, P=0.040), higher D-dimer concentration (7.64 vs 2.82, P=0.040), higher lactate level (2.9 vs 2.2 mmol/L, P=0.042), lower oxygen saturation (85.0% vs 91.0%, P=0.008), and were more likely to suffer sepsis (52.1% vs 30.2%, P=0.025). Conclusions: Older patients with underlying comorbidities suffering COVID-19 were at high risk of death. Respiratory failure, acute cardiac injury and acute kidney injury played crucial roles in the death of COVID-19 patients. Early development of sepsis was associated with the rapid disease progress to death.",
+    "TypeName": "Preprint",
+    "Authors": "Qiao Shi, Kailiang Zhao, Jia Yu,  Fang Jiang,  Jiarui Feng, Kaiping Zhao, Xiaoyi Zhang,  Xiaoyan Chen, Peng Hu, Yupu Hong, Man Li, Fang Liu, Chen Chen, Weixing Wang.",
+    "DOI": "10.1101/2020.03.04.20031039",
+    "Keywords": "COVID-19; Death; Organ dysfunction; Sepsis; SARS-CoV-2",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 15,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Dysregulation of immune response in patients with covid-19 in wuhan, china.",
+    "ParentTitle": "Clinical infectious diseases",
+    "ShortTitle": "Chuan Qin, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cross sectional",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Oxford Academic",
+    "Institution": "Tongji Hospital",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32161940",
+    "Abstract": "Background: In December 2019, coronavirus disease 2019 (COVID-19) emerged in Wuhan and rapidly spread throughout China. Methods: Demographic and clinical data of all confirmed cases with COVID-19 on admission at Tongji Hospital from January 10 to February 12, 2020, were collected and analyzed. The data of laboratory examinations, including peripheral lymphocyte subsets, were analyzed and compared between severe and non-severe patients. Results: Of the 452 patients with COVID-19 recruited, 286 were diagnosed as severe infection. The median age was 58 years and 235 were male. The most common symptoms were fever, shortness of breath, expectoration, fatigue, dry cough and myalgia. Severe cases tend to have lower lymphocytes counts, higher leukocytes counts and neutrophil-lymphocyte-ratio (NLR), as well as lower percentages of monocytes, eosinophils, and basophils. Most of severe cases demonstrated elevated levels of infection-related biomarkers and inflammatory cytokines. The number of T cells significantly decreased, and more hampered in severe cases. Both helper T cells and suppressor T cells in patients with COVID-19 were below normal levels, and lower level of helper T cells in severe group. The percentage of naïve helper T cells increased and memory helper T cells decreased in severe cases. Patients with COVID-19 also have lower level of regulatory T cells, and more obviously damaged in severe cases. Conclusions: The novel coronavirus might mainly act on lymphocytes, especially T lymphocytes. Surveillance of NLR and lymphocyte subsets is helpful in the early screening of critical illness, diagnosis and treatment of COVID-19.",
+    "TypeName": "Journal Article",
+    "Authors": "Chuan Qin, Luoqi Zhou, Ziwei Hu, Shuoqi Zhang, Sheng Yang, Yu Tao, MD, Cuihong Xie, Ke Ma, Ke Shang, Wei Wang, Dai-Shi Tian.",
+    "DOI": "10.1093/cid/ciaa248",
+    "Keywords": "COVID-19; Lymphocyte subsets; T lymphocyte; immune response.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 16,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "The clinical and chest ct features associated with severe and critical covid-19 pneumonia.",
+    "ParentTitle": "Investigative radiology",
+    "ShortTitle": "Kunhua Li, 2020..",
+    "Study Type": "Observational",
+    "Study detail": "Cross sectional",
+    "Year": 2020,
+    "Month": "Jun",
+    "City": "",
+    "Country": "China",
+    "Publisher": "Wolters Kluwer",
+    "Institution": "Tongji Hospital",
+    "Volume": "55",
+    "Pages": "327-331",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32118615",
+    "Abstract": "OBJECTIVE: To investigate the clinical and CT features associated with severe and critical Corona Virus Disease 2019 (COVID-19) pneumonia. MATERIALS AND METHODS: Eighty-three patients with COVID-19 pneumonia including 25 severe/critical cases and 58 ordinary cases were enrolled. The chest CT images and clinical data of them were reviewed and compared. The risk factors associated with disease severity were analyzed. RESULTS: Compared with the ordinary patients, the severe/critical patients had older ages, higher incidence of comorbidities, cough, expectoration, chest pain and dyspnea. The incidences of consolidation, linear opacities, crazy-paving pattern and bronchial wall thickening in severe/critical patients were significantly higher than those of the ordinary patients. Besides, severe/critical patients showed higher incidences of lymph node enlargement, pericardial effusion and pleural effusion than the ordinary patients. The CT scores of severe/critical patients were significantly higher than those of the ordinary patients (P < 0.001). Receiver operating characteristic (ROC) curve showed that the sensitivity and specificity of CT Score were 80.0% and 82.8% respectively for the discrimination of the two types. The clinical factors of age > 50 years old, comorbidities, dyspnea, chest pain, cough, expectoration, decreased lymphocytes and increased inflammation indicators were risk factors for severe/critical COVID-19 pneumonia. CT findings of consolidation, linear opacities, crazy-paving pattern, bronchial wall thickening, high CT scores and extrapulmonary lesions were features of severe/critical COVID-19 pneumonia. CONCLUSIONS: There are significant differences in clinical symptoms, laboratory examinations and CT manifestations between the ordinary patients and the severe/critical patients. Many factors are related to the severity of the disease, which can help clinicians to judge the severity of the patient and evaluate the prognosis.",
+    "TypeName": "Journal Article",
+    "Authors": "Kunhua Li , Jiong Wu, Faqi Wu, Dajing Guo, Linli Chen, Zheng Fang, Chuanming Li.",
+    "DOI": "10.1097/RLI.0000000000000672",
+    "Keywords": "COVID-19; SARS-CoV-2; acute respiratory disease; pneumonia; severity; risk factor.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 17,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Epidemiological, clinical characteristics of cases of sars-cov-2 infection with abnormal imaging findings.",
+    "ParentTitle": "International journal of infectious diseases",
+    "ShortTitle": "Xiaoli Zhang, 2020.",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "May",
+    "City": "",
+    "Country": "China",
+    "Publisher": "Elsevier",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "81-87",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32205284",
+    "Abstract": "Purpose: To investigate the epidemiological and clinical characteristics of COVID-19 patients with abnormal imaging findings. Methods: Patients confirmed with SARS-CoV-2 infection in Zhejiang province from January 17 to February 8 who had undergone CT or X-ray were enrolled. Epidemiological and clinical data were analyzed among those with abnormal or normal imaging findings. Results: Excluding 72 patients with normal images, 230 of 573 patients showed abnormalities affecting more than two lung lobes. The median radiographic score was 2.0, and there was a negative correlation between that score and the oxygenation index (ρ = -0.657, P < 0.001). Patients with abnormal images were older (46.65 ± 13.82), with a higher rate of coexisting condition (28.8%), a lower rate of exposure history, and longer time between onset and confirmation (5 days) than non-pneumonia patients (all P < 0.05). A higher rate of fever, cough, expectoration and headache, a lower level of lymphocytes, albumin, and serum sodium levels and a higher total bilirubin, creatine kinase, lactate dehydrogenase, and C-reactive protein levels and a lower oxygenation index were observed in pneumonia patients (all P < 0.05). Muscle ache, shortness of breath, nausea and vomiting, lower lymphocytes levels, and higher serum creatinine and radiographic score at admission were predictive factors for the severe/critical subtype. Conclusion: Patients with abnormal images have more obvious clinical manifestations and laboratory changes. Combing clinical features and radiographic scores can effectively predict severe/critical types.",
+    "TypeName": "Journal Article",
+    "Authors": "Xiaoli Zhang, Huan Cai, Jianhua Hu, Jiangshan Lian, Jueqing Gu, Shanyan Zhang, Chanyuan Ye, Yingfeng Lu, Ciliang Jin, Guodong Yu, Hongyu Jia, Yimin Zhang, Jifang Sheng, Lanjuan Li, Yida Yang.",
+    "DOI": "10.1016/j.ijid.2020.03.040",
+    "Keywords": "Clinical; Epidemiological; Imaging findings; Predictive factors; SRAS-CoV-2.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 18,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms",
+    "ParentTitle": "Gut",
+    "ShortTitle": "Jin, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Jin, 2020",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Zhejiang",
+    "Country": "China",
+    "Publisher": "BMJ Journals",
+    "Institution": "",
+    "Volume": 69,
+    "Pages": "1002-1009",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://gut.bmj.com/content/69/6/1002",
+    "Abstract": "Objective The SARS-CoV-2-infected disease (COVID-19) outbreak is a major threat to human beings. Previous studies mainly focused on Wuhan and typical symptoms. We analysed 74 confirmed COVID-19 cases with GI symptoms in the Zhejiang province to determine epidemiological, clinical and virological characteristics.Design COVID-19 hospital patients were admitted in the Zhejiang province from 17 January 2020 to 8 February 2020. Epidemiological, demographic, clinical, laboratory, management and outcome data of patients with GI symptoms were analysed using multivariate analysis for risk of severe/critical type. Bioinformatics were used to analyse features of SARS-CoV-2 from Zhejiang province.Results Among enrolled 651 patients, 74 (11.4%) presented with at least one GI symptom (nausea, vomiting or diarrhoea), average age of 46.14 years, 4-day incubation period and 10.8% had pre-existing liver disease. Of patients with COVID-19 with GI symptoms, 17 (22.97%) and 23 (31.08%) had severe/critical types and family clustering, respectively, significantly higher than those without GI symptoms, 47 (8.14%) and 118 (20.45%). Of patients with COVID-19 with GI symptoms, 29 (39.19%), 23 (31.08%), 8 (10.81%) and 16 (21.62%) had significantly higher rates of fever &amp;gt;38.5¬∞C, fatigue, shortness of breath and headache, respectively. Low-dose glucocorticoids and antibiotics were administered to 14.86% and 41.89% of patients, respectively. Sputum production and increased lactate dehydrogenase/glucose levels were risk factors for severe/critical type. Bioinformatics showed sequence mutation of SARS-CoV-2 with m6A methylation and changed binding capacity with ACE2.Conclusion: We report COVID-19 cases with GI symptoms with novel features outside Wuhan. Attention to patients with COVID-19 with non-classic symptoms should increase to protect health providers.",
+    "TypeName": "Journal Article",
+    "Authors": "Xi Jin, Jiang-Shan Lian, , Jian-Hua Hu , Jianguo  Gao, Lin  Zheng, Yi-Min Zhang, Shao-Rui  Hao, Hong-Yu Jia, Huan  Cai, Xiao-Li  Zhang, , Guo-Dong Yu,  Kai-Jin Xu, Xiao-Yan Wang, Xiao-Yan and Gu, Jue-Qing and Zhang, Shan-Yan and Ye, Chan-Yuan and Jin, Ci-Liang and Lu, Ying-Feng and Yu, Xia and Yu, Xiao-Peng and Huang, Jian-Rong and Xu, Kang-Li and Ni, Qin and Yu, Cheng-Bo and Zhu, Biao and Li, Yong-Tao and Liu, Jun and Zhao, Hong and Zhang, Xuan and Yu, Liang and Guo, Yong-Zheng and Su, Jun-Wei and Tao, Jing-Jing and Lang, Guan-Jing and Wu, Xiao-Xin and Wu, Wen-Rui and Qv, Ting-Ting and Xiang, Dai-Rong and Yi, Ping and Shi, Ding and Chen, Yanfei and Ren, Yue and Qiu, Yun-Qing and Li, Lan-Juan and Sheng, Jifang and Yang, Yida",
+    "DOI": "10.1136/gutjnl-2020-320926",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413936,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 19,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Comorbidity and its impact on 1590 patients with Covid-19 in China: A nationwide analysis.",
+    "ParentTitle": "The European respiratory journal",
+    "ShortTitle": "Guan. 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "European respiratory Journal",
+    "Institution": "",
+    "Volume": 55,
+    "Pages": "",
+    "Edition": "",
+    "Issue": "5",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32217650",
+    "Abstract": "Background: The coronavirus disease 2019 (Covid-19) outbreak is evolving rapidly worldwide. Objetive: To evaluate the risk of serious adverse outcomes in patients with coronavirus disease 2019 (Covid-19) by stratifying the comorbidity status. Methods: We analysed the data from 1590 laboratory-confirmed hospitalised patients 575 hospitals in 31 province/autonomous regions/provincial municipalities across mainland China between December 11th, 2019 and January 31st, 2020. We analyse the composite endpoints, which consisted of admission to intensive care unit, or invasive ventilation, or death. The risk of reaching to the composite endpoints was compared according to the presence and number of comorbidities. Results: The mean age was 48.9‚ÄÖyears. 686 patients (42.7%) were females. Severe cases accounted for 16.0% of the study population. 131 (8.2%) patients reached to the composite endpoints. 399 (25.1%) reported having at least one comorbidity. The most prevalent comorbidity was hypertension (16.9%), followed by diabetes (8.2%). 130 (8.2%) patients reported having two or more comorbidities. After adjusting for age and smoking status, COPD [hazards ratio (HR) 2.681, 95% confidence interval (95%CI) 1.424-5.048], diabetes (HR 1.59, 95%CI 1.03-2.45), hypertension (HR 1.58, 95%CI 1.07-2.32) and malignancy (HR 3.50, 95%CI 1.60-7.64) were risk factors of reaching to the composite endpoints. The HR was 1.79 (95%CI 1.16-2.77) among patients with at least one comorbidity and 2.59 (95%CI 1.61-4.17) among patients with two or more comorbidities. Conclusion: Among laboratory-confirmed cases of Covid-19, patients with any comorbidity yielded poorer clinical outcomes than those without. A greater number of comorbidities also correlated with poorer clinical outcomes.",
+    "TypeName": "Journal Article",
+    "Authors": "Wei-Jie  Guan,  Wen-Hua  Liang,  Yi Zhao,  Heng-Rui  Liang,  Zi-Sheng  Chen,  Yi-Min  Li, Xiao-Qing  Liu, Ru-Chong  Chen, Chun-Li Tang,  Tao Wang, Chun-Quan Ou, Li Li,  Ping-Yan  Chen, Ling Sang, Wei Wang, Jian-Fu  Li, Cai-Chen  Li. and Hu, Ya-Hua and Peng, Peng and Wang, Jian-Ming and Liu, Ji-Yang and Chen, Zhong and Li, Gang and Zheng, Zhi-Jian and Qiu, Shao-Qin and Luo, Jie and Ye, Chang-Jiang and Zhu, Shao-Yong and Cheng, Lin-Ling and Ye, Feng and Li, Shi-Yue and Zheng, Jin-Ping and Zhang, Nuo-Fu and Zhong, Nan-Shan and He, Jian-Xing and China Medical Treatment Expert Group for Covid-19, [Collective Name]",
+    "DOI": "10.1183/13993003.00547-2020",
+    "Keywords": "Mortality; Cardiovascular disease; Chronic obstructive pulmonary disease; Diabetes; Hypertension; Malignancy.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413915,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 20,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Elevated serum IgM levels indicate poor outcome in patients with coronavirus disease 2019 pneumonia: A retrospective case-control study",
+    "ParentTitle": "",
+    "ShortTitle": "Wang, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases and controls",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Shangai",
+    "Country": "China",
+    "Publisher": "The lancet",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://papers.ssrn.com/abstract=3557987",
+    "Abstract": "Background: The coronavirus disease 2019 (COVID-19) pneumonia outbreak began in Wuhan and pandemics tend to occur. Although SARS-CoV-2-specific immunoglobulins have been detected in serum of COVID-19 patients, their dynamics and association with outcomes have not been characterized. Methods: A total of 116 hospitalized patients with confirmed COVID-19 pneumonia and SARS-CoV-2-specific immunoglobulins tested in Tongji Hospital were retrospectively investigated. Clinical, laboratory, radiological characteristics and outcomes data were compared between mild-moderate group and died group. Further, a paired case-control study was conducted where each dead case was matched to three mild-moderate patients of similar age. Findings: Among 116 subjects included, 101 mild-moderate patients survived and 15 cases died. SARS-CoV-2-specific IgM levels peaked in forth week after onset of COVID-19 pneumonia, while serum IgG levels increased over 8 weeks. Serum IgM levels were higher in dead patients than mild-moderate patients (p =0.024), but not IgG. Serum IgM levels were negatively correlated with clinical outcome, eosinophil count and albumin levels (r = -0.269, P=0.003; r = -0.188, P = 0.043; and r = -0.198, P=0.033, resp.). The area under the ROC curve (AUC) for IgM antibody was 0.681 (95% CI: 0.517-0.845, P = 0.024). In case-control study paired by age, serum IgM was higher in dead patients than mild-moderate patients (p =0.019), positively correlated with leucocyte count (r = 0.260, P = 0.045), while negatively correlated with clinical outcome and albumin levels (r = -0.337, P=0.008; r = -0.265, P = 0.041). AUC for IgM levels was 0.704 (95% CI: 0.534-0.873, P = 0.019). Interpretation: These results indicate that dynamics of SARS-CoV-2 specific IgM and IgG antibodies was similar with that of SARS-CoV, while elevated serum IgM levels indicate poor outcome in patients with COVID-19 pneumonia.Funding Statement: This work was supported by National Natural Science Foundation of China (No.81702989).Declaration of Interests: The authors declare no conflict of interest.Ethics Approval Statement: This study was reviewed and approved by the Medical Ethical Committee of Tongji Hospital of Huazhong University of Science and Technology (IRB ID: TJIRB20200343).",
+    "TypeName": "Preprint",
+    "Authors": "Zhihua Wang, Huijun Li, Jingjing Li, Chunguang Yang, Xiaolin Guo, Zhiquan Hu, Zhiqiang Chen, Shaogang Wang, Jihong Liu.",
+    "DOI": "10.1101/2020.03.22.20041285",
+    "Keywords": "2019-nCoV; SARS-CoV-2; COVID-19; Coronavirus; Immunoglobulin.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 21,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study",
+    "ParentTitle": "BMJ",
+    "ShortTitle": "Chen, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases series",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Shangai",
+    "Country": "China",
+    "Publisher": "BMJ Journals",
+    "Institution": "",
+    "Volume": "368",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "http://www.bmj.com/content/368/bmj.m1091.abstract",
+    "Abstract": "Objective: To delineate the clinical characteristics of patients with coronavirus disease 2019 (covid-19) who died.Design Retrospective case series.Setting Tongji Hospital in Wuhan, China.Participants Among a cohort of 799 patients, 113 who died and 161 who recovered with a diagnosis of covid-19 were analysed. Data were collected until 28 February 2020.Main outcome measures Clinical characteristics and laboratory findings were obtained from electronic medical records with data collection forms.Results The median age of deceased patients (68 years) was significantly older than recovered patients (51 years). Male sex was more predominant in deceased patients (83; 73%) than in recovered patients (88; 55%). Chronic hypertension and other cardiovascular comorbidities were more frequent among deceased patients (54 (48%) and 16 (14%)) than recovered patients (39 (24%) and 7 (4%)). Dyspnoea, chest tightness, and disorder of consciousness were more common in deceased patients (70 (62%), 55 (49%), and 25 (22%)) than in recovered patients (50 (31%), 48 (30%), and 1 (1%)). The median time from disease onset to death in deceased patients was 16 (interquartile range 12.0-20.0) days. Leukocytosis was present in 56 (50%) patients who died and 6 (4%) who recovered, and lymphopenia was present in 103 (91%) and 76 (47%) respectively. Concentrations of alanine aminotransferase, aspartate aminotransferase, creatinine, creatine kinase, lactate dehydrogenase, cardiac troponin I, N-terminal pro-brain natriuretic peptide, and D-dimer were markedly higher in deceased patients than in recovered patients. Common complications observed more frequently in deceased patients included acute respiratory distress syndrome (113; 100%), type I respiratory failure (18/35; 51%), sepsis (113; 100%), acute cardiac injury (72/94; 77%), heart failure (41/83; 49%), alkalosis (14/35; 40%), hyperkalaemia (42; 37%), acute kidney injury (28; 25%), and hypoxic encephalopathy (23; 20%). Patients with cardiovascular comorbidity were more likely to develop cardiac complications. Regardless of history of cardiovascular disease, acute cardiac injury and heart failure were more common in deceased patients.Conclusion Severe acute respiratory syndrome coronavirus 2 infection can cause both pulmonary and systemic inflammation, leading to multi-organ dysfunction in patients at high risk. Acute respiratory distress syndrome and respiratory failure, sepsis, acute cardiac injury, and heart failure were the most common critical complications during exacerbation of covid-19.",
+    "TypeName": "Journal Article",
+    "Authors": "Tao Chen,Di Wu, Huilong Chen, Weiming Yan, Danlei Yang, Guang Chen, Ke Ma, Dong Xu, Haijing Yu, Hongwu Wang, Tao Wang, Wei Guo, Jia Chen, Chen Ding, Xiaoping Zhang, Jiaquan Huang, Meifang Han, Shusheng Li, Xiaoping Luo, Jianping Zhao, Qin Ning.",
+    "DOI": "10.1136/bmj.m1091",
+    "Keywords": "2019-nCoV; SARS-CoV-2; COVID-19; Coronavirus; Immunoglobulin.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 22,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study.",
+    "ParentTitle": "The Lancet. Infection diseases ",
+    "ShortTitle": "Shi, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Apr",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "The lancet",
+    "Institution": "",
+    "Volume": "20",
+    "Pages": "425-434",
+    "Edition": "",
+    "Issue": "4",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32105637",
+    "Abstract": "Background: A cluster of patients with coronavirus disease 2019 (COVID-19) pneumonia caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) were successively reported in Wuhan, China. We aimed to describe the CT findings across different timepoints throughout the disease course. METHODS: Patients with COVID-19 pneumonia (confirmed by next-generation sequencing or RT-PCR) who were admitted to one of two hospitals in Wuhan and who underwent serial chest CT scans were retrospectively enrolled. Patients were grouped on the basis of the interval between symptom onset and the first CT scan: group 1 (subclinical patients; scans done before symptom onset), group 2 (scans done ‚â§1 week after symptom onset), group 3 (>1 week to 2 weeks), and group 4 (>2 weeks to 3 weeks). Imaging features and their distribution were analysed and compared across the four groups. FINDINGS: 81 patients admitted to hospital between Dec 20, 2019, and Jan 23, 2020, were retrospectively enrolled. The cohort included 42 (52%) men and 39 (48%) women, and the mean age was 49¬∑5 years (SD 11¬∑0). The mean number of involved lung segments was 10¬∑5 (SD 6¬∑4) overall, 2¬∑8 (3¬∑3) in group 1, 11¬∑1 (5¬∑4) in group 2, 13¬∑0 (5¬∑7) in group 3, and 12¬∑1 (5¬∑9) in group 4. The predominant pattern of abnormality observed was bilateral (64 [79%] patients), peripheral (44 [54%]), ill-defined (66 [81%]), and ground-glass opacification (53 [65%]), mainly involving the right lower lobes (225 [27%] of 849 affected segments). In group 1 (n=15), the predominant pattern was unilateral (nine [60%]) and multifocal (eight [53%]) ground-glass opacities (14 [93%]). Lesions quickly evolved to bilateral (19 [90%]), diffuse (11 [52%]) ground-glass opacity predominance (17 [81%]) in group 2 (n=21). Thereafter, the prevalence of ground-glass opacities continued to decrease (17 [57%] of 30 patients in group 3, and five [33%] of 15 in group 4), and consolidation and mixed patterns became more frequent (12 [40%] in group 3, eight [53%] in group 4). INTERPRETATION: COVID-19 pneumonia manifests with chest CT imaging abnormalities, even in asymptomatic patients, with rapid evolution from focal unilateral to diffuse bilateral ground-glass opacities that progressed to or co-existed with consolidations within 1-3 weeks. Combining assessment of imaging features with clinical and laboratory findings could facilitate early diagnosis of COVID-19 pneumonia. FUNDING: None.",
+    "TypeName": "Journal Article",
+    "Authors": "Heshui Shi,  Xiaoyu Han , Nanchuan Jiang , Yukun Cao , Osamah Alwalid , Jin Gu , Yanqing Fan , Chuansheng Zheng ",
+    "DOI": "10.1016/S1473-3099(20)30086-4",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 23,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical feature of COVID-19 in elderly patients: a comparison with young and middle-aged patients.",
+    "ParentTitle": "The Journal of infection",
+    "ShortTitle": "Liu, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Haikou",
+    "Country": "China",
+    "Publisher": "El sevier",
+    "Institution": "Hainan General Hospital",
+    "Volume": "80",
+    "Pages": "14-18",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32171866",
+    "Abstract": "Background: Due to the general susceptibility of new coronaviruses, the clinical characteristics and outcomes of elderly and young patients may be different. Objetive: To analyze the clinical characteristics of elderly patients with new-type coronavirus pneumonia (COVID-19). Methods: This is a retrospective study of patients with new coronavirus pneumonia (COVID-19) who were hospitalized in Hainan Provincial People's Hospital from January 15, 2020 to February 18, 2020. Compare the clinical characteristics of elderly with Young and Middle-aged patients. Results: A total of 56 patients were evaluated, 18 elderly patients (32.14%), and 38 young and middle-aged patients (67.86%). The most common symptoms in both groups were fever, followed by cough and sputum. Four patients in the elderly group received negative pressure ICU for mechanical ventilation, and five patients in the young and middle-aged group. One patient died in the elderly group (5.56%), and two patients died in the young and middle-aged group (5.26%). The PSI score of the elderly group was higher than that of the young and middle-aged group (P<0.001). The proportion of patients with PSI grades IV and V was significantly higher in the elderly group than in the young and middle-aged group (P<0.05). The proportion of multiple lobe involvement in the elderly group was higher than that in the young and middle-aged group (P<0.001), and there was no difference in single lobe lesions between the two groups. The proportion of lymphocytes in the elderly group was significantly lower than that in the young and middle-aged group (P<0.001), and the C-reactive protein was significantly higher in the young group (P<0.001). The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all <0.05. ",
+    "TypeName": "Journal Article",
+    "Authors": "Kai Liu , Ying Chen , Ruzheng Lin , Kunyuan Han",
+    "DOI": "10.1016/j.jinf.2020.03.005",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 24,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).",
+    "ParentTitle": "Journal of internal medicine",
+    "ShortTitle": "Wu, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases series",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "Journal of Internal Medicine",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32220033",
+    "Abstract": "Background: At present, the severity of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a focal point. Methods: To assess the factors associated with severity and prognosis of patients infected with SARS-CoV-2, we retrospectively investigated the clinical, imaging and laboratory characteristics of confirmed 280 cases of novel coronavirus disease (COVID-19) from 20 January to 20 February 2020. Results: The median age of patients in the mild group was 37.55 years, whilst that in the severe group was 63.04 years. The proportion of patients aged over 65 years in the severe group was significantly higher than that of the mild group (59.04% vs. 10.15%, P < 0.05). 85.54% of severe patients had diabetes or cardiovascular diseases, which was significantly higher than that of the mild group (51.81% vs. 7.11%, P = 0.025; 33.73% vs. 3.05%, P = 0.042). Patients in the mild group experienced earlier initiation of antiviral treatment (1.19 ± 0.45 vs. 2.65 ± 1.06 days in the severe group, P < 0.001). Our study showed that comorbidity, time from illness onset to antiviral treatment and age >=65 were three major risk factors for COVID-19 progression, whilst comorbidity and time from illness onset to antiviral treatment were two major risk factors for COVID-19 recovery. Conclusions: The elderly and patients with underlying diseases are more likely to experience a severe progression of COVID-19. It is recommended that timely antiviral treatment should be initiated to slow the disease progression and improve the prognosis.",
+    "TypeName": "Journal Article",
+    "Authors": "J Wu , W Li , X Shi , Z Chen, B Jiang , J Liu, D Wang , C Liu , Y Meng , L Cui , J Yu , H Cao , L Li",
+    "DOI": "10.1111/joim.13063",
+    "Keywords": "severe acute respiratory síndrome coronavirus 2 (SARS-CoV-2); coronavirus disease-19 (COVID-19); antiviral treatment; disease progression; prognosis.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 25,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical progression of patients with COVID-19 in Shanghai, China.",
+    "ParentTitle": "The Journal of infection",
+    "ShortTitle": "Chen, 2020",
+    "Study Type": "Observational",
+    "Study detail": "",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Shangai",
+    "Country": "China",
+    "Publisher": "El sevier",
+    "Institution": "",
+    "Volume": "80",
+    "Pages": "1-6",
+    "Edition": "",
+    "Issue": "5",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32171869",
+    "Abstract": "Background: Studies on the 2019 novel coronavirus disease (COVID-19) have generally been limited to the description of the epidemiology and initial clinical characteristics. We investigated the temporal pro- gression in patients with COVID-19. Methods: In this retrospective, single-center study, we included confirmed cases of COVID-19 from Jan 20 to Feb 6, 2020 in Shanghai. Final date of follow-up was February 25, 2020. Results: Of the 249 patients enrolled, the median age was 51 years old, and 126 (50.6%) were male. The duration from onset of symptoms to hospitalization was 4(2–7) days in symptomatic patients. Fever was occurred in 235(94.3%) patients. A total of 215 (86.3%) patients had been discharged after 16(12–20) days hospitalization. The estimated median duration of fever in all the patients with fever was 10 days (95 confidential intervals [CIs]: 8–11 days) after onset of symptoms. Patients who were transferred to inten- sive care units (ICU) had significantly longer duration of fever as compared to those not in ICU (31 days v.s. 9 days after onset of symptoms, respectively, P < 0.0 0 01). Radiological aggravation of initial image was observed in 163 (65.7%) patients on day 7 after onset of symptoms. 154(94.5%) of these patients showed radiological improvement on day 14. The median duration to negative reverse-transcriptase PCR tests of upper respiratory tract samples was 11 days (95 CIs: 10–12 days). Viral clearance was more likely to be delayed in patients in ICU than those not in ICU ( P < 0.0 0 01). In multivariate logistical analysis, age (Odds ratio [OR] = 1.06) and CD4 T cell count (OR = 0.55 per 100 cells/ul increase) were independently associated with ICU admission. Conclusions: The majority of COVID-19 cases are mild. The clinical progression pattern suggests that early control of viral replication and application of host-directed therapy in later stage is essential to improve the prognosis of COVID-19.",
+    "TypeName": "Journal Article",
+    "Authors": "Jun Chen, Tangkai Qi, Li Liu, Yun Ling, Zhiping Qian, Tao Li , Feng Li, Qingnian Xu, Yuyi Zhang, Shuibao Xu, Zhigang Song, Yigang Zeng, Yinzhong Shen, Yuxin Shi , Tongyu Zhu, Hongzhou Lu",
+    "DOI": "10.1016/j.jinf.2020.03.004",
+    "Keywords": "COVID-19; Clinical characteristics; Clinical progression; SARS-CoV-2; Viral clearance",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 26,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China.",
+    "ParentTitle": "The Lancet. Oncology",
+    "ShortTitle": "Liang, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "The lancet",
+    "Institution": "",
+    "Volume": "21",
+    "Pages": "335-337",
+    "Edition": "",
+    "Issue": "3",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32066541",
+    "Abstract": "Results: A total of 56 patients were evaluated, 18 elderly patients (32.14%), and 38 young and middle-aged patients (67.86%). The most common symptoms in both groups were fever, followed by cough and sputum. Four patients in the elderly group received negative pressure ICU for mechanical ventilation, and five patients in the young and middle-aged group. One patient died in the elderly group (5.56%), and two patients died in the young and middle-aged group (5.26%). The PSI score of the elderly group was higher than that of the young and middle-aged group (P<0.001). The proportion of patients with PSI grades IV and V was significantly higher in the elderly group than in the young and middle-aged group (P<0.05). The proportion of multiple lobe involvement in the elderly group was higher than that in the young and middle-aged group (P<0.001), and there was no difference in single lobe lesions between the two groups. The proportion of lymphocytes in the elderly group was significantly lower than that in the young and middle-aged group (P<0.001), and the C-reactive protein was significantly higher in the young group (P<0.001). The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all <0.05.",
+    "TypeName": "Journal Article",
+    "Authors": "Wenhua Liang, Weijie Guan, Ruchong Chen, Wei Wang, Jianfu Li, Ke Xu, Caichen Li, Qing Ai, Weixiang Lu, Hengrui Liang, Shiyue Li, Jianxing He.",
+    "DOI": "10.1016/S1470-2045(20)30096-6",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 27,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China.",
+    "ParentTitle": "The Lancet. Oncology",
+    "ShortTitle": "Liang, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "The lancet",
+    "Institution": "",
+    "Volume": "21",
+    "Pages": "335-337",
+    "Edition": "",
+    "Issue": "3",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32066541",
+    "Abstract": "Results: A total of 56 patients were evaluated, 18 elderly patients (32.14%), and 38 young and middle-aged patients (67.86%). The most common symptoms in both groups were fever, followed by cough and sputum. Four patients in the elderly group received negative pressure ICU for mechanical ventilation, and five patients in the young and middle-aged group. One patient died in the elderly group (5.56%), and two patients died in the young and middle-aged group (5.26%). The PSI score of the elderly group was higher than that of the young and middle-aged group (P<0.001). The proportion of patients with PSI grades IV and V was significantly higher in the elderly group than in the young and middle-aged group (P<0.05). The proportion of multiple lobe involvement in the elderly group was higher than that in the young and middle-aged group (P<0.001), and there was no difference in single lobe lesions between the two groups. The proportion of lymphocytes in the elderly group was significantly lower than that in the young and middle-aged group (P<0.001), and the C-reactive protein was significantly higher in the young group (P<0.001). The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all <0.05.",
+    "TypeName": "Journal Article",
+    "Authors": "Wenhua Liang, Weijie Guan, Ruchong Chen, Wei Wang, Jianfu Li, Ke Xu, Caichen Li, Qing Ai, Weixiang Lu, Hengrui Liang, Shiyue Li, Jianxing He.",
+    "DOI": "10.1016/S1470-2045(20)30096-6",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 28,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Covid-19 in critically ill patients in the seattle region - Case Series",
+    "ParentTitle": "The New England Journal of Medicine",
+    "ShortTitle": "Bhatraju, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases series",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Washington",
+    "Country": "Estados Unidos",
+    "Publisher": "The New England Journal of Medicine",
+    "Institution": "",
+    "Volume": "382",
+    "Pages": "2012-2022",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2004500",
+    "Abstract": "Background: Community transmission of coronavirus 2019 (Covid-19) was detected in the state of Washington in February 2020. Methods: We identified patients from nine Seattle-area hospitals who were admitted to the intensive care unit (ICU) with confirmed infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). Clinical data were obtained through review of medical records. The data reported here are those available through March 23, 2020. Each patient had at least 14 days of follow-up. Results: We identified 24 patients with confirmed Covid-19. The mean (±SD) age of the patients was 64±18 years, 63% were men, and symptoms began 7±4 days before admission. The most common symptoms were cough and shortness of breath; 50% of patients had fever on admission, and 58% had diabetes mellitus. All the patients were admitted for hypoxemic respiratory failure; 75% (18 patients) needed mechanical ventilation. Most of the patients (17) also had hypotension and needed vasopressors. No patient tested positive for influenza A, influenza B, or other respiratory viruses. Half the patients (12) died between ICU day 1 and day 18, including 4 patients who had a do-not-resuscitate order on admission. Of the 12 surviving patients, 5 were discharged home, 4 were discharged from the ICU but remained in the hospital, and 3 continued to receive mechanical ventilation in the ICU. Conclusions: During the first 3 weeks of the Covid-19 outbreak in the Seattle area, the most common reasons for admission to the ICU were hypoxemic respiratory failure leading to mechanical ventilation, hypotension requiring vasopressor treatment, or both. Mortality among these critically ill patients was high. ",
+    "TypeName": "Journal Article",
+    "Authors": "Pavan K. Bhatraju, Bijan J. Ghassemieh, Michelle Nichols, Richard Kim, Keith R. Jerome, Arun K. Nalla, Alexander L. Greninger, Sudhakar Pipavath, Mark M. Wurfel, Laura Evans, Patricia A. Kritek,   T. Eoin West.",
+    "DOI": "10.1056/NEJMoa2004500",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 29,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Covid-19 in critically ill patients in the seattle region - Case Series",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Cao, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3555223",
+    "Abstract": "Background: The risk of acute kidney injury (AKI) in severe and critical COVID-19 patients needs to be defined. Methods: A total of 61 severe and critical COVID-19 patients were retrospectively analyzed for AKI in death and survival groups between January 2020 and February 2020.  Additionally, AKI was diagnosed according to the K-DIGO standard. All kidney events (K-E) and inferior venous cavity events (IVC-E) were confirmed with ultrasound imaging. The parameters: age, rate of AKI, K-E, and IVC-E, and biochemical indexes including urea (BU), creatinine (sCr), BNP, and times of hypersensitive C-reactive protein > 160mg / L (hsCRP Max) were tested about the bilateral relevance. And then the above parameters were compared between the two groups. The risk of AKI was assessed by Logistic regression. The intervals from initial AKI and K-E to death were compared. Findings: The mortality of 61 severe and critical COVID-19 patients was 55¬∑7%. AKI occurred in 25 cases, with a rate of 41¬∑0 %. The death group showed elder age (median: 65 years vs 56 years), higher AKI occurrence (70¬∑6% vs 3¬∑7%), increased BU and sCr, higher hsCRP Max and K-E rates than the survival group (p < 0¬∑05). Besides, there was no difference in the occurrence of ARDS, initial cardiac insufficiency, and hsCRP Max (p > 0¬∑05) between two groups. Regression results showed that AKI increased the risk of death (OR = 17¬∑37, 95% CI: 1¬∑34-225¬∑87). AKI was correlated with K-E (p < 0¬∑05), but not IVC-E or hsCRP Max (p > 0¬∑05). There was no difference in the intervals of AKI and K-E (median 4 days vs. 3 days) in the death group (p > 0¬∑05). Interpretation: The prevalence of AKI was high in severe and critical COVID-19 patients. Renal ultrasound is a potential predictor of AKI. ",
+    "TypeName": "Preprint",
+    "Authors": "Wen Cao, Yali Qu, Zirui Gao, Shuo Li, Chaoyang Lyu, Wenjuan Xu, Ning Hai, Ruijun Guo.",
+    "DOI": "10.2139/ssrn.3555223",
+    "Keywords": "COVID-19; AKI; ultrasound.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 30,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical features and a simple model for predicting the mortality of coronavirus disease 2019 patients on admission",
+    "ParentTitle": "The Lancet",
+    "ShortTitle": "Zhang, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cohort",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan",
+    "Country": "China",
+    "Publisher": "Social Science Research Network",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://papers.ssrn.com/abstract=3551386",
+    "Abstract": "Background: Coronavirus disease 2019 is an emerging infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and has an average mortality rate of 2.3%. The risk factors for mortality remain unclear. Methods: Clinical and laboratory parameters of 319 hospitalized patients with SARS-CoV-2 infection from January 2 to February 13, 2020 in the Central Hospital of Wuhan were retrospectively reviewed. Patients were followed up to February 27, 2020. The association between potential risk factors and mortality was estimated by Cox proportional hazards regression models. We further investigated the predictive performance of these factors on mortality and plotted the corresponding receiver operating characteristic curve and nomogram. Findings: During the median follow-up of 17 days (range, 4‚Äì30 days), 273 patients survived and were discharged, whereas 46 died. Univariate Cox regression analyses indicated several death-related risk factors. Further multivariate Cox regression analysis indicated that older age and increased levels of CRP and lactate were independent risk factors for fatal outcomes. We used the three variables to assemble a score model. The Harrell‚Äôs C-index for the established model to predict death risk was 0.89 (95% CI: 0.85‚Äì0.92). The performance of prediction model for 7-, 14-, 21-, and 28-day survival was considerable. Interpretation: Older age, increased levels of CRP and lactate were independent risk factors for mortality. We established a simple and practical clinical scoring system that can be used to identify patients who at high risk of mortality, which might contribute to risk classification and clinical practice.",
+    "TypeName": "Preprint",
+    "Authors": "Lijuan Zhang, Wenwu Sun, Liangkai Chen, Qiang Wang, Yanli Liu, Su Zhao, Jia Li, Yujun Wang, Li Yu.",
+    "DOI": "10.2139/ssrn.3551386",
+    "Keywords": "coronavirus disease 2019; severe acute respiratory syndrome coronavirus 2; mortality; risk factors; model.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 31,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Coronavirus disease (COVID-19): spectrum of CT findings and temporal progression of the disease.",
+    "ParentTitle": "Academic radiology",
+    "ShortTitle": "Li, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases and controls",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "El sevier",
+    "Institution": "",
+    "Volume": "27",
+    "Pages": "603-608",
+    "Edition": "",
+    "Issue": "5",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32204987",
+    "Abstract": "Abstract: Coronavirus disease is an emerging infection caused by a novel coronavirus that is moving rapidly. High resolution computed tomography (CT) allows objective evaluation of the lung lesions, thus enabling us to better understand the pathogenesis of the disease. With serial CT examinations, the occurrence, development, and prognosis of the disease can be better understood. The imaging can be sorted into four phases: early phase, progressive phase, severe phase, and dissipative phase. The CT appearance of each phase and temporal progression of the imaging findings are demonstrated.",
+    "TypeName": "Journal Article",
+    "Authors": "Mingzhi Li, Pinggui Lei, Bingliang Zeng, Zongliang Li, Peng Yu, Bing Fan, Chuanhong Wang, Zicong Li, Jian Zhou, Shaobo Hu, Hao Liu",
+    "DOI": "10.1016/j.acra.2020.03.003",
+    "Keywords": "2019-nCoV; COVID-19; Coronavirus; Pneumonia; Tomography; X-ray computed.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 32,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis",
+    "ParentTitle": "medRxiv",
+    "ShortTitle": "Ma, 2020",
+    "Study Type": "Revisión sistemática y metanálisis",
+    "Study detail": "",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "China",
+    "Publisher": "El sevier",
+    "Institution": "",
+    "Volume": "27",
+    "Pages": "603-608",
+    "Edition": "",
+    "Issue": "5",
+    "URL": "http://medrxiv.org/content/early/2020/03/20/2020.03.17.20037572.abstract",
+    "Abstract": "Background: Recently, Coronavirus Disease 2019 (COVID-19) outbreak started in Wuhan, China. Although the clinical features of COVID-19 have been reported previously, data regarding the risk factors associated with the clinical outcomes are lacking. Objectives: To summary and analyze the clinical characteristics and identify the predictors of disease severity and mortality. Methods: The PubMed, Web of Science Core Collection, Embase, Cochrane and MedRxiv databases were searched through February 25, 2020. Meta-analysis of Observational Studies in Epidemiology (MOOSE) recommendations were followed. We extracted and pooled data using random-effects meta-analysis to summary the clinical feature of the confirmed COVID-19 patients, and further identify risk factors for disease severity and death. Heterogeneity was evaluated using the I2 method and explained with subgroup analysis and meta-regression. Results: A total of 30 studies including 53000 patients with COVID-19 were included in this study, the mean age was 49.8 years (95% CI, 47.5-52.2 yrs) and 55.5% were male. The pooled incidence of severity and mortality were 20.2% (95% CI, 15.1-25.2%) and 3.1% (95% CI, 1.9-4.2%), respectively. The predictor for disease severity included old age (‚â• 50 yrs, odds ratio [OR] = 2.61; 95% CI, 2.29-2.98), male (OR =1.348, 95% CI, 1.195-1.521), smoking (OR =1.734, 95% CI, 1.146-2.626) and any comorbidity (OR = 2.635, 95% CI, 2.098-3.309), especially chronic kidney disease (CKD, OR = 6.017; 95% CI, 2.192-16.514), chronic obstructive pulmonary disease (COPD, OR = 5.323; 95% CI, 2.613-10.847) and cerebrovascular disease (OR = 3.219; 95% CI, 1.486-6.972). In terms of laboratory results, increased lactate dehydrogenase (LDH), C-reactive protein (CRP) and D-dimer and decreased blood platelet and lymphocytes count were highly associated with severe COVID-19 (all for P &amp;lt; 0.001). Meanwhile, old age (‚â• 60 yrs, RR = 9.45; 95% CI, 8.09-11.04), followed by cardiovascular disease (RR = 6.75; 95% CI, 5.40-8.43) hypertension (RR = 4.48; 95% CI, 3.69-5.45) and diabetes (RR = 4.43; 95% CI, 3.49-5.61) were found to be independent prognostic factors for the COVID-19 related death. Conclusions: To our knowledge, this is the first evidence-based medicine research to explore the risk factors of prognosis in patients with COVID-19, which is helpful to identify early-stage patients with poor prognosis and adapt effective treatment.",
+    "TypeName": "Preprint",
+    "Authors": "Xianxian Zhao, Bili Zhang, Pan Li, Chaoqun Ma, Jiawei Gu, Pan Hou, Zhifu Guo, Hong Wu, Yuan Bai",
+    "DOI": "10.1101/2020.03.17.20037572",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 33,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Cardiac troponin I in patients with coronavirus disease 2019 (COVID-19): evidence from a meta-analysis",
+    "ParentTitle": "Progress in Cardiovascular Diseases",
+    "ShortTitle": "Lippi, 2020",
+    "Study Type": "Revisión sistemática y metanálisis",
+    "Study detail": "Metanalisis",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "",
+    "Publisher": "W.B. Saunders",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0033062020300554?via%3Dihub",
+    "Abstract": "",
+    "TypeName": "In press",
+    "Authors": "Giuseppe Lippi, Carl J. Lavie, Fabian Sanchis-Gomar",
+    "DOI": "10.1016/j.pcad.2020.03.001",
+    "Keywords": "Coronavirus; COVID-19; troponin; prognosis.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 34,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics of coronavirus disease 2019 in China",
+    "ParentTitle": "New England Journal of Medicine",
+    "ShortTitle": "Guan. 2020",
+    "Study Type": "Observational",
+    "Study detail": "",
+    "Year": 2020,
+    "Month": "China",
+    "City": "",
+    "Country": "",
+    "Publisher": "New England Journal of Medicine",
+    "Institution": "",
+    "Volume": "382",
+    "Pages": "1708-1720",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.nejm.org/doi/10.1056/NEJMoa2002032",
+    "Abstract": "Background: Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients. Methods: We extracted data regarding 1099 patients with laboratory-confirmed Covid-19 from 552 hospitals in 30 provinces, autonomous regions, and municipalities in mainland China through January 29, 2020. The primary composite end point was admission to an intensive care unit (ICU), the use of mechanical ventilation, or death. Results: The median age of the patients was 47 years; 41.9% of the patients were female. The primary composite end point occurred in 67 patients (6.1%), including 5.0% who were admitted to the ICU, 2.3% who underwent invasive mechanical ventilation, and 1.4% who died. Only 1.9% of the patients had a history of direct contact with wildlife. Among nonresidents of Wuhan, 72.3% had contact with residents of Wuhan, including 31.3% who had visited the city. The most common symptoms were fever (43.8% on admission and 88.7% during hospitalization) and cough (67.8%). Diarrhea was uncommon (3.8%). The median incubation period was 4 days (interquartile range, 2 to 7). On admission, ground-glass opacity was the most common radiologic finding on chest computed tomography (CT) (56.4%). No radiographic or CT abnormality was found in 157 of 877 patients (17.9%) with nonsevere disease and in 5 of 173 patients (2.9%) with severe disease. Lymphocytopenia was present in 83.2% of the patients on admission. Conclusions: During the first 2 months of the current outbreak, Covid-19 spread rapidly throughout China and caused varying degrees of illness. Patients often presented without fever, and many did not have abnormal radiologic findings",
+    "TypeName": "Journal Article",
+    "Authors": "Guan, Wei-jie and Ni, Zheng-yi and Hu, Yu and Liang, Wen-hua and Ou, Chun-quan and He, Jian-xing and Liu, Lei and Shan, Hong and Lei, Chun-liang and Hui, David S.C. and Du, Bin and Li, Lan-juan and Zeng, Guang and Yuen, Kwok-Yung and Chen, Ru-chong and Tang, Chun-li and Wang, Tao and Chen, Ping-yan and Xiang, Jie and Li, Shi-yue and Wang, Jin-lin and Liang, Zi-jing and Peng, Yi-xiang and Wei, Li and Liu, Yong and Hu, Ya-hua and Peng, Peng and Wang, Jian-ming and Liu, Ji-yang and Chen, Zhong and Li, Gang and Zheng, Zhi-jian and Qiu, Shao-qin and Luo, Jie and Ye, Chang-jiang and Zhu, Shao-yong and Zhong, Nan-shan",
+    "DOI": "10.1056/NEJMoa2002032",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 35,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Clinical characteristics of coronavirus disease 2019 in China",
+    "ParentTitle": "New England Journal of Medicine",
+    "ShortTitle": "Guan. 2020",
+    "Study Type": "Observational",
+    "Study detail": "",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "Chine",
+    "Publisher": "New England Journal of Medicine",
+    "Institution": "",
+    "Volume": "382",
+    "Pages": "1708-1720",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.nejm.org/doi/10.1056/NEJMoa2002032",
+    "Abstract": "Background: Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients. Methods: We extracted data regarding 1099 patients with laboratory-confirmed Covid-19 from 552 hospitals in 30 provinces, autonomous regions, and municipalities in mainland China through January 29, 2020. The primary composite end point was admission to an intensive care unit (ICU), the use of mechanical ventilation, or death. Results: The median age of the patients was 47 years; 41.9% of the patients were female. The primary composite end point occurred in 67 patients (6.1%), including 5.0% who were admitted to the ICU, 2.3% who underwent invasive mechanical ventilation, and 1.4% who died. Only 1.9% of the patients had a history of direct contact with wildlife. Among nonresidents of Wuhan, 72.3% had contact with residents of Wuhan, including 31.3% who had visited the city. The most common symptoms were fever (43.8% on admission and 88.7% during hospitalization) and cough (67.8%). Diarrhea was uncommon (3.8%). The median incubation period was 4 days (interquartile range, 2 to 7). On admission, ground-glass opacity was the most common radiologic finding on chest computed tomography (CT) (56.4%). No radiographic or CT abnormality was found in 157 of 877 patients (17.9%) with nonsevere disease and in 5 of 173 patients (2.9%) with severe disease. Lymphocytopenia was present in 83.2% of the patients on admission. Conclusions: During the first 2 months of the current outbreak, Covid-19 spread rapidly throughout China and caused varying degrees of illness. Patients often presented without fever, and many did not have abnormal radiologic findings",
+    "TypeName": "Journal Article",
+    "Authors": "Guan, Wei-jie and Ni, Zheng-yi and Hu, Yu and Liang, Wen-hua and Ou, Chun-quan and He, Jian-xing and Liu, Lei and Shan, Hong and Lei, Chun-liang and Hui, David S.C. and Du, Bin and Li, Lan-juan and Zeng, Guang and Yuen, Kwok-Yung and Chen, Ru-chong and Tang, Chun-li and Wang, Tao and Chen, Ping-yan and Xiang, Jie and Li, Shi-yue and Wang, Jin-lin and Liang, Zi-jing and Peng, Yi-xiang and Wei, Li and Liu, Yong and Hu, Ya-hua and Peng, Peng and Wang, Jian-ming and Liu, Ji-yang and Chen, Zhong and Li, Gang and Zheng, Zhi-jian and Qiu, Shao-qin and Luo, Jie and Ye, Chang-jiang and Zhu, Shao-yong and Zhong, Nan-shan",
+    "DOI": "10.1056/NEJMoa2002032",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 36,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Epidemiologic features and clinical course of patients infected with SARS-CoV-2 in Singapore.",
+    "ParentTitle": "JAMA",
+    "ShortTitle": "Young, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases series",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "",
+    "Country": "Singapur ",
+    "Publisher": "JAMA",
+    "Institution": "",
+    "Volume": "323",
+    "Pages": "1488-1494",
+    "Edition": "",
+    "Issue": "15",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32125362",
+    "Abstract": "Objective: To report the initial experience in Singapore with the epidemiologic investigation of this outbreak, clinical features, and management. Design, setting, and participants: Descriptive case series of the first 18 patients diagnosed with polymerase chain reaction (PCR)-confirmed SARS-CoV-2 infection at 4 hospitals in Singapore from January 23 to February 3, 2020; final follow-up date was February 25, 2020. Exposures: Confirmed SARS-CoV-2 infection. Main outcomes and measures: Clinical, laboratory, and radiologic data were collected, including PCR cycle threshold values from nasopharyngeal swabs and viral shedding in blood, urine, and stool. Clinical course was summarized, including requirement for supplemental oxygen and intensive care and use of empirical treatment with lopinavir-ritonavir. Results: Among the 18 hospitalized patients with PCR-confirmed SARS-CoV-2 infection (median age, 47 years; 9 [50%] women), clinical presentation was an upper respiratory tract infection in 12 (67%), and viral shedding from the nasopharynx was prolonged for 7 days or longer among 15 (83%). Six individuals (33%) required supplemental oxygen; of these, 2 required intensive care. There were no deaths. Virus was detectable in the stool (4/8 [50%]) and blood (1/12 [8%]) by PCR but not in urine. Five individuals requiring supplemental oxygen were treated with lopinavir-ritonavir. For 3 of the 5 patients, fever resolved and supplemental oxygen requirement was reduced within 3 days, whereas 2 deteriorated with progressive respiratory failure. Four of the 5 patients treated with lopinavir-ritonavir developed nausea, vomiting, and/or diarrhea, and 3 developed abnormal liver function test results. Conclusions and relevance: Among the first 18 patients diagnosed with SARS-CoV-2 infection in Singapore, clinical presentation was frequently a mild respiratory tract infection. Some patients required supplemental oxygen and had variable clinical outcomes following treatment with an antiretroviral agent.",
+    "TypeName": "Journal Article",
+    "Authors": "Barnaby Edward Young, Sean Wei Xiang Ong, Shirin Kalimuddin, Jenny G Low, Seow Yen Tan, Jiashen Loh, Oon-Tek Ng, Kalisvar Marimuthu, Li Wei Ang, Tze Minn Mak, Sok Kiang Lau, Danielle E Anderson, Kian Sing Chan, Thean Yen Tan, Tong Yong Ng, Lin Cui, Zubaidah Said, Lalitha Kurupatham, Mark I-Cheng Chen, Monica Chan, Shawn Vasoo, Lin-Fa Wang, Boon Huan Tan, Raymond Tzer Pin Lin , Vernon Jian Ming Lee, Yee-Sin Leo, David Chien Lye.",
+    "DOI": "10.1001/jama.2020.3204",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 37,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19).",
+    "ParentTitle": "JAMA cardiology",
+    "ShortTitle": "Guo, 2020",
+    "Study Type": "Observational",
+    "Study detail": "Cases series",
+    "Year": 2020,
+    "Month": "Mar",
+    "City": "Wuhan ",
+    "Country": "China ",
+    "Publisher": "JAMA",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32219356",
+    "Abstract": "Objective: To evaluate the association of underlying cardiovascular disease (CVD) and myocardial injury with fatal outcomes in patients with COVID-19. Design, Setting, and Participants: This retrospective single-center case series analyzed patients with COVID-19 at the Seventh Hospital of Wuhan City, China, from January 23, 2020, to February 23, 2020. Analysis began February 25, 2020. Main Outcomes and Measures: Demographic data, laboratory findings, comorbidities, and treatments were collected and analyzed in patients with and without elevation of troponin T (TnT) levels. Result: Among 187 patients with confirmed COVID-19, 144 patients (77%) were discharged and 43 patients (23%) died. The mean (SD) age was 58.50 (14.66) years. Overall, 66 (35.3%) had underlying CVD including hypertension, coronary heart disease, and cardiomyopathy, and 52 (27.8%) exhibited myocardial injury as indicated by elevated TnT levels. The mortality during hospitalization was 7.62% (8 of 105) for patients without underlying CVD and normal TnT levels, 13.33% (4 of 30) for those with underlying CVD and normal TnT levels, 37.50% (6 of 16) for those without underlying CVD but elevated TnT levels, and 69.44% (25 of 36) for those with underlying CVD and elevated TnTs. Patients with underlying CVD were more likely to exhibit elevation of TnT levels compared with the patients without CVD (36 [54.5%] vs 16 [13.2%]). Plasma TnT levels demonstrated a high and significantly positive linear correlation with plasma high-sensitivity C-reactive protein levels (Œ≤‚Äâ=‚Äâ0.530, P‚Äâ<‚Äâ.001) and N-terminal pro-brain natriuretic peptide (NT-proBNP) levels (Œ≤‚Äâ=‚Äâ0.613, P‚Äâ<‚Äâ.001). Plasma TnT and NT-proBNP levels during hospitalization (median [interquartile range (IQR)], 0.307 [0.094-0.600]; 1902.00 [728.35-8100.00]) and impending death (median [IQR], 0.141 [0.058-0.860]; 5375 [1179.50-25695.25]) increased significantly compared with admission values (median [IQR], 0.0355 [0.015-0.102]; 796.90 [401.93-1742.25]) in patients who died (P‚Äâ=‚Äâ.001; P‚Äâ<‚Äâ.001), while no significant dynamic changes of TnT (median [IQR], 0.010 [0.007-0.019]; 0.013 [0.007-0.022]; 0.011 [0.007-0.016]) and NT-proBNP (median [IQR], 352.20 [174.70-636.70]; 433.80 [155.80-1272.60]; 145.40 [63.4-526.50]) was observed in survivors (P‚Äâ=‚Äâ.96; P‚Äâ=‚Äâ.16). During hospitalization, patients with elevated TnT levels had more frequent malignant arrhythmias, and the use of glucocorticoid therapy (37 [71.2%] vs 69 [51.1%]) and mechanical ventilation (41 [59.6%] vs 14 [10.4%]) were higher compared with patients with normal TnT levels. The mortality rates of patients with and without use of angiotensin-converting enzyme inhibitors/angiotensin receptor blockers was 36.8% (7 of 19) and 25.6% (43 of 168). Conclusions and Relevance: Myocardial injury is significantly associated with fatal outcome of COVID-19, while the prognosis of patients with underlying CVD but without myocardial injury is relatively favorable. Myocardial injury is associated with cardiac dysfunction and arrhythmias. Inflammation may be a potential mechanism for myocardial injury. Aggressive treatment may be considered for patients at high risk of myocardial injury.",
+    "TypeName": "Journal Article",
+    "Authors": "Tao Guo, Yongzhen Fan, Ming Chen, XiaoyanWu, Lin Zhang, Tao He, HairongWang, JingWan, XinghuanWang, Zhibing Lu.",
+    "DOI": "10.1001/jamacardio.2020.1017",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 5413935,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 11104,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 21004,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
     ]
   }
 ]
