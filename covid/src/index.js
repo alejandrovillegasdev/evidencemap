@@ -1456,19 +1456,7 @@ $(window).on('load', function () {
                 '<div class="content">' +
                 '<div class="read">' + submitStudy + '</div>' +
                 '</div>';
-  
-              /*var addresses = "";//between the speech mark goes the receptient. Seperate addresses with a ;
-              var body = ""//write the message text between the speech marks or put a variable in the place of the speech marks
-              var subject = ""//between the speech marks goes the subject of the message
-              var href = "mailto:" + addresses + "?"
-                   + "subject=" + subject + "&"
-                   + "body=" + body;
-              var wndMail;
-              wndMail = window.open(href, "_blank", "scrollbars=yes,resizable=yes,width=10,height=10");
-              if(wndMail)
-              {
-                wndMail.close();
-              }*/
+
   
   
               $reader.html(submitStudyHtml);
@@ -1694,12 +1682,12 @@ $(window).on('load', function () {
             const topHeadCssWidth = bodyWidth;
             const bodyCssWidth = bodyWidth - 1;
             let sideHeadCssHeight = $window.height() - $topHead.height() - $footer.height() - $menu.height() - 48;
-            let bodyCssHeight = sideHeadCssHeight;
+            let bodyCssHeight = sideHeadCssHeight - 180;
   
             $header = $('.header')
   
             if ($header.length > 0 && $header.css('display') !== 'none') {
-              sideHeadCssHeight = sideHeadCssHeight - $header.height() - 8;
+              sideHeadCssHeight = sideHeadCssHeight - $header.height() - 180;
               bodyCssHeight = sideHeadCssHeight;
             }
   

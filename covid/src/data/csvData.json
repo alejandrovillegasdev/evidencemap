@@ -2,12 +2,13 @@
   "rows": [
     [
       {
-        "span": 26,
+        "span": 6,
         "isColumn": true,
         "id": 10000,
         "title": "Outcomes"
       }
     ],
+    
     [
       {
         "span": 1,
@@ -48,12 +49,18 @@
     ],
     [
       {
-        "span": 49,
-        "isColumn": false,
-        "id": 20000,
-        "title": "Interventions"
+         "span": 49,
+         "isColumn": false,
+         "id": 20000,
+         "title": "Interventions"
+      },
+      {
+         "span": 1,
+         "isColumn": false,
+         "id": 21001,
+         "title": ""
       }
-    ],
+   ],
     [
       {
         "title": "Age",
@@ -663,8 +670,8 @@
       }
     ]
   ],
-  "totalColBreadth": 25,
+  "totalColBreadth": 15,
   "totalColDepth": 2,
-  "totalRowBreadth": 76,
+  "totalRowBreadth": 77,
   "totalRowDepth": 1
 }
