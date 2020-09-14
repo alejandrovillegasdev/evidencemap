@@ -251,8 +251,9 @@ $(window).on('load', function () {
           function buildTableRows() {
             let tableRowHtml = '';
             const cols = csvData.rows[csvData.totalColDepth - 1]
+            debugger
   
-            for (let i = csvData.totalColDepth; i < csvData.rows.length; i++) {
+            for (let i = csvData.totalColDepth +1; i < csvData.rows.length; i++) {
               const row = csvData.rows[i];
               tableRowHtml += '<tr>';
   
@@ -626,7 +627,7 @@ $(window).on('load', function () {
                   'display': 'block'
                 });
               }
-  
+              
               $('.data-wrapper', $cell).css({
                 'display': chartType === 'heat' ? 'flex' : 'block',
                 'opacity': chartType === 'heat' ? (totalSize / 100) : 1
