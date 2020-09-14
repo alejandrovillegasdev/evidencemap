@@ -331,8 +331,7 @@ header {
 }
 
 .legend-container {
-	position: absolute;
-    text-align: initial;
+	max-width: 40%;
     position: absolute;
     text-align: initial;
     top: 0px;

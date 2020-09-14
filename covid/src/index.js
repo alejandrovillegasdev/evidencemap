@@ -8,7 +8,41 @@ $(window).on('load', function () {
           const metaProperties = ["Title", "Authors", "Year", "ParentTitle", "Volume", "Issue", "Pages", "URL", "DOI"];
           const about = "<div><!--block-->The purpose of this Evidence and Gap Map (EGM) is to provide easy access to the available evidence on&nbsp; the effectiveness of Interventions in improving the lives of those who experience, or are at risk of experiencing, homelessness.&nbsp;<br><br>The map is a table or matrix which provides a visual presentation of the evidence. In the homelessness map the rows are intervention categories and the columns are indicator categories. Indicators have sub-categories. For example, the employment indicator has three sub-categories: (1) employment status (paid and unpaid work), (2) earned income, and (3) forced labour and sex work. The map has four version Bubble, heat, donut&nbsp; and Mosaic which are self-explanatory.<br><br>The map shows both impact evaluations and systematic reviews. Impact evaluations are studies using quantitative approaches to measure what difference the programme made to outcomes like housing stability. Systematic reviews are studies which summarise all available relevant evidence for a particular issue or question. Systematic reviews which summarise evidence from impact evaluations are called ‘effectiveness reviews’<br><br>This EGM also identifies key ‘gaps’, cells which do not have any bubbles, indicates there no evidence.<br><br>This map was commissioned by the Centre for Homelessness Impact and created in partnership by Campbell Collaboration and Centre for Homelessness Impact.</div>";
           const submitStudy = "<div><!--block-->Do you know of any impact evaluations for homelessness that are missing from the map?<br><br>Please let us know by emailing hello@homelessnessimpact.org with a link to the study.<br><br></div>";
-          const segmentAttributes = [{ "attribute": { "AttributeSetId": 5414315, "AttributeId": 5413915, "AttributeSetDescription": "", "AttributeType": "Selectable (show checkbox)", "AttributeName": "Revisión sistemática de alta calidad", "AttributeDescription": "" }, "color": "#E22222" }, { "attribute": { "AttributeSetId": 5414325, "AttributeId": 5413925, "AttributeSetDescription": "", "AttributeType": "Selectable (show checkbox)", "AttributeName": "Revisión sistemática de moderada calidad", "AttributeDescription": "" }, "color": "#75C127" }, { "attribute": { "AttributeSetId": 5414335, "AttributeId": 5413935, "AttributeSetDescription": "", "AttributeType": "Selectable (show checkbox)", "AttributeName": "Revisión sistemática de baja calidad", "AttributeDescription": "" }, "color": "#24A1CE" }, { "attribute": { "AttributeSetId": 5414336, "AttributeId": 5413936, "AttributeSetDescription": "", "AttributeType": "Selectable (show checkbox)", "AttributeName": "Revisión sistemática calidad críticamente baja", "AttributeDescription": "" }, "color": "#FAB853" }];
+          const segmentAttributes = [
+            {
+                "attribute": {
+                    "AttributeSetId": 5414315,
+                    "AttributeId": 500001,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "High quality primary study",
+                    "AttributeDescription": ""
+                },
+                "color": "#E22222"
+            },
+            {
+                "attribute": {
+                    "AttributeSetId": 5414325,
+                    "AttributeId": 500002,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Low and medium quality primary study",
+                    "AttributeDescription": ""
+                },
+                "color": "#75C127"
+            },
+            {
+                "attribute": {
+                    "AttributeSetId": 5414335,
+                    "AttributeId": 500003,
+                    "AttributeSetDescription": "",
+                    "AttributeType": "Selectable (show checkbox)",
+                    "AttributeName": "Low and medium quality secondary study",
+                    "AttributeDescription": ""
+                },
+                "color": "#24A1CE"
+            }
+        ]
           const summaryAttribute = "";
           const checkboxCheckedSvg = '<svg id="checked" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">' +
             '<path d="M0 0h24v24H0z" fill="none"/>' +
@@ -461,7 +495,6 @@ $(window).on('load', function () {
   
                   const countMatched = reference.Codes
                     .filter((code) => code.AttributeId === count.id).length > 0
-                  debugger
                   if (countMatched) {
                     count.count += 1;
                     totalCount += 1;
