@@ -251,7 +251,6 @@ $(window).on('load', function () {
           function buildTableRows() {
             let tableRowHtml = '';
             const cols = csvData.rows[csvData.totalColDepth - 1]
-            debugger
   
             for (let i = csvData.totalColDepth +1; i < csvData.rows.length; i++) {
               const row = csvData.rows[i];

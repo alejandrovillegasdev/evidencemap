@@ -8,26 +8,7 @@
         "title": "Outcomes"
       }
     ],
-    
     [
-      {
-        "span": 1,
-        "isColumn": true,
-        "id": 11101,
-        "title": "Mortality"
-      },
-      {
-        "span": 1,
-        "isColumn": true,
-        "id": 11102,
-        "title": "Mild / moderate to severe disease progression"
-      },
-      {
-        "span": 1,
-        "isColumn": true,
-        "id": 11103,
-        "title": "ICU admission"
-      },
       {
         "span": 1,
         "isColumn": true,
@@ -45,16 +26,34 @@
         "isColumn": true,
         "id": 11106,
         "title": "Progression to ARDS"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11103,
+        "title": "ICU admission"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11102,
+        "title": "Mild / moderate to severe disease progression"
+      },
+      {
+        "span": 1,
+        "isColumn": true,
+        "id": 11101,
+        "title": "Mortality"
       }
     ],
     [
       {
-         "span": 49,
-         "isColumn": false,
-         "id": 20000,
-         "title": "Interventions"
+        "span": 49,
+        "isColumn": false,
+        "id": 20000,
+        "title": "Prognosis Factors"
       }
-   ],
+    ],
     [
       {
         "title": "Age",
@@ -73,7 +72,7 @@
     ],
     [
       {
-        "title": "Comorbidities",
+        "title": "Any Comorbidities",
         "id": 21004,
         "isColumn": false,
         "span": 1
