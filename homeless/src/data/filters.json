@@ -1,0 +1,264 @@
+[
+    {
+        "id": 5000003,
+        "label": "Study Type",
+        "checked": false,
+        "children": [
+            {
+                "id": 510003,
+                "label": "Analysis",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510002,
+                "label": "Clinical Trial",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510005,
+                "label": "Guideline",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510007,
+                "label": "Mini Review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510001,
+                "label": "Narrative Review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510004,
+                "label": "Observational",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510006,
+                "label": "Rapid Guideline",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510008,
+                "label": "Rapid Review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510004,
+                "label": "Report",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510004,
+                "label": "Simulation Study",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510004,
+                "label": "Systematic review",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 5000004,
+        "label": "Direction Effect",
+        "checked": false,
+        "children": [
+            {
+                "id": 510025,
+                "label": "Against",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510026,
+                "label": "Cannot be concluded",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510027,
+                "label": "In favour",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 5000000,
+        "label": "Study detail",
+        "checked": false,
+        "children": [
+            {
+                "id": 510009,
+                "label": "Analysis",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510010,
+                "label": "Case Report",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510011,
+                "label": "Case series",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510012,
+                "label": "Cohort",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510013,
+                "label": "Cross sectional",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510014,
+                "label": "Guideline",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510015,
+                "label": "Mini Review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510016,
+                "label": "Narrative View",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510017,
+                "label": "Non randomized Open-label Clinical Trial",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510018,
+                "label": "Randomized Open-label  Clinical Trial",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510019,
+                "label": "Randomized double blind Clinical Trial",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510020,
+                "label": "Rapid Guideline",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510021,
+                "label": "Rapid Review",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510022,
+                "label": "Report",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510023,
+                "label": "Simulation Study",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510024,
+                "label": "Systematic review",
+                "checked": false,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 5000001,
+        "label": "Quality",
+        "checked": false,
+        "children": [
+            {
+                "id": 510003,
+                "label": "High",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510002,
+                "label": "Good",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510005,
+                "label": "Moderate",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510007,
+                "label": "Regular",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510028,
+                "label": "Low",
+                "checked": false,
+                "children": []
+             },
+            {
+                "id": 510001,
+                "label": "Critically Low",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510004,
+                "label": "High Risk",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510006,
+                "label": "Not Avaliable",
+                "checked": false,
+                "children": []
+            },
+            {
+                "id": 510008,
+                "label": "Uncertain Risk",
+                "checked": false,
+                "children": []
+            }
+        ]
+    }
+]
