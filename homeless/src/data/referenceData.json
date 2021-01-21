@@ -1,29 +1,29 @@
 [
   {
-    "ItemId": 1,
+    "ItemId": 111,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Thrombocytopenia is associated with severe coronavirus disease 2019 (covid-19) infections: a meta-analysis.",
-    "ParentTitle": "Clinica chimica acta",
-    "ShortTitle": "Giuseppe Lippi, 2020.",
-    "Study Type": "Systematic review",
-    "Study detail": "Meta-analysis",
+    "Title": "“Something that actually works”: Cannabis use among young people in the context of street entrenchment",
+    "ParentTitle": "PLoS ONE",
+    "ShortTitle": "Paul, 2020.",
+    "Study Type": "Estudio de metodos mixtos",
+    "Study detail": "",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Julio",
     "City": "",
-    "Country": "",
-    "Publisher": "Elsevier",
+    "Country": "Canadá",
+    "Publisher": "Public Library of Science",
     "Institution": "",
-    "Volume": 506,
-    "Pages": "145-148",
+    "Volume": 15,
+    "Pages": "",
     "Edition": "",
-    "Issue": 3,
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32178975",
-    "Abstract": "Background: Coronavirus disease 2019 (COVID-19) is a novel infectious disease with lack of established laboratory markers available to evaluate illness severity. In this study, we investigate whether platelet count could differentiate between COVID-19 patients with or without severe disease. Additionally, we evaluate if thrombocytopenia is associated with severe COVID-19. METHODS: An electronic search in Medline, Scopus and Web of Science was performed to identify studies reporting data on platelet count in COVID-19 patients. A meta-analysis was performed, with calculation of weighted mean difference (WMD) of platelet number in COVID-19 patients with or without severe disease and odds ratio (OR) of thrombocytopenia for severe form of COVID-19. RESULTS: Nine studies with 1779 COVID-19 patients, 399 (22.4%) with severe disease, were included in the meta-analysis. The pooled analysis revealed that platelet count was significantly lower in patients with more severe COVID-19 (WMD -31109 /L; 95% CI, from -35 to -29109 /L). A subgroup analysis comparing patients by survival, found an even lower platelet count was observed with mortality (WMD, -48109 /L; 95% CI, -57 to -39109 /L. In the four studies (n=1427) which reported data on rate of thrombocytopenia, a low platelet count was associated with over fivefold enhanced risk of severe COVID-19 (OR, 5.1; 95% CI, 1.8-14.6). CONCLUSIONS: Low platelet count is associated with increased risk of severe disease and mortality in patients with COVID-19, and thus should serve as clinical indicator of worsening illness during hospitalization.",
-    "TypeName": "Preproof",
-    "Authors": "Giuseppe Lippi, Mario Plebani, Brandon Michael Henry.",
-    "DOI": "10.1016/j.cca.2020.03.021",
-    "Keywords": "Platelets; thrombocytopenia; coronavirus; COVID-19.",
+    "Issue": 7,
+    "URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088811788&doi=10.1371%2fjournal.pone.0236243&partnerID=40&md5=4700e2010b98deebac18f5ae6974a05f",
+    "Abstract": "Background Cannabis is one of the most widely used substances among vulnerable young people (<26 years of age) experiencing street entrenchment. Although previous research has documented the role cannabis can play in harm reduction, substance use and mental health treatment and pain management, this research has predominantly been quantitative and focused on adult drug-using populations. Little qualitative work has examined how young people who use drugs understand, experience, and engage with cannabis in the context of street entrenchment and drug use trajectories that include the use of other substances such as alcohol, opioids and crystal methamphetamine (meth). Methods Semi-structured, in-depth qualitative interviews were conducted between 2017 and 2019 with 56 young people recruited from a cohort of street-involved youth in Vancouver, Canada. We also conducted 13 interviews with 12 youth-focused care providers across the same time period. Interview data were triangulated by drawing on the findings of a program of anthropological research conducted by the senior author since 2008. Interviews were transcribed verbatim and thematic analysis was conducted. Results The vast majority of study participants engaged in daily, intensive cannabis use at the same time as they cycled on and off other substances that were perceived as much more harmful (primarily alcohol, fentanyl, heroin and meth). While most participants derived significant pleasure from the use of cannabis, no participants in our study described using cannabis for purely recreational purposes. A number of participants explicitly framed cannabis as a form of mental health and substance use treatment that was more effective and “healthier” than the long-term use of psychopharmaceuticals and medication-assisted substance use treatment (e.g., opioid agonist therapies). Cannabis use was also understood to ameliorate some of the harms of, or even facilitate transitions out of, periods of street-based homelessness. While the majority of our participants highlighted the positive effects of regular cannabis consumption, some described how intensive cannabis use could generate significant harms. Conclusion In the context of the recent legalization of non-medical cannabis use in Canada and amid ongoing overdose and housing crises, it is imperative that future policy and programming interventions and provider education and training be responsive to the ways in which vulnerable youth in our setting are actively using cannabis to navigate their everyday lives and healthcare needs.",
+    "TypeName": "",
+    "Authors": "Paul, B. , Thulien, M. , Knight, R. , Milloy, MJ , Howard, B. , Nelson, S. , Rápido, D.",
+    "DOI": "10.1371/journal.pone.0236243",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -31,25 +31,37 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 500003,
+        "AttributeId": 504,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21054,
+        "AttributeId": 139,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11101,
+        "AttributeId": 116,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11102,
+        "AttributeId": 212,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 402,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -60,27 +72,27 @@
     "ItemId": 2,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical, laboratory and imaging features of covid-19: a systematic review and meta-analysis.",
-    "ParentTitle": "Travel medicine and infectious disease.",
-    "ShortTitle": "Alfonso J. Rodriguez Morales, 2020.",
-    "Study Type": "Systematic review",
-    "Study detail": "Meta-analysis",
+    "Title": "A clinical description of strategies to address traumatic brain injury experienced by homeless patients at Baltimore's medical respite program",
+    "ParentTitle": "Work",
+    "ShortTitle": "Brocht, 2020",
+    "Study Type": "Observacional",
+    "Study detail": "",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "",
-    "Publisher": "Elsevier",
+    "Month": "Febrero",
+    "City": "Baltimore",
+    "Country": "Usa",
+    "Publisher": "IOS Press",
     "Institution": "",
-    "Volume": 506,
-    "Pages": "",
+    "Volume": 65,
+    "Pages": "311-320",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32179124",
-    "Abstract": "INTRODUCTION: An epidemic of Coronavirus Disease 2019 (COVID-19) began in December 2019 in China leading to a Public Health Emergency of International Concern (PHEIC). Clinical, laboratory, and imaging features have been partially characterized in some observational studies. No systematic reviews on COVID-19 have been published to date. METHODS: We performed a systematic literature review with meta-analysis, using three databases to assess clinical, laboratory, imaging features, and outcomes of COVID-19 confirmed cases. Observational studies and also case reports, were included, and analyzed separately. We performed a random-effects model meta-analysis to calculate pooled prevalences and 95% confidence intervals (95%CI). RESULTS: 660 articles were retrieved for the time frame (1/1/2020-2/23/2020). After screening, 27 articles were selected for full-text assessment, 19 being finally included for qualitative and quantitative analyses. Additionally, 39 case report articles were included and analyzed separately. For 656 patients, fever (88.7%, 95%CI 84.5-92.9%), cough (57.6%, 95%CI 40.8-74.4%) and dyspnea (45.6%, 95%CI 10.9-80.4%) were the most prevalent manifestations. Among the patients, 20.3% (95%CI 10.0-30.6%) required intensive care unit (ICU), 32.8% presented with acute respiratory distress syndrome (ARDS) (95%CI 13.7-51.8), 6.2% (95%CI 3.1-9.3) with shock. Some 13.9% (95%CI 6.2-21.5%) of hospitalized patients had fatal outcomes (case fatality rate, CFR). CONCLUSION: COVID-19 brings a huge burden to healthcare facilities, especially in patients with comorbidities. ICU was required for approximately 20% of polymorbid, COVID-19 infected patients and hospitalization was associated with a CFR of >13%. As this virus spreads globally, countries need to urgently prepare human resources, infrastructure and facilities to treat severe COVID-19.",
-    "TypeName": "Journal Article",
+    "Issue": "2",
+    "URL": "https://content.iospress.com/articles/work/wor203083",
+    "Abstract": "BACKGROUND:Medical respite programs provide a safe place for people experiencing homelessness to recover from an acute illness or injury. Many patients in respite programs have experienced a traumatic brain injury (TBI) that impedes their ability to complete the self-management tasks necessary to recover from an acute medical condition. Patients with brain injuries may also have behavioral problems that are difficult to manage in a medical respite setting. OBJECTIVE:This paper describes the experiences of one medical respite program in screening, assessing, and treating patients experiencing homelessness who have traumatic brain injuries. METHODS:Services by clinical providers were tailored to better address needs of those with a history of TBI, as well as implementation of environmental modifications. Two retrospective case studies were completed to illustrate the importance of addressing TBIs in respite programs. RESULTS:Modifications to programming can improve patient outcomes and assist in transitioning patients to appropriate community resources. CONCLUSIONS:Identifying and treating patients with TBIs in respite programs can result in long-term positive benefits for patients.",
+    "TypeName": "Articulo de revista",
     "Authors": "Alfonso J. Rodriguez-Morales, Jaime A. Cardona-Ospina, Estefanía GutiérrezOcampo, Rhuvi Villamizar-Peña, Yeimer Holguin-Rivera, Juan Pablo EscaleraAntezana, Lucia Elena Alvarado-Arnez, D. Katterine Bonilla-Aldana, Carlos FrancoParedes, Andrés F. Henao-Martinez, Alberto Paniz-Mondolfi, Guillermo J. LagosGrisales, Eduardo Ramírez-Vallejo, Jose A. Suárez, Lysien I. Zambrano, Wilmer E. Villamil-Gómez, Graciela J. Balbin-Ramon, Ali A. Rabaan, Harapan Harapan, Kuldeep Dhama, Hiroshi Nishiura, Hiromitsu Kataoka, Tauseef Ahmad, Ranjit Sah, On behalf of the Latin American Network of Coronavirus Disease 2019-COVID-19 Research (LANCOVID-19).",
-    "DOI": "10.1016/j.tmaid.2020.101623",
-    "Keywords": "Coronavirus Disease 2019; SARS-CoV-2; clinical features; laboratory; outcomes; epidemic. ",
+    "DOI": "10.3233/WOR-203083",
+    "Keywords": "Homelessness, Rehabilitation, Self-management, Medical respite program, Homeless shelter",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -88,187 +100,19 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 135,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 212,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21057,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21031,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21029,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21070,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500003,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -279,27 +123,27 @@
     "ItemId": 3,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Novel coronavirus (2019-ncov) infection in humans: a scoping review and meta-analysis.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Israel Junior Borges do Nascimento, 2020. ",
-    "Study Type": "Systematic review",
+    "Title": "A Promising Route Towards Improvement of Homeless Young People’s Access to Mental Health Services: The Creation and Evolution of an Outreach Service Network in Montréal",
+    "ParentTitle": "Community Mental Health Journal volume",
+    "ShortTitle": "Morisseau‑Guillot, 2020.",
+    "Study Type": "Observacional",
     "Study detail": "Meta-analysis",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "Brazil",
-    "Publisher": "Social Science Research Network",
+    "Month": "marzo",
+    "City": "Montreal",
+    "Country": "Canadá",
+    "Publisher": "Springer Link",
     "Institution": "",
-    "Volume": 506,
-    "Pages": "145-148",
+    "Volume": 56,
+    "Pages": "258–273",
     "Edition": "",
     "Issue": 3,
-    "URL": "https://papers.ssrn.com/abstract=3550028",
-    "Abstract": "Background: A growing body of literature on the 2019 novel coronavirus (2019-nCoV) is becoming available but a synthesis of available data has not been conducted. We performed a scoping review of currently available clinical, epidemiological, laboratory, and chest imaging data related to the 2019-nCoV infection.Methodology: We searched MEDLINE, Cochrane CENTRAL, EMBASE, Scopus and LILACS from January 1st, 2019 to February 24th, 2020. Study selection, data extraction and risk of bias assessment were performed by two independent reviewers. Qualitative synthesis was conducted, and random-effects models were applied to estimate pooled results.Findings: Sixty-one studies were included (101,905 patients). The most common disease-related symptoms were fever (84%, 95% confidence interval (CI) 77-91%; n=2,452), cough (63%, 95% CI 55-70%; n=2,027), and muscle aches and/or fatigue (27%, 95% CI 19-37%; n=1,742). Laboratory findings were described in a lower number of patients, and revealed lymphopenia (0.93x109/L, 95% CI 0.83-1.03x109/L, n=464) and abnormal C-reactive protein (33.72mg/dL, 95% CI 21.54-45.91mg/dL, n=1637). Radiological findings varied, but mostly described ground glass opacities and consolidation. Data on treatment options were limited. All-cause mortality was 1.1% (95% CI 0.1-2.7%; n=51,673). Epidemiological studies showed that mortality was higher in males and elderly patients.Interpretation: The majority of reported clinical symptoms and laboratory findings related to 2019-nCoV infection are non-specific. Clinical suspicion, accompanied by a relevant epidemiological history, should be followed by early imaging and virological assay.Funding Statement: No funding was obtained for this study.Declaration of Interests: None.Ethics Approval Statement: The authors stated that ethics approval was not necessary.",
-    "TypeName": "Preprint",
-    "Authors": "Israel Junior Borges do Nascimento, Ana Marusic, Nensi Cacic, Hebatullah Mohamed Abdulazeem,Meisam Abdar Esfahani, Umesh Jayarajah, Ana Jeroncic, Vinicius Tassoni Civile, Nelson Carvas Junior, Thilo Caspar von Groote,Ishanka Weerasekara,Tina Poklepovic Pericic, Irena Zakarija-Grkovic, Silvana Mangeon Meirelles Guimarães, Nicola L Bragazzi, Maria Bjorklund, Ahmad Sofi-Mahmudi, Mohammad Altujjar, Maoyi Tian, Diana Maria Cespedes Arcani, Milena Soriano Marcolino.",
-    "DOI": "10.2139/ssrn.3550028",
-    "Keywords": "Coronavirus; Evidence-based Medicine; Symptom Assessment; public health; 2019- nCoV.",
+    "URL": "https://link.springer.com/article/10.1007/s10597-019-00456-y",
+    "Abstract": "Youth homelessness is a complex phenomenon as well as an important public health issue often compounded by mental illness of varying severity, in turn creating numerous deleterious consequences. While emergency health services usage remains high, access to mental health services is arduous and conventional interventions often fall short on providing integrated care and seldom lead to sustained positive outcomes for this group. From this observation, clinicians in Montreal, Canada, initiated collaborative meetings, eventually attended by a growing number of institutional and community stakeholders working with homeless youth. Acknowledging the unique needs of this population, the Réseau d’intervention de proximité auprès des Jeunes de la Rue (RIPAJ) or Montreal Homeless Youth Network was created to engage and seamlessly connect youth with the right resources within the network including mental health services amongst others. The genesis, philosophy, and unique features of RIPAJ that allow for effective and cohesive interventions as well as future directions are discussed.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Raphaël Morisseau‑Guillot, Diane Aubin, Julie‑Marguerite Deschênes, Milena Gioia, Ashok Malla, Pasquale Bauco, Marie‑Ève Dupont, Amal Abdel‑Baki",
+    "DOI": "10.1007/s10597-019-00456-y",
+    "Keywords": "Homeless youth, Youth mental health, Access to care, Network, Integrated care",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -307,151 +151,181 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21070,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21073,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 227,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 212,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
+        "AttributeId": 214,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21050,
+        "AttributeId": 215,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21042,
+        "AttributeId": 219,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21045,
+        "AttributeId": 216,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21053,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21055,
+        "AttributeId": 103,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21067,
+        "AttributeId": 109,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21054,
+        "AttributeId": 110,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21059,
+        "AttributeId": 111,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21056,
+        "AttributeId": 119,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21060,
+        "AttributeId": 123,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 124,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21073,
+        "AttributeId": 125,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21035,
+        "AttributeId": 126,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 128,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11101,
+        "AttributeId": 133,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11104,
+        "AttributeId": 138,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500003,
+        "AttributeId": 147,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 149,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 156,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 402,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 403,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -462,27 +336,27 @@
     "ItemId": 4,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Systematic review of covid-19 in children shows milder cases and a better prognosis than adults.",
-    "ParentTitle": "Acta paediatrica",
-    "ShortTitle": "Jonas F Ludvigsson, 2020.",
-    "Study Type": "Systematic review",
-    "Study detail": "Systematic review",
+    "Title": "A randomized trial of permanent supportive housing for chronically homeless persons with high use of publicly funded services",
+    "ParentTitle": "Health Services Research",
+    "ShortTitle": "Raven, 2020.",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "",
-    "Publisher": "Wiley",
+    "Month": "",
+    "City": "Santa Clara County, CA",
+    "Country": "USA",
+    "Publisher": "Wiley Periodicals LLC",
     "Institution": "",
     "Volume": 109,
-    "Pages": "1088-1095",
+    "Pages": "797–806",
     "Edition": "",
     "Issue": 3,
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32202343",
-    "Abstract": "AIM: The coronavirus disease 2019 (COVID-19) pandemic has affected hundreds of thousands of people. Data on symptoms and prognoses in children are rare. METHODS: A systematic literature review was carried out to identify papers on COVID-19, which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), using the Medline and EMBASE databases between 1 January and 18 March 2020. RESULTS: The search identified 45 relevant scientific papers and letters. The review showed that children have so far accounted for 1-5% of diagnosed COVID-19 cases, they often have milder disease than adults and deaths have been extremely rare. Diagnostic findings have been similar to adults, with fever and respiratory symptoms being prevalent, but fewer children seem to have developed severe pneumonia. Elevated inflammatory markers were less common in children and lymphocytopenia seemed rare. Newborn infants have developed symptomatic COVID-19, but evidence of vertical intrauterine transmission was scarce. Suggested treatment included providing oxygen, inhalations, nutritional support and maintaining fluids and electrolyte balances. CONCLUSIONS: COVID-19 has occurred in children, but they seemed to have a milder disease course and better prognoses than adults. Deaths were extremely rare.",
-    "TypeName": "Journal Article",
-    "Authors": "Jonas F Ludvigsson.",
-    "DOI": "10.1111/apa.15270",
-    "Keywords": "Children; Coronavirus; COVID-19; 2019-nCoV; SARS-CoV2.",
+    "URL": "https://link.springer.com/article/10.1007/s10597-019-00456-y",
+    "Abstract": "Objective: To examine whether randomization to permanent supportive housing (PSH) versus usual care reduces the use of acute health care and other services among chronically homeless high users of county-funded services. Data Sources: Between 2015 and 2019, we assessed service use from Santa Clara County, CA, administrative claims data for all county-funded health care, jail and shelter, and mortality. Study Design: We conducted a randomized controlled trial among chronically homeless high users of multiple systems. We compared postrandomization outcomes from county-funded systems using multivariate regression analysis. Data Collection: We extracted encounter data from an integrated database capturing health care at county-funded facilities, shelter and jails, county housing placement, and death certificates. Principal Findings: We enrolled 423 participants (199 intervention; 224 control). Eighty-six percent of those randomized to PSH received housing compared with 36 percent in usual care. On average, the 169 individuals housed by the PSH intervention have remained housed for 28.8 months (92.9 percent of the study follow-up period). Intervention group members had lower rates of psychiatric ED visits IRR 0.62; 95% CI [0.43, 0.91] and shelter days IRR 0.30; 95% CI [0.17, 0.53], and higher rates of ambulatory mental health services use IRR 1.84; 95% CI [1.43, 2.37] compared to controls. We found no differences in total ED or inpatient use, or jail. Seventy (37 treatment; 33 control) participants died. Conclusions: The intervention placed and retained frequent user, chronically homeless individuals in housing. It decreased psychiatric ED visits and shelter use, and increased outpatient mental health care, but not medical ED visits or hospitalizations. Limitations included more than one-third of usual care participants received another form of subsidized housing, potentially biasing results to the null, and loss of power due to high death rates. PSH can house high-risk individuals and reduce emergent",
+    "TypeName": "Articulo de revista",
+    "Authors": "Maria C. Raven, Matthew J. Niedzwiecki, Margot Kushel.",
+    "DOI": "10.1007/s10597-019-00456-y",
+    "Keywords": "Homeless youth, Youth mental health, Access to care, Network, Integrated care",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -490,91 +364,61 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21047,
+        "AttributeId": 205,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21045,
+        "AttributeId": 214,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
+        "AttributeId": 216,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21038,
+        "AttributeId": 217,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21054,
+        "AttributeId": 224,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21055,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21030,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500003,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -585,27 +429,27 @@
     "ItemId": 5,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical features and predictors for patients with severe sars-cov-2 pneumonia: a retrospective multicenter cohort study",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Chao Cao, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "A systematic review of occupational therapy interventions in the transition from homelessness",
+    "ParentTitle": "Scandinavian Journal Of Occupational Therapy",
+    "ShortTitle": "Marshall, 2020.",
+    "Study Type": "Revisión Sistemática",
+    "Study detail": "Revisión Sistemática",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Abril",
     "City": "",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Country": "USA",
+    "Publisher": "Taylor and Francis Ltd",
     "Institution": "",
     "Volume": "",
-    "Pages": "",
+    "Pages": "1-18",
     "Edition": "",
     "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3556663",
-    "Abstract": "Background: Starting from early December 2019, cases of human infection with a novel coronavirus were identified in Wuhan, Hubei Province, China. It spreads rapidly to other cities and numerous countries. This study was performed to investigate clinical features of patients with severe SARS-CoV-2 pneumonia and identify risk factors for converting to severe cases in those who had mild to moderate diseases. Methods: In this retrospective, multicenter cohort study, patients with mild to moderate SARS-CoV-2 pneumonia were included from Ningbo First Hospital and Jingzhou Central Hospital. Demographic data, symptoms, laboratory values, comorbidities, and clinical outcomes were collected. Data were compared between non-severe and severe patients. Logistic regression analysis was performed to assess risk factors in predicting the patients with SARS-CoV-2 pneumonia who would convert to severe cases. Findings: 120 patients (36 from Ningbo First Hospital and 84 from Jingzhou Central Hospital) were included in this study, among which 62 were excluded and 58 were included in the final analysis. Compared with non-severe cases, severe patients with SARS-CoV-2 pneumonia had a longer: time to clinical recovery (12·9±4·4 vs 8·3±4·7; p=0·0011), duration of viral shedding (15·7±6·7 vs 11·8±5·0; p=0·0183), and hospital stay (20·7±1·2 vs 14·4±4·3; p=0·0211). Multivariate logistic regression indicated that lymphocyte count was significantly associated with the rate of converting to severe cases (odds ratio 1·28, 95%CI 1·06–1·54, per 0·1×109 /L reduced; p=0·007), while using of low-to-moderate doses of systematic corticosteroids was associated with reduced likelihood of converting to a severe case (odds ratio 0·14, 95%CI 0·02–0·80; p=0·0275). Interpretation: The low peripheral blood lymphocyte count was an independent risk factor for SARS-CoV-2 pneumonia patients converting to severe cases. This finding may help clinicians more accurately predict prognosis, and triage priorities to improve clinical outcomes.",
-    "TypeName": "Preprint",
-    "Authors": "Chao Cao, Meiping Chen, Yiting Li, Lili Yu, Weina Huang, Guoqing Qian, Chuanbing Zhu, Jinguo Chu, Li He, Jingping Ma, Xiaomin Chen.",
-    "DOI": "10.2139/ssrn.3556663",
-    "Keywords": "SARS-CoV-2; pneumonia; lymphocyte counts; corticosteroids",
+    "URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0 85086581589&doi=10.1080%2f11038128.2020.1764094&partnerID=40&md5=4e6da771ba2c978bff21a26856bd117c",
+    "Abstract": "Background: Although systematic and scoping reviews have identified a range of interventions for persons experiencing homelessness, no known reviews have captured the range and quality of intervention studies aimed at supporting a transition from homelessness. Objectives: To capture the range and quality of occupational therapy intervention studies aimed at supporting a transition to housing following homelessness. Method: Using Joanna Briggs Institute (JBI) guidelines, we conducted a systematic review including a critical appraisal and narrative synthesis of experimental studies. Results: Eleven studies were included. Critical appraisal scores ranged from 33.3 to 88.9 of a possible score of 100 (Mdn ¼ 62.5; IQR ¼ 33.4). The majority of studies evaluated interventions for the development of life skills (n ¼ 9; 81.8%), and all were conducted in the USA. Several of the included studies were exploratory evaluation and feasibility studies, and all were quasiexperimental in design. Only three studies (27.2%) incorporated a control group. Intervention strategies included (1) integrated group and individual life skills interventions (n ¼ 6); (2) groupbased life skills interventions (n ¼ 3); and (3) psychosocial and consultative interventions (n ¼ 2). Conclusions: Research evaluating occupational therapy interventions aimed at supporting homeless individuals as they transition to housing is in an early stage of development. Significance: Implications for research and practice are discussed",
+    "TypeName": "Articulo de revista",
+    "Authors": "Carrie Anne Marshall, Leonie Boland, Lee Ann Westover, Roxanne Isard & Sharon A. Gutman",
+    "DOI": "10.1080/11038128.2020.1764094",
+    "Keywords": "Homeless persons; Activities of daily living; Occupational therapy; Meaningful engagement; Systematic review",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -613,145 +457,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21054,
+        "AttributeId": 508,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21071,
+        "AttributeId": 157,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21075,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -762,27 +486,27 @@
     "ItemId": 6,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical features and a simple model for predicting the mortality of coronavirus disease 2019 patients on admission.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Lijuan Zhang, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Adapting a peer recovery coach-delivered behavioral activation intervention for problematic substance use in a medically underserved community in Baltimore City",
+    "ParentTitle": "PLOS ONE",
+    "ShortTitle": "Satinsky, 2020.",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Enero",
+    "City": "Baltimore",
+    "Country": "USA",
+    "Publisher": "Public Library of Science",
     "Institution": "",
-    "Volume": "",
+    "Volume": "15",
     "Pages": "",
     "Edition": "",
     "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3551386",
-    "Abstract": "Background: Coronavirus disease 2019 is an emerging infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and has an average mortality rate of 2.3%. The risk factors for mortality remain unclear. Methods: Clinical and laboratory parameters of 319 hospitalized patients with SARS-CoV-2 infection from January 2 to February 13, 2020 in the Central Hospital of Wuhan were retrospectively reviewed. Patients were followed up to February 27, 2020. The association between potential risk factors and mortality was estimated by Cox proportional hazards regression models. We further investigated the predictive performance of these factors on mortality and plotted the corresponding receiver operating characteristic curve and nomogram. Findings: During the median follow-up of 17 days (range, 4‚Äì30 days), 273 patients survived and were discharged, whereas 46 died. Univariate Cox regression analyses indicated several death-related risk factors. Further multivariate Cox regression analysis indicated that older age and increased levels of CRP and lactate were independent risk factors for fatal outcomes. We used the three variables to assemble a score model. The Harrell‚Äôs C-index for the established model to predict death risk was 0.89 (95% CI: 0.85‚Äì0.92). The performance of prediction model for 7-, 14-, 21-, and 28-day survival was considerable. Interpretation: Older age, increased levels of CRP and lactate were independent risk factors for mortality. We established a simple and practical clinical scoring system that can be used to identify patients who at high risk of mortality, which might contribute to risk classification and clinical practice.Funding Statement: This study was supported by the Health and Family Planning Commission of Wuhan Municipality, grant number WX18A02.Declaration of Interests: The authors declared no conflict of interest.Ethics Approval Statement: This study was approved by the Ethics Committees of the Central Hospital of Wuhan.",
-    "TypeName": "Preprint",
-    "Authors": "Lijuan Zhang, Wenwu Sun, Liangkai Chen, Qiang Wang, Yanli Liu, Su Zhao, Jia Li,  Yujun Wang, Li Yu.",
-    "DOI": "10.2139/ssrn.3551386",
-    "Keywords": "coronavirus disease 2019; severe acute respiratory syndrome coronavirus 2; mortality; risk factors; model.",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85078731416&doi=10.1371%2fjournal.pone.0228084&origin=inward&txGid=8aa016a50196e42aa3c9dc5113341a25",
+    "Abstract": "Low-income, racial/ethnic minority groups have disproportionately high rates of problematic substance use yet face barriers in accessing evidence-based interventions (EBIs). Peer recovery coaches (PRCs), individuals with lived experience with problematic substance use, may provide an effective approach to reaching these individuals. Traditionally PRCs have focused on bridging to other types of care rather than delivering EBIs themselves. The aim of this study was to assess perceptions of the appropriateness of a PRC-delivered adapted behavioral activation (BA) intervention to reduce problematic substance use for individuals not engaged in care. This study was conducted at a community resource center in Baltimore, Maryland serving low-income and homeless clients who have high rates of problematic substance use yet also face barriers to accessing care. Guided by the ADAPTITT framework, we conducted semi-structured key informant interviews with clients (n = 30) with past or present problematic substance use, and a focus group with community providers, including staff at the community resource center (n = 5) and PRCs (n = 6) from the community. Thirty percent (n = 9) of clients interviewed reported past problematic substance use and 70% (n = 21) met criteria for current use, most commonly cocaine and opioids. Clients, center staff, and PRCs shared that PRC-delivered BA could be acceptable and appropriate with suggested adaptations, including adding peer-delivered case-management and linkage to care alongside BA, and tailoring BA to include activities that are accessible and feasible in the community. These findings will inform the adaptation of PRC-delivered BA to address problematic substance use in this setting.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Emily N. Satinsky, Kelly Doran, Julia W. Felton, Mary Kleinman, Dwayne Dean, Jessica F. Magidson.",
+    "DOI": "10.1371/journal.pone.0228084",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -790,157 +514,49 @@
     "ItemStatus": "",
     "Codes":[
       {
-        "AttributeId": 21046,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 111,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
+        "AttributeId": 127,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21050,
+        "AttributeId": 156,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21045,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21052,
+        "AttributeId": 223,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 225,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21072,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -951,27 +567,27 @@
     "ItemId": 7,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Prevalence and impact of cardiovascular metabolic diseases on covid-19 in china.",
-    "ParentTitle": "Clinical research in cardiology",
-    "ShortTitle": "Bo Li, 2020.",
-    "Study Type": "Systematic review",
-    "Study detail": "Meta-analysis",
+    "Title": "Building Bridges to Housing for homeless adults with intellectual and developmental disabilities: outcomes of a cross-sector intervention",
+    "ParentTitle": "National Library of Medicine",
+    "ShortTitle": "Nadine, 2020",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Julio",
     "City": "",
-    "Country": "China",
-    "Publisher": "Springer",
+    "Country": "Canada",
+    "Publisher": "Toronto",
     "Institution": "",
     "Volume": "",
     "Pages": "",
     "Edition": "",
     "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32161990",
-    "Abstract": "Background: Studies have reminded that cardiovascular metabolic comorbidities made patients more susceptible to sufer 2019 novel coronavirus (2019-nCoV) disease (COVID-19), and exacerbated the infection. The aim of this analysis is to determine the association of cardiovascular metabolic diseases with the development of COVID-19. Methods: A meta-analysis of eligible studies that summarized the prevalence of cardiovascular metabolic diseases in COVID19 and compared the incidences of the comorbidities in ICU/severe and non-ICU/severe patients was performed. Embase and PubMed were searched for relevant studies. Results: A total of six studies with 1527 patients were included in this analysis. The proportions of hypertension, cardia-cerebrovascular disease and diabetes in patients with COVID-19 were 17.1%, 16.4% and 9.7%, respectively. The incidences of hypertension, cardia-cerebrovascular diseases and diabetes were about twofolds, threefolds and twofolds, respectively, higher in ICU/severe cases than in their non-ICU/severe counterparts. At least 8.0% patients with COVID-19 sufered the acute cardiac injury. The incidence of acute cardiac injury was about 13 folds higher in ICU/severe patients compared with the non-ICU/severe patients. Conclusion Patients with previous cardiovascular metabolic diseases may face a greater risk of developing into the severe condition and the comorbidities can also greatly afect the prognosis of the COVID-19. On the other hand, COVID-19 can, in turn, aggravate the damage to the heart.",
-    "TypeName": "Journal Article",
-    "Authors": "Bo Li, Jing Yang, Faming Zhao, Lili Zhi, Xiqian Wang, Lin Liu,  Zhaohui Bi, Yunhe Zhao. ",
-    "DOI": "10.1007/s00392-020-01626-9",
-    "Keywords": "2019-nCoV; COVID-19; Cardiac injury; Cardiovascular metabolic diseases.",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32715590/",
+    "Abstract": "Adults with intellectual and developmental disabilities (IDD) have high rates of homelessness. This observational study evaluates Bridges to Housing, a cross-sector intervention offering immediate access to housing and supports to this population in Toronto, Canada.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Nadine Reid, Amie Kron, Denise Lamanna, Sophia Wen, Anna Durbin, Thanara Rajakulendran, Yona Lunsky, Sylvain Roy, Denise DuBois, Vicky Stergiopoulos.",
+    "DOI": "10.1111/jar.12779",
+    "Keywords": "Intellectual disability; developmental disability; homeless persons; housing first; mental health; supportive housing.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -979,43 +595,43 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21007,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21031,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11104,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11103,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500003,
+        "AttributeId": 401,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""

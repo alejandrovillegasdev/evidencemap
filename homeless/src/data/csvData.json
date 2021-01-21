@@ -572,11 +572,13 @@
     ],
     [
       {
-        "span": 3,
+        "span": 1,
         "isColumn": false,
         "id": 137,
         "title": "Intervenciones para disminuir las consultas a urgencias "
-      },
+      }
+    ],
+    [
       {
         "span": 1,
         "isColumn": false,
@@ -669,10 +671,122 @@
         "id": 148,
         "title": "Dieta de base en refugio"
       }
+    ],
+    [
+      {
+        "span": 3,
+        "isColumn": false,
+        "id": 54370191,
+        "title": "Intervenciones en salud dental\t\t"
+      },
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 149,
+        "title": "Jornadas de atención odontologica"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 150,
+        "title": "Campañas educativas "
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 151,
+        "title": "Clínica odontológica de base comunitaria"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 54370192,
+        "title": "Repatriación\t\t"
+      },
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 152,
+        "title": "Repatriación"
+      }
+    ],
+    [
+      {
+        "span": 5,
+        "isColumn": false,
+        "id": 54370195,
+        "title": "Intervenciones para la manutención, formación laboral y empleabilidad"
+      },
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 153,
+        "title": "Subsidios"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 154,
+        "title": "Entrenamiento en habilidades para el trabajo condicionadas"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 155,
+        "title": "Entrenamiento en habilidades para el trabajo no condicionadas"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 156,
+        "title": "Empleo"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 157,
+        "title": "Terapia ocupacional"
+      }
+    ],
+    [
+      {
+        "span": 5,
+        "isColumn": false,
+        "id": 54370198,
+        "title": "COVID-19"
+      },
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 158,
+        "title": "Aislamiento"
+      }
+    ],
+    [
+      {
+        "span": 1,
+        "isColumn": false,
+        "id": 159,
+        "title": "Cuidado para enfermos"
+      }
     ]
   ],
   "totalColBreadth": 24,
   "totalColDepth": 3,
-  "totalRowBreadth": 43,
+  "totalRowBreadth": 59,
   "totalRowDepth": 1
 }

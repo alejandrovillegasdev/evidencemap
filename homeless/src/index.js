@@ -12,10 +12,10 @@ $(window).on('load', function () {
             {
                 "attribute": {
                     "AttributeSetId": 5414315,
-                    "AttributeId": 500001,
+                    "AttributeId": 504,
                     "AttributeSetDescription": "",
                     "AttributeType": "Selectable (show checkbox)",
-                    "AttributeName": "High quality primary study",
+                    "AttributeName": "Estudio de metodos mixtos",
                     "AttributeDescription": ""
                 },
                 "color": "#E22222"
@@ -23,10 +23,10 @@ $(window).on('load', function () {
             {
                 "attribute": {
                     "AttributeSetId": 5414325,
-                    "AttributeId": 500002,
+                    "AttributeId": 507,
                     "AttributeSetDescription": "",
                     "AttributeType": "Selectable (show checkbox)",
-                    "AttributeName": "Low and medium quality primary study",
+                    "AttributeName": "Observacional",
                     "AttributeDescription": ""
                 },
                 "color": "#75C127"
@@ -34,14 +34,36 @@ $(window).on('load', function () {
             {
                 "attribute": {
                     "AttributeSetId": 5414335,
-                    "AttributeId": 500003,
+                    "AttributeId": 506,
                     "AttributeSetDescription": "",
                     "AttributeType": "Selectable (show checkbox)",
-                    "AttributeName": "Low and medium quality secondary study",
+                    "AttributeName": "Experimento controlado aleatorizado",
                     "AttributeDescription": ""
                 },
                 "color": "#24A1CE"
-            }
+            },
+            {
+              "attribute": {
+                  "AttributeSetId": 5414335,
+                  "AttributeId": 508,
+                  "AttributeSetDescription": "",
+                  "AttributeType": "Selectable (show checkbox)",
+                  "AttributeName": "Revisión Sistemática",
+                  "AttributeDescription": ""
+              },
+              "color": "#75FF33"
+          },
+          {
+            "attribute": {
+                "AttributeSetId": 5414335,
+                "AttributeId": 503,
+                "AttributeSetDescription": "",
+                "AttributeType": "Selectable (show checkbox)",
+                "AttributeName": "Estudio cualitativo",
+                "AttributeDescription": ""
+            },
+            "color": "#FFBD33"
+        }
         ]
           const summaryAttribute = "";
           const checkboxCheckedSvg = '<svg id="checked" fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">' +
