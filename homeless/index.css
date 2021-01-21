@@ -97,7 +97,7 @@ header {
 }
 
 .wrapper {
-	margin: 30px 10%;
+	margin: 30px 3%;
 }
 
 .pivot-table {
@@ -331,9 +331,7 @@ header {
 }
 
 .legend-container {
-	max-width: 40%;
-    position: absolute;
-    text-align: initial;
+    text-align: center;
     top: 0px;
     right: 10px;
 }
