@@ -642,27 +642,27 @@
     "ItemId": 8,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical features and short-term outcomes of 114 elderly patients with covid-19 in wuhan, china: a single-center, retrospective, observational study.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Xu Zhu, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Combatting homelessness in canada: Applying lessons learned from six tiny villages to the edmonton bridge healing program.",
+    "ParentTitle": "International Journal of Environmental Research and Public Health",
+    "ShortTitle": "Wong, 2020.",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Septiembre",
+    "City": "",
+    "Country": "Canada",
+    "Publisher": "MDPI AG",
     "Institution": "Renmin Hospital of Wuhan University.",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "17",
+    "Pages": "1-19",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ssrn.com/abstract=3548774",
-    "Abstract": "Background: COVID-19 is an emerging infectious disease that first reported in China and has spread worldwide. We aimed to explore the clinical variables associated with severity and short-term outcomes of elderly patients with this disease. Methods: In this study, we enrolled patients over 70 years old (yo) with laboratory confirmed COVID-19 between January 20 and February 15, 2020 admitted to Renmin Hospital of Wuhan University. Epidemiological, demographic, and clinical data were retrospectively collected. The patients were classified into two groups for severity evaluation: severe and non-severe groups, and retrospectively defined into two groups for outcome evaluation based on their health status: deteriorated and improved groups. Findings:One hundred and fourteen patients were included. The most common symptoms were fever, cough, and dyspnea. Patients with severe disease were more often with comorbidity of respiratory disease and with oxygen administrated than patients with non-severe disease. Total case-fatality rate was 23.7%. Multivariate analyses showed that presence of basic respiratory diseases or lactic dehydrogenase (LDH) was independently associated with infection severity. With regards to outcomes, severe and critical types, elevated white blood cell, neutrophil, aspartate aminotransferase, LDH, creatine kinase, creatinine, blood urea nitrogen, D-dimmer, and PCT, or decreased lymphocyte, especially those CD3, CD4, CD19, and CD16+CD56 positive T cells were more common in the deteriorated group than the improved groups.  Interpretation: The patients over 70 yo with COVID-19 had a high case-fatality rate. Specific comorbidities and laboratory findings may help us evaluating severity and outcomes in elderly patients with COVID-19.",
+    "Issue": "17",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85090030531&doi=10.3390%2fijerph17176279&origin=inward&txGid=8d092b64a3c71dafd4c07187c16aba72",
+    "Abstract": "Emerging evidence shows that homelessness continues to be a chronic public health problem throughout Canada. The Bridge Healing Program has been proposed in Edmonton, Alberta, as a novel approach to combat homelessness by using hospital emergency departments (ED) as a gateway to temporary housing. Building on the ideas of Tiny Villages, the Bridge Healing Program provides residents with immediate temporary housing before transitioning them to permanent homes. This paper aims to understand effective strategies that underlie the Tiny Villages concept by analyzing six case studies and applying the lessons learned to improving the Bridge Healing Program. After looking at six Tiny Villages, we identified four common elements of many successful Tiny Villages. These include a strong community, public support, funding with few restrictions, and affordable housing options post-graduation. The Bridge Healing Program emphasizes such key elements by having a strong team, numerous services, and connections to permanent housing. Furthermore, the Bridge Healing Program is unique in its ability to reduce repeat ED visits, lengths of stay in the ED, and healthcare costs. Overall, the Bridge Healing Program exhibits many traits associated with successful Tiny Villages and has the potential to address a gap in our current healthcare system. © 2020, MDPI AG. All rights reserved.",
     "TypeName": "Preprint",
-    "Authors": "Xu Zhu, Wenzheng Yuan, Kesheng Huang, Qingbo Wang, Shuang Yao, Wei Lu, Li Liu, Tao Fu.",
-    "DOI": "10.2139/ssrn.3548774",
-    "Keywords": "Clinical feature; outcome; elderly patient; COVID-19",
+    "Authors": "Wong, A; Chen, J; Dicipulo, R; Weiss, D; Sleet, D.A; Francescutti; L.H. ",
+    "DOI": "10.3390/ijerph17176279",
+    "Keywords": "Bridge healing program; Emergency housing; Homeless patients; Homeless(ness); Tiny Villages",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -670,145 +670,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 103,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 211,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21016,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21026,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -819,27 +699,27 @@
     "ItemId": 9,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical characteristics of fatal and recovered cases of coronavirus disease 2019 (covid-19) in wuhan, china: a retrospective study.",
-    "ParentTitle": "Chinese medical journal",
-    "ShortTitle": "Yan Deng, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cross sectional",
+    "Title": "Cost-Effectiveness of Housing First With Assertive Community Treatment: Results From the Canadian At Home/Chez Soi Trial",
+    "ParentTitle": "Psychiatric Services",
+    "ShortTitle": "Latimer, 2020.",
+    "Study Type": "Evaluación económica ",
+    "Study detail": "CEvaluación económica",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "",
+    "Month": "Octubre",
+    "City": "Vancouver",
+    "Country": "Canadá",
+    "Publisher": "American Psychiatric Association Publishing",
     "Institution": "",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "71",
+    "Pages": "1020-1033",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32209890",
-    "Abstract": "Background: The 2019 novel coronavirus has caused the outbreak of the acute respiratory disease in Wuhan, Hubei Province of China since December 2019. This study was performed to analyze the clinical characteristics of patients who succumbed to and who recovered from 2019 novel coronavirus disease (COVID-19). Methods: Clinical data were collected from two tertiary hospitals in Wuhan. A retrospective investigation was conducted to analyze the clinical characteristics of fatal cases of COVID-19 (death group) and we compare them with recovered patients (recovered group). Continuous variables were analyzed using the Mann-Whitney U test. Categorical variables were analyzed by χ test or Fisher exact test as appropriate. Results: Our study enrolled 109 COVID-19 patients who died during hospitalization and 116 recovered patients. The median age of the death group was older than the recovered group (69 [62, 74] vs. 40 [33, 57] years, Z = 9.738, P < 0.001). More patients in the death group had underlying diseases (72.5% vs. 41.4%, χ = 22.105, P < 0.001). Patients in the death group had a significantly longer time of illness onset to hospitalization (10.0 [6.5, 12.0] vs. 7.0 [5.0, 10.0] days, Z = 3.216, P = 0.001). On admission, the proportions of patients with symptoms of dyspnea (70.6% vs. 19.0%, χ = 60.905, P < 0.001) and expectoration (32.1% vs. 12.1%, χ = 13.250, P < 0.001) were significantly higher in the death group. The blood oxygen saturation was significantly lower in the death group (85 [77, 91]% vs. 97 [95, 98]%, Z = 10.625, P < 0.001). The white blood cell (WBC) in death group was significantly higher on admission (7.23 [4.87, 11.17] vs. 4.52 [3.62, 5.88] ×10/L, Z = 7.618, P < 0.001). Patients in the death group exhibited significantly lower lymphocyte count (0.63 [0.40, 0.79] vs. 1.00 [0.72, 1.27] ×10/L, Z = 8.037, P < 0.001) and lymphocyte percentage (7.10 [4.45, 12.73]% vs. 23.50 [15.27, 31.25]%, Z = 10.315, P < 0.001) on admission, and the lymphocyte percentage continued to decrease during hospitalization (7.10 [4.45, 12.73]% vs. 2.91 [1.79, 6.13]%, Z = 5.242, P < 0.001). Alanine transaminase (22.00 [15.00, 34.00] vs. 18.70 [13.00, 30.38] U/L, Z = 2.592, P = 0.010), aspartate transaminase (34.00 [27.00, 47.00] vs. 22.00 [17.65, 31.75] U/L, Z = 7.308, P < 0.001), and creatinine levels (89.00 [72.00, 133.50] vs. 65.00 [54.60, 78.75] μmol/L, Z = 6.478, P < 0.001) were significantly higher in the death group than those in the recovered group. C-reactive protein (CRP) levels were also significantly higher in the death group on admission (109.25 [35.00, 170.28] vs. 3.22 [1.04, 21.80] mg/L, Z = 10.206, P < 0.001) and showed no significant improvement after treatment (109.25 [35.00, 170.28] vs. 81.60 [27.23, 179.08] mg/L, Z = 1.219, P = 0.233). The patients in the death group had more complications such as acute respiratory distress syndrome (ARDS) (89.9% vs. 8.6%, χ = 148.105, P < 0.001), acute cardiac injury (59.6% vs. 0.9%, χ = 93.222, P < 0.001), acute kidney injury (18.3% vs. 0%, χ = 23.257, P < 0.001), shock (11.9% vs. 0%, χ = 14.618, P < 0.001), and disseminated intravascular coagulation (DIC) (6.4% vs. 0%, χ = 7.655, P = 0.006). Conclusions: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels. More patients in the death group had complications such as ARDS, acute cardiac injury, acute kidney injury, shock, and DIC.",
-    "TypeName": "Journal Article",
-    "Authors": "Yan Deng, Wei Liu, Kui Liu, Yuan-Yuan Fang, Jin Shang, Ling Zhou, Ke Wang, Fan Leng, Shuang Wei, Lei Chen, Hui-Guo Liu.",
-    "DOI": "10.1097/CM9.0000000000000824.",
-    "Keywords": "Coronavirus disease 2019; Fatality; Recovery; Clinical characteristics; Lymphocyte; C-reactive protein",
+    "Issue": "10",
+    "URL": "https://ps.psychiatryonline.org/doi/10.1176/appi.ps.202000029?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
+    "Abstract": "Objective: The At Home/Chez Soi trial for homeless individuals with mental illness showed scattered-site Housing First with Assertive Community Treatment (ACT) to be more effective than treatment as usual. This study evaluated the cost-effectiveness of Housing First with ACT and treatment as usual. Methods: Between October 2009 and June 2011, a total of 950 homeless individuals with serious mental illness were recruited in five Canadian cities: Vancouver, Winnipeg, Toronto, Montreal, and Moncton. Participants were randomly assigned to Housing First (N=469) or treatment as usual (N=481) and followed up for up to 24months. The intervention consisted of scattered-site Housing First, using rent supplements, with ACT. The treatment-as-usual group had access to all other services. The perspective of society was adopted for the cost-effectiveness analysis. Days of stable housing served as the outcome measure. Retrospective questionnaires captured service use data. Results: Most (69%) of the costs of the intervention were offset by savings in other costs, such as emergency shelters, reducing the net annual cost of the intervention to about Can$6,311 per person. The incremental cost-effectiveness ratio was Can$41.73 per day of stable housing (95% confidence interval=Can$1.96–$83.70). At up to Can$60 per day, Housing First had more than an 80% chance of being cost-effective, compared with treatment as usual. Cost-effectiveness did not vary by participant characteristics. Conclusions: Housing First with ACT appeared about as cost-effective as Housing First with intensive case management for people with moderate needs. The optimal mix between the two remains to be determined.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Eric A. Latimer, Daniel Rabouin, Zhirong Cao, Angela Ly, Guido Powell, Tim Aubry, Jino Distasio, Stephen W. Hwang, Julian M. Somers, Ahmed M. Bayoumi, Craig Mitton, Erica E. M. Moodie, Paula N. Goering",
+    "DOI": "10.1177/002076402095077210.1176/appi.ps.202000032",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -847,163 +727,49 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21004,
+        "AttributeId": 505,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21008,
+        "AttributeId": 123,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 135,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21039,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21072,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21031,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21036,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21027,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 302,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""

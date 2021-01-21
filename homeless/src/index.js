@@ -56,6 +56,17 @@ $(window).on('load', function () {
           {
             "attribute": {
                 "AttributeSetId": 5414335,
+                "AttributeId": 505,
+                "AttributeSetDescription": "",
+                "AttributeType": "Selectable (show checkbox)",
+                "AttributeName": "Evaluación económica",
+                "AttributeDescription": ""
+            },
+            "color": "#DBFF33"
+        },
+          {
+            "attribute": {
+                "AttributeSetId": 5414335,
                 "AttributeId": 503,
                 "AttributeSetDescription": "",
                 "AttributeType": "Selectable (show checkbox)",
