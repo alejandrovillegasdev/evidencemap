@@ -2121,27 +2121,27 @@
     "ItemId": 31,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Coronavirus disease (COVID-19): spectrum of CT findings and temporal progression of the disease.",
-    "ParentTitle": "Academic radiology",
-    "ShortTitle": "Li, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases and controls",
+    "Title": "Pathways to housing stability and viral suppression for people living with HIV/AIDS: Findings from the Building a Medical Home for Multiply Diagnosed HIV-positive Homeless Populations initiative.",
+    "ParentTitle": "PloS one",
+    "ShortTitle": "Rajabiun, 2020",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Octubre",
     "City": "",
-    "Country": "China",
-    "Publisher": "El sevier",
+    "Country": "",
+    "Publisher": "Public Library of Science",
     "Institution": "",
-    "Volume": "27",
-    "Pages": "603-608",
+    "Volume": "15",
+    "Pages": "1-18",
     "Edition": "",
-    "Issue": "5",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32204987",
-    "Abstract": "Abstract: Coronavirus disease is an emerging infection caused by a novel coronavirus that is moving rapidly. High resolution computed tomography (CT) allows objective evaluation of the lung lesions, thus enabling us to better understand the pathogenesis of the disease. With serial CT examinations, the occurrence, development, and prognosis of the disease can be better understood. The imaging can be sorted into four phases: early phase, progressive phase, severe phase, and dissipative phase. The CT appearance of each phase and temporal progression of the imaging findings are demonstrated.",
-    "TypeName": "Journal Article",
-    "Authors": "Mingzhi Li, Pinggui Lei, Bingliang Zeng, Zongliang Li, Peng Yu, Bing Fan, Chuanhong Wang, Zicong Li, Jian Zhou, Shaobo Hu, Hao Liu",
-    "DOI": "10.1016/j.acra.2020.03.003",
-    "Keywords": "2019-nCoV; COVID-19; Coronavirus; Pneumonia; Tomography; X-ray computed.",
+    "Issue": "10",
+    "URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239190",
+    "Abstract": "BACKGROUND: People with HIV with co-occurring substance use and mental health diagnoses who are unstably housed have poorer outcomes for retention in care and viral suppression. Navigation models are a potential strategy to help this vulnerable population obtain the necessary medical and non-medical services across multiple service systems. The Health Resources and Services Administration's Special Projects of National Significance: 'Building a Medical Home for Multiply-Diagnosed HIV-positive Homeless Populations initiative 2012-2017 found that navigation models may be an effective intervention to support people with HIV with unstable housing improve HIV health outcomes. However, there is limited information about the mechanisms by which this intervention works. In this article, we explore the participant and program factors for achieving stable housing at 6 months and how these factors influence HIV health outcomes. METHODS AND FINDINGS: This was a prospective study of 471 unstably housed people with HIV enrolled in a navigation intervention across nine sites in the United Stated from 2013-2017. All sites provided HIV primary medical care. Eight sites were located in urban areas and one site served a predominantly rural population. Two sites were federally qualified health centers, three were city or county health departments, one site was a comprehensive HIV/AIDS service organization, and three sites were outpatient or mobile clinics affiliated with a university -based or hospital system. Data were collected via interview and medical chart review at baseline, post 6 and 12 months. Type and dose of navigation activities were collected via a standardized encounter form. We used a path analysis model with housing stability at 6 months as the mediator to examine the direct and indirect effects of participant's socio-demographics and risk factors and navigation on viral suppression and retention in care at 12 months. Housing stability at 6 months was associated with male gender, younger age, viral suppression at baseline, having a lower risk for opiate use, recent homelessness, lower risk of food insecurity, and a longer length of time living with HIV. Participants who increased self-efficacy with obtaining help by 6 months had significantly higher odds of achieving housing stability. Stable housing, fewer unmet needs, moderate to high risk for opiate use, and viral suppression at baseline had a direct effect on viral suppression at 12 months. The intensity of navigation contact had no direct effect on housing stability and a mixed direct effect on viral suppression. Recent diagnosis with HIV, women, greater social support, increased self-efficacy and higher intensity of navigation contact had a direct effect on improved retention in HIV primary care at 12 months. CONCLUSIONS: In this sample of people with HIV who are experiencing homelessness, housing stability had a significant direct path to viral suppression. Navigation activities did not have a direct effect on the path to housing stability but were directly related to retention in care. These results identify key populations and factors to target resources and policies for addressing the health and social unmet needs of people with HIV to achieve housing stability and HIV health outcomes.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Serena Rajabiun, Kendra Davis-Plourde, Melinda Tinsley, Emily K. Quinn, Deborah Borne, Manisha H. Maskay, Thomas P. Giordano, Howard J. Cabral ",
+    "DOI": "10.1371/journal.pone.0239190",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2149,19 +2149,31 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21053,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11101,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500002,
+        "AttributeId": 143,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 219,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2172,27 +2184,27 @@
     "ItemId": 32,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis",
-    "ParentTitle": "medRxiv",
-    "ShortTitle": "Ma, 2020",
-    "Study Type": "Revisión sistemática y metanálisis",
+    "Title": "Permanent Supportive Housing With Housing First to Reduce Homelessness and Promote Health Among Homeless Populations With Disability: A Community Guide Systematic Review",
+    "ParentTitle": "Journal of Public Health Management and Practice",
+    "ShortTitle": "Peng, 2020",
+    "Study Type": "Revisión Sistemática",
     "Study detail": "",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Septiembre",
     "City": "",
-    "Country": "China",
-    "Publisher": "El sevier",
+    "Country": "Estados Unidos y Canada",
+    "Publisher": "ND",
     "Institution": "",
-    "Volume": "27",
-    "Pages": "603-608",
+    "Volume": "26(5)",
+    "Pages": "404–411",
     "Edition": "",
     "Issue": "5",
     "URL": "http://medrxiv.org/content/early/2020/03/20/2020.03.17.20037572.abstract",
-    "Abstract": "Background: Recently, Coronavirus Disease 2019 (COVID-19) outbreak started in Wuhan, China. Although the clinical features of COVID-19 have been reported previously, data regarding the risk factors associated with the clinical outcomes are lacking. Objectives: To summary and analyze the clinical characteristics and identify the predictors of disease severity and mortality. Methods: The PubMed, Web of Science Core Collection, Embase, Cochrane and MedRxiv databases were searched through February 25, 2020. Meta-analysis of Observational Studies in Epidemiology (MOOSE) recommendations were followed. We extracted and pooled data using random-effects meta-analysis to summary the clinical feature of the confirmed COVID-19 patients, and further identify risk factors for disease severity and death. Heterogeneity was evaluated using the I2 method and explained with subgroup analysis and meta-regression. Results: A total of 30 studies including 53000 patients with COVID-19 were included in this study, the mean age was 49.8 years (95% CI, 47.5-52.2 yrs) and 55.5% were male. The pooled incidence of severity and mortality were 20.2% (95% CI, 15.1-25.2%) and 3.1% (95% CI, 1.9-4.2%), respectively. The predictor for disease severity included old age (‚â• 50 yrs, odds ratio [OR] = 2.61; 95% CI, 2.29-2.98), male (OR =1.348, 95% CI, 1.195-1.521), smoking (OR =1.734, 95% CI, 1.146-2.626) and any comorbidity (OR = 2.635, 95% CI, 2.098-3.309), especially chronic kidney disease (CKD, OR = 6.017; 95% CI, 2.192-16.514), chronic obstructive pulmonary disease (COPD, OR = 5.323; 95% CI, 2.613-10.847) and cerebrovascular disease (OR = 3.219; 95% CI, 1.486-6.972). In terms of laboratory results, increased lactate dehydrogenase (LDH), C-reactive protein (CRP) and D-dimer and decreased blood platelet and lymphocytes count were highly associated with severe COVID-19 (all for P &amp;lt; 0.001). Meanwhile, old age (‚â• 60 yrs, RR = 9.45; 95% CI, 8.09-11.04), followed by cardiovascular disease (RR = 6.75; 95% CI, 5.40-8.43) hypertension (RR = 4.48; 95% CI, 3.69-5.45) and diabetes (RR = 4.43; 95% CI, 3.49-5.61) were found to be independent prognostic factors for the COVID-19 related death. Conclusions: To our knowledge, this is the first evidence-based medicine research to explore the risk factors of prognosis in patients with COVID-19, which is helpful to identify early-stage patients with poor prognosis and adapt effective treatment.",
-    "TypeName": "Preprint",
-    "Authors": "Xianxian Zhao, Bili Zhang, Pan Li, Chaoqun Ma, Jiawei Gu, Pan Hou, Zhifu Guo, Hong Wu, Yuan Bai",
-    "DOI": "10.1101/2020.03.17.20037572",
-    "Keywords": "",
+    "Abstract": "Context: Poor physical and mental health and substance use disorder can be causes and consequences of homelessness. Approximately 2.1 million persons per year in the United States experience homelessness. People experiencing homelessness have high rates of emergency department use, hospitalization, substance use treatment, social services use, arrest, and incarceration. Objectives: A standard approach to treating homeless persons with a disability is called Treatment First, requiring clients be “housing ready”—that is, in psychiatric treatment and substance-free—before and while receiving permanent housing. A more recent approach, Housing First, provides permanent housing and health, mental health, and other supportive services without requiring clients to be housing ready. To determine the relative effectiveness of these approaches, this systematic review compared the effects of both approaches on housing stability, health outcomes, and health care utilization among persons with disabilities experiencing homelessness. Design: A systematic search (database inception to February 2018) was conducted using 8 databases with terms such as “housing first,” “treatment first,” and “supportive housing.” Reference lists of included studies were also searched. Study design and threats to validity were assessed using Community Guide methods. Medians were calculated when appropriate.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Yinan Peng, PhD, MPH; Robert A. Hahn, PhD, MPH; Ramona K. C. Finnie, DrPH; Jamaicia Cobb, MPH; Samantha P. Williams, PhD; Jonathan E. Fielding, MD, MPH, MBA; Robert L. Johnson, MD; Ann Elizabeth Montgomery, PhD; Alex F. Schwartz, PhD; Carles Muntaner, MD, PhD; Veronica Helms Garrison, MPH; Beda Jean-Francois, PhD; Benedict I. Truman, MD, MPH; Mindy T. Fullilove, MD, MS",
+    "DOI": "10.1177/1077801220923748.",
+    "Keywords": "Homelessness, Housing First programs, Persons living HIV experiencing homelessness, Systematic review",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2200,145 +2212,49 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21076,
+        "AttributeId": 508,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 112,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21049,
+        "AttributeId": 221,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21045,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2349,27 +2265,27 @@
     "ItemId": 33,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Cardiac troponin I in patients with coronavirus disease 2019 (COVID-19): evidence from a meta-analysis",
-    "ParentTitle": "Progress in Cardiovascular Diseases",
-    "ShortTitle": "Lippi, 2020",
-    "Study Type": "Revisión sistemática y metanálisis",
+    "Title": "Promoting parent-infant responsiveness in families experiencing homelessness",
+    "ParentTitle": "Infant Ment Health J",
+    "ShortTitle": "Herbers, 2020.",
+    "Study Type": "Experimento controlado aleatorizado",
     "Study detail": "Metanalisis",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Junio",
     "City": "",
     "Country": "",
-    "Publisher": "W.B. Saunders",
+    "Publisher": "",
     "Institution": "",
     "Volume": "",
     "Pages": "",
     "Edition": "",
     "Issue": "",
-    "URL": "https://www.sciencedirect.com/science/article/pii/S0033062020300554?via%3Dihub",
-    "Abstract": "",
-    "TypeName": "In press",
-    "Authors": "Giuseppe Lippi, Carl J. Lavie, Fabian Sanchis-Gomar",
-    "DOI": "10.1016/j.pcad.2020.03.001",
-    "Keywords": "Coronavirus; COVID-19; troponin; prognosis.",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32589319/",
+    "Abstract": "My Baby's First Teacher is an intervention designed specifically for parents with infants staying in emergency homeless shelters. Infants are overrepresented in shelter populations and face considerable risk to their development, including mental health. We utilized a randomized controlled design across three family shelters to evaluate the program's effectiveness with 24 dyads assigned to the intervention compared to 21 dyads in care-as-usual. Dyads were randomized by round at each site to account for shelter effects. We used path analysis to illustrate change over time and in relation to intervention assignment.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Janette E Herbers, J J Cutuli, Perrin B Fugo, Elke R Nordeen, Michael J Hartman.",
+    "DOI": "10.1002/imhj.21868",
+    "Keywords": "family homelessness; parenting intervention; responsiveness.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2377,19 +2293,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21058,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11101,
+        "AttributeId": 125,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500002,
+        "AttributeId": 202,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2400,27 +2322,27 @@
     "ItemId": 35,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical characteristics of coronavirus disease 2019 in China",
-    "ParentTitle": "New England Journal of Medicine",
-    "ShortTitle": "Guan. 2020",
-    "Study Type": "Observational",
-    "Study detail": "",
+    "Title": "Promoting Wellness and Recovery of Young Women Experiencing Gender-Based  Violence and Homelessness:  The Role of  Trauma-Informed Health  Promotion Interventions",
+    "ParentTitle": "Journal Violence Against Women",
+    "ShortTitle": "Reid,2020",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "Chine",
-    "Publisher": "New England Journal of Medicine",
+    "Month": "",
+    "City": "Toronto",
+    "Country": "Canadá",
+    "Publisher": "SAGE",
     "Institution": "",
-    "Volume": "382",
-    "Pages": "1708-1720",
-    "Edition": "",
-    "Issue": "",
-    "URL": "https://www.nejm.org/doi/10.1056/NEJMoa2002032",
-    "Abstract": "Background: Since December 2019, when coronavirus disease 2019 (Covid-19) emerged in Wuhan city and rapidly spread throughout China, data have been needed on the clinical characteristics of the affected patients. Methods: We extracted data regarding 1099 patients with laboratory-confirmed Covid-19 from 552 hospitals in 30 provinces, autonomous regions, and municipalities in mainland China through January 29, 2020. The primary composite end point was admission to an intensive care unit (ICU), the use of mechanical ventilation, or death. Results: The median age of the patients was 47 years; 41.9% of the patients were female. The primary composite end point occurred in 67 patients (6.1%), including 5.0% who were admitted to the ICU, 2.3% who underwent invasive mechanical ventilation, and 1.4% who died. Only 1.9% of the patients had a history of direct contact with wildlife. Among nonresidents of Wuhan, 72.3% had contact with residents of Wuhan, including 31.3% who had visited the city. The most common symptoms were fever (43.8% on admission and 88.7% during hospitalization) and cough (67.8%). Diarrhea was uncommon (3.8%). The median incubation period was 4 days (interquartile range, 2 to 7). On admission, ground-glass opacity was the most common radiologic finding on chest computed tomography (CT) (56.4%). No radiographic or CT abnormality was found in 157 of 877 patients (17.9%) with nonsevere disease and in 5 of 173 patients (2.9%) with severe disease. Lymphocytopenia was present in 83.2% of the patients on admission. Conclusions: During the first 2 months of the current outbreak, Covid-19 spread rapidly throughout China and caused varying degrees of illness. Patients often presented without fever, and many did not have abnormal radiologic findings",
-    "TypeName": "Journal Article",
-    "Authors": "Guan, Wei-jie and Ni, Zheng-yi and Hu, Yu and Liang, Wen-hua and Ou, Chun-quan and He, Jian-xing and Liu, Lei and Shan, Hong and Lei, Chun-liang and Hui, David S.C. and Du, Bin and Li, Lan-juan and Zeng, Guang and Yuen, Kwok-Yung and Chen, Ru-chong and Tang, Chun-li and Wang, Tao and Chen, Ping-yan and Xiang, Jie and Li, Shi-yue and Wang, Jin-lin and Liang, Zi-jing and Peng, Yi-xiang and Wei, Li and Liu, Yong and Hu, Ya-hua and Peng, Peng and Wang, Jian-ming and Liu, Ji-yang and Chen, Zhong and Li, Gang and Zheng, Zhi-jian and Qiu, Shao-qin and Luo, Jie and Ye, Chang-jiang and Zhu, Shao-yong and Zhong, Nan-shan",
-    "DOI": "10.1056/NEJMoa2002032",
-    "Keywords": "",
+    "Volume": "SD",
+    "Pages": "11-20",
+    "Edition": "SD",
+    "Issue": "SD",
+    "URL": "https://sci-hub.se/",
+    "Abstract": "Little is known regarding the types of interventions most effective in supporting wellness and recovery of victims of gender-based violence, particularly those simultaneously experiencing homelessness. This qualitative study explored the experiences of 18 young women experiencing gender-based violence and homelessness who participated in a community-based, trauma-informed group intervention in Toronto, Canada. Participants completed audio-recorded and transcribed semi-structured interviews, analyzed using thematic content analysis. Participants described valuing the safe, women-only space, shared lived experiences, and tailored psychoeducation and resulting improvements in confidence, coping, health, relationships, and future directedness. Findings suggest community-based, trauma-informed group interventions can facilitate wellness and recovery in this population.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Nadine Reid, Amie Kron, Thanara Rajakulendran, Deborah Kahan, Amanda Noble, and Vicky Stergiopoulos",
+    "DOI": "10.1177/1077801220923748",
+    "Keywords": "Gender-based violence, Homelessness, Trauma-informed care",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2428,103 +2350,55 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 135,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 111,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 119,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21050,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21047,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21042,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21045,
+        "AttributeId": 404,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21039,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
+        "AttributeId": 405,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2535,27 +2409,27 @@
     "ItemId": 36,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Epidemiologic features and clinical course of patients infected with SARS-CoV-2 in Singapore.",
-    "ParentTitle": "JAMA",
-    "ShortTitle": "Young, 2020",
+    "Title": "Satisfaction with health and community services among homeless and formerly homeless individuals in Quebec, Canada",
+    "ParentTitle": "Health and Social Care in the Community",
+    "ShortTitle": "Gentil, 2020.",
     "Study Type": "Observational",
-    "Study detail": "Cases series",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "Singapur ",
-    "Publisher": "JAMA",
+    "Month": "Enero",
+    "City": "Quebec",
+    "Country": "Canadá ",
+    "Publisher": "Wiley Online Library",
     "Institution": "",
-    "Volume": "323",
-    "Pages": "1488-1494",
+    "Volume": "28",
+    "Pages": "22-36",
     "Edition": "",
-    "Issue": "15",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32125362",
-    "Abstract": "Objective: To report the initial experience in Singapore with the epidemiologic investigation of this outbreak, clinical features, and management. Design, setting, and participants: Descriptive case series of the first 18 patients diagnosed with polymerase chain reaction (PCR)-confirmed SARS-CoV-2 infection at 4 hospitals in Singapore from January 23 to February 3, 2020; final follow-up date was February 25, 2020. Exposures: Confirmed SARS-CoV-2 infection. Main outcomes and measures: Clinical, laboratory, and radiologic data were collected, including PCR cycle threshold values from nasopharyngeal swabs and viral shedding in blood, urine, and stool. Clinical course was summarized, including requirement for supplemental oxygen and intensive care and use of empirical treatment with lopinavir-ritonavir. Results: Among the 18 hospitalized patients with PCR-confirmed SARS-CoV-2 infection (median age, 47 years; 9 [50%] women), clinical presentation was an upper respiratory tract infection in 12 (67%), and viral shedding from the nasopharynx was prolonged for 7 days or longer among 15 (83%). Six individuals (33%) required supplemental oxygen; of these, 2 required intensive care. There were no deaths. Virus was detectable in the stool (4/8 [50%]) and blood (1/12 [8%]) by PCR but not in urine. Five individuals requiring supplemental oxygen were treated with lopinavir-ritonavir. For 3 of the 5 patients, fever resolved and supplemental oxygen requirement was reduced within 3 days, whereas 2 deteriorated with progressive respiratory failure. Four of the 5 patients treated with lopinavir-ritonavir developed nausea, vomiting, and/or diarrhea, and 3 developed abnormal liver function test results. Conclusions and relevance: Among the first 18 patients diagnosed with SARS-CoV-2 infection in Singapore, clinical presentation was frequently a mild respiratory tract infection. Some patients required supplemental oxygen and had variable clinical outcomes following treatment with an antiretroviral agent.",
-    "TypeName": "Journal Article",
-    "Authors": "Barnaby Edward Young, Sean Wei Xiang Ong, Shirin Kalimuddin, Jenny G Low, Seow Yen Tan, Jiashen Loh, Oon-Tek Ng, Kalisvar Marimuthu, Li Wei Ang, Tze Minn Mak, Sok Kiang Lau, Danielle E Anderson, Kian Sing Chan, Thean Yen Tan, Tong Yong Ng, Lin Cui, Zubaidah Said, Lalitha Kurupatham, Mark I-Cheng Chen, Monica Chan, Shawn Vasoo, Lin-Fa Wang, Boon Huan Tan, Raymond Tzer Pin Lin , Vernon Jian Ming Lee, Yee-Sin Leo, David Chien Lye.",
-    "DOI": "10.1001/jama.2020.3204",
-    "Keywords": "",
+    "Issue": "1",
+    "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/hsc.12839",
+    "Abstract": "User satisfaction is a crucial quality indicator in health service provision. Few studies have measured user satisfaction among homeless and formerly homeless individuals, despite the high prevalence of mental health disorders (MHD) in this population. The purpose of this study was to assess overall satisfaction among 455 homeless and formerly homeless individuals who were receiving health and community services, and to identify factors associated with user satisfaction. Data collection occurred between January and September 2017. Study participants were 18 years old or over, with experience of homelessness in the current or recent past. They completed a questionnaire eliciting socio‐demographic information, and data on residential history, service use and satisfaction and health profiles. Multivariate linear analysis was performed on overall satisfaction with health and community services in the previous 12 months. Independent variables were organised as predisposing, enabling and needs factors based on the Gelberg–Andersen Behavioral Model. The mean satisfaction score was 4.11 (minimum: 1; maximum: 5). Variables associated with greater user satisfaction included: older age, residence in permanent housing, common MHD (e.g., depression, anxiety), having a family physician, having a case manager, strong social network, good quality of life and, marginally, male sex and having substance use disorders (SUD). By contrast, frequent users of public ambulatory health services were the most dissatisfied. User satisfaction was more strongly associated with enabling factors. Strategies for improving satisfaction include: promoting more tailored primary care programmes (including family physician) adapted to the needs of this population, better integrating primary care with specialised services including SUD integrated treatment and enhancing continuity of care through the reinforcement of case management services. Further efforts aimed at increasing access to permanent housing with supports, and eliciting more active involvement by relatives and friends may also improve user satisfaction with services, and reduce unnecessary service use",
+    "TypeName": "Articulo de revista",
+    "Authors": "Lia Gentil, Guy Grenier, Jean Marie Bamvita, Marie‐Josée Fleury",
+    "DOI": "10.1111/hsc.12838",
+    "Keywords": "Formely homeless individuals, Homeless individuals, Mental health disorders, Substance use disorders, User satisfaction",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2563,19 +2437,73 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 5413935,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11104,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
+        "AttributeId": 109,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 112,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 119,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 123,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 133,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 136,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 211,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 220,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 404,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2586,26 +2514,26 @@
     "ItemId": 37,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Cardiovascular implications of fatal outcomes of patients with coronavirus disease 2019 (COVID-19).",
-    "ParentTitle": "JAMA cardiology",
-    "ShortTitle": "Guo, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases series",
+    "Title": "Smartphone application plus brief motivational intervention reduces substance use and sexual risk behaviors among homeless young adults: Results from a randomized controlled trial.",
+    "ParentTitle": "Psychology of Addictive Behaviors",
+    "ShortTitle": "Thompson, 2020.",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan ",
-    "Country": "China ",
-    "Publisher": "JAMA",
+    "Month": "Marzo",
+    "City": " ",
+    "Country": "United States ",
+    "Publisher": "",
     "Institution": "",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "34",
+    "Pages": "641-649",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32219356",
-    "Abstract": "Objective: To evaluate the association of underlying cardiovascular disease (CVD) and myocardial injury with fatal outcomes in patients with COVID-19. Design, Setting, and Participants: This retrospective single-center case series analyzed patients with COVID-19 at the Seventh Hospital of Wuhan City, China, from January 23, 2020, to February 23, 2020. Analysis began February 25, 2020. Main Outcomes and Measures: Demographic data, laboratory findings, comorbidities, and treatments were collected and analyzed in patients with and without elevation of troponin T (TnT) levels. Result: Among 187 patients with confirmed COVID-19, 144 patients (77%) were discharged and 43 patients (23%) died. The mean (SD) age was 58.50 (14.66) years. Overall, 66 (35.3%) had underlying CVD including hypertension, coronary heart disease, and cardiomyopathy, and 52 (27.8%) exhibited myocardial injury as indicated by elevated TnT levels. The mortality during hospitalization was 7.62% (8 of 105) for patients without underlying CVD and normal TnT levels, 13.33% (4 of 30) for those with underlying CVD and normal TnT levels, 37.50% (6 of 16) for those without underlying CVD but elevated TnT levels, and 69.44% (25 of 36) for those with underlying CVD and elevated TnTs. Patients with underlying CVD were more likely to exhibit elevation of TnT levels compared with the patients without CVD (36 [54.5%] vs 16 [13.2%]). Plasma TnT levels demonstrated a high and significantly positive linear correlation with plasma high-sensitivity C-reactive protein levels (β = 0.530, P < .001) and N-terminal pro-brain natriuretic peptide (NT-proBNP) levels (Œ≤‚Äâ=‚Äâ0.613, P‚Äâ<‚Äâ.001). Plasma TnT and NT-proBNP levels during hospitalization (median [interquartile range (IQR)], 0.307 [0.094-0.600]; 1902.00 [728.35-8100.00]) and impending death (median [IQR], 0.141 [0.058-0.860]; 5375 [1179.50-25695.25]) increased significantly compared with admission values (median [IQR], 0.0355 [0.015-0.102]; 796.90 [401.93-1742.25]) in patients who died (P‚Äâ=‚Äâ.001; P‚Äâ<‚Äâ.001), while no significant dynamic changes of TnT (median [IQR], 0.010 [0.007-0.019]; 0.013 [0.007-0.022]; 0.011 [0.007-0.016]) and NT-proBNP (median [IQR], 352.20 [174.70-636.70]; 433.80 [155.80-1272.60]; 145.40 [63.4-526.50]) was observed in survivors (P‚Äâ=‚Äâ.96; P‚Äâ=‚Äâ.16). During hospitalization, patients with elevated TnT levels had more frequent malignant arrhythmias, and the use of glucocorticoid therapy (37 [71.2%] vs 69 [51.1%]) and mechanical ventilation (41 [59.6%] vs 14 [10.4%]) were higher compared with patients with normal TnT levels. The mortality rates of patients with and without use of angiotensin-converting enzyme inhibitors/angiotensin receptor blockers was 36.8% (7 of 19) and 25.6% (43 of 168). Conclusions and Relevance: Myocardial injury is significantly associated with fatal outcome of COVID-19, while the prognosis of patients with underlying CVD but without myocardial injury is relatively favorable. Myocardial injury is associated with cardiac dysfunction and arrhythmias. Inflammation may be a potential mechanism for myocardial injury. Aggressive treatment may be considered for patients at high risk of myocardial injury.",
-    "TypeName": "Journal Article",
-    "Authors": "Tao Guo, Yongzhen Fan, Ming Chen, XiaoyanWu, Lin Zhang, Tao He, HairongWang, JingWan, XinghuanWang, Zhibing Lu.",
-    "DOI": "10.1001/jamacardio.2020.1017",
+    "Issue": "34",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32175752/",
+    "Abstract": "Homeless young adults are more likely than their never-homeless counterparts to abuse substances and engage in sexual risk behaviors. This study evaluated the feasibility and preliminary effectiveness of OnTrack, a smartphone application to self-monitor substance use and sexual risk behaviors, plus a brief motivational intervention (BMI), in reducing substance use and sexual risk among homeless young adults. A randomized controlled pilot trial (N = 60) compared OnTrack + BMI to treatment as usual (TAU) at an inner-city crisis shelter for homeless young adults (aged 18-21 years). Participants were assessed at baseline and 2 weeks, 4 weeks, and 6 weeks after baseline to evaluate substance use and sexual risk behaviors. Kruskal-Wallis tests determined differences between baseline and postintervention assessments. Logistic regression models examined treatment effect on change in outcomes between baseline and postintervention follow-up assessment, controlling for baseline levels. Participants in OnTrack + BMI significantly reduced past 2-week number of drinks (p = .023), times used marijuana (p = .046), times engaged in unprotected sex (p = .012), and times used drugs before sexual activity (p = .019). No reductions of substance use or sexual risk behaviors were found among participants in TAU (all ps > .05). After adjusting for baseline levels of substance use and sexual risk, participants in OnTrack + BMI had significantly lower odds than those in TAU for drinking alcohol (adjusted OR = 0.14; p = .01) and having unprotected sex (adjusted OR = 0.151; p = .032). OnTrack + BMI is feasible and effective in reducing past 2-week alcohol use and unprotected sex among homeless young adults. A larger randomized trial is warranted to replicate and extend present results. (PsycInfo Database Record (c) 2020 APA, all rights reserved).",
+    "TypeName": "Articulo de revista",
+    "Authors": "Ronald G Thompson, Christina Aivadyan, Malki Stohl, Efrat Aharonovich, Deborah S Hasin.",
+    "DOI": "10.1037/adb0000570",
     "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
@@ -2614,139 +2542,151 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21003,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 132,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 223,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21071,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 402,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 37,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "The Effectiveness and Cost to Improve Colorectal Cancer Screening in a Federally Qualified Homeless Clinic in Eastern Kentucky",
+    "ParentTitle": "Health Promotion Practice",
+    "ShortTitle": "Hardin, 2020",
+    "Study Type": "Evaluación económica ",
+    "Study detail": "Evaluación económica ",
+    "Year": 2020,
+    "Month": "Noviembre",
+    "City": "Appalachia",
+    "Country": "United States ",
+    "Publisher": "Sage Journals",
+    "Institution": "",
+    "Volume": "21",
+    "Pages": "905-909",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32990049/",
+    "Abstract": "The objective of this study was to analyze the effectiveness and cost of patient incentives, together with patient navigation and patient reminders, to increase fecal immunochemical test (FIT) kit return rates and colorectal cancer screening uptake in one federally qualified health center (FQHC) in Appalachia. This FQHC is a designated homeless clinic, as 79.7% of its patient population are homeless. We collected process, outcome, and cost data from the FQHC for two time periods: usual care (September 2016-August 2017) and implementation (September 2017-September 2018). We reported the FIT kit return rate, the increase in return rate, and the additional number of individual screens. We also calculated the incremental cost per additional screen. The patient incentive program, with patient navigation and patient reminders, increased the number of FIT kits returned from the usual care period to the implementation period. The return rate increased by 25.9 percentage points (from 21.7% to 47.6%) with an additional 91 people screened at an incremental cost of $134.61 per screen. A patient incentive program, together with the assistance of patient navigators and supplemented with patient reminders, can help improve CRC screening uptake among vulnerable and homeless populations.",
+    "TypeName": "Research Briefs",
+    "Authors": "Vicky Hardin, Florence K L Tangka, Teri Wood, Brian Boisseau, Sonja Hoover, Amy DeGroff, Jennifer Boehm, Sujha Subramanian",
+    "DOI": "10.1177/1524839920954165",
+    "Keywords": "FQHC; Cancer screening; Colorectal cancer; Economic evaluation; Evidence-based interventions; Homelessness.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 505,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 142,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21012,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
+        "AttributeId": 401,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 38,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "The effectiveness of case management interventions for the homeless, vulnerably housed and persons with lived experience: A systematic review",
+    "ParentTitle": "PLoS ONE",
+    "ShortTitle": "Ponka, 2020",
+    "Study Type": "Revisión Sistemática",
+    "Study detail": "Revisión Sistemática",
+    "Year": 2020,
+    "Month": "Abril",
+    "City": "",
+    "Country": "",
+    "Publisher": "Public Library of Science",
+    "Institution": "",
+    "Volume": "15",
+    "Pages": "1-21",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85083180629&doi=10.1371%2fjournal.pone.0230896&origin=inward&txGid=581e9be7ba33525a8c85bc27c2ba5d6b",
+    "Abstract": "Background Individuals who are homeless or vulnerably housed are at an increased risk for mental illness, other morbidities and premature death. Standard case management interventions as well as more intensive models with practitioner support, such as assertive community treatment, critical time interventions, and intensive case management, may improve healthcare navigation and outcomes. However, the definitions of these models as well as the fidelity and adaptations in real world interventions are highly variable. We conducted a systematic review to examine the effectiveness and cost-effectiveness of case management interventions on health and social outcomes for homeless populations. Methods and findings We searched Medline, Embase and 7 other electronic databases for trials on case management or care coordination, from the inception of these databases to July 2019. We sought outcomes on housing stability, mental health, quality of life, substance use, hospitalization, income and employment, and cost-effectiveness. We calculated pooled random effects estimates and assessed the certainty of the evidence using the GRADE approach. Our search identified 13,811 citations; and 56 primary studies met our full inclusion criteria. Standard case management had both limited and short-term effects on substance use and housing outcomes and showed potential to increase hostility and depression. Intensive case management substantially reduced the number of days spent homeless (SMD -0.22 95% CI -0.40 to -0.03), as well as substance and alcohol use. Critical time interventions and assertive community treatment were found to have a protective effect in terms of rehospitalizations and a promising effect on housing stability. Assertive community treatment was found to be cost-effective compared to standard case management. Conclusions Case management approaches were found to improve some if not all of the health and social outcomes that were examined in this study. The important factors were likely delivery intensity, the number and type of caseloads, hospital versus community programs and varying levels of participant needs. More research is needed to fully understand how to continue to obtain the increased benefits inherent in intensive case management, even in community settings where feasibility considerations lead to larger caseloads and less-intensive followup. ",
+    "TypeName": "Research Briefs",
+    "Authors": "Ponka, D. ; Agbata, E. ;Kendall, C. ;Stergiopoulos, V. ; Mendonca, O. ;Magwood, O. ; Saad, A. ;Larson, B. ;Sol, AH , Arya, N. ;Hannigan, T. ;Thavorn, K. ;Andermann, A. ; Tugwell, P. , Pottie, K.",
+    "DOI": "10.1371 / journal.pone.0230896",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 508,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21034,
+        "AttributeId": 109,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21033,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21027,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21064,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
