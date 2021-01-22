@@ -32,6 +32,28 @@ $(window).on('load', function () {
                 "color": "#75C127"
             },
             {
+              "attribute": {
+                  "AttributeSetId": 5414325,
+                  "AttributeId": 509,
+                  "AttributeSetDescription": "",
+                  "AttributeType": "Selectable (show checkbox)",
+                  "AttributeName": "Revisión Sistemática con Metaanálisis",
+                  "AttributeDescription": ""
+              },
+              "color": "#FF33DF"
+          },
+          {
+            "attribute": {
+                "AttributeSetId": 5414325,
+                "AttributeId": 510,
+                "AttributeSetDescription": "",
+                "AttributeType": "Selectable (show checkbox)",
+                "AttributeName": "Revisión Sistemática con Metaanálisis",
+                "AttributeDescription": ""
+            },
+            "color": "#FF5333"
+        },
+            {
                 "attribute": {
                     "AttributeSetId": 54143351,
                     "AttributeId": 506,

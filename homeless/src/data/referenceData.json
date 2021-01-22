@@ -1133,7 +1133,7 @@
     "Year": 2020,
     "Month": "Toronto-ottawa",
     "City": "Canadá",
-    "Country": "China",
+    "Country": "",
     "Publisher": "",
     "Institution": "Tongji Hospital",
     "Volume": "5",
@@ -2681,6 +2681,501 @@
       },
       {
         "AttributeId": 202,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 39,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "The effectiveness of substance use interventions for homeless and vulnerably housed persons:  A systematic review of systematic reviews on supervised consumption facilities, managed alcohol programs, and pharmacological agents for opioid use disorder",
+    "ParentTitle": "PLoS ONE",
+    "ShortTitle": "Magwood, 2020.",
+    "Study Type": "Revisión Sistemática",
+    "Study detail": "Revisión Sistemática",
+    "Year": 2020,
+    "Month": "Enero",
+    "City": "",
+    "Country": "",
+    "Publisher": "Public Library of Science",
+    "Institution": "",
+    "Volume": "15",
+    "Pages": "1-31",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964917/",
+    "Abstract": "Background Substance use is disproportionately high among people who are homeless or vulnerably housed. We performed a systematic overview of reviews examining the effects of selected harm reduction and pharmacological interventions on the health and social well-being of people who use substances, with a focus on homeless populations. Methods and findings We searched MEDLINE, EMBASE, PsycINFO, Joanna Briggs Institute EBP, Cochrane Database of Systematic Reviews and DARE for systematic reviews from inception to August 2019. We conducted a grey literature search and hand searched reference lists. We selected reviews that synthesized evidence on supervised consumption facilities, managed alcohol programs and pharmacological interventions for opioid use disorders. We abstracted data specific to homeless or vulnerably housed populations. We assessed certainty of the evidence using the GRADE approach. Our search identified 483 citations and 30 systematic reviews met all inclusion criteria, capturing the results from 442 primary studies. This included three reviews on supervised consumption facilities, 24 on pharmacological interventions, and three on managed alcohol programs. Supervised consumption facilities decreased lethal overdoses and other high risk behaviours without any significant harm, and improved access to care. Pharmaceutical interventions reduced mortality, morbidity, and substance use, but the impact on retention in treatment, mental illness and access to care was variable. Managed alcohol programs reduced or stabilized alcohol consumption. Few studies on managed alcohol programs reported deaths. Conclusions Substance use is a common chronic condition impacting homeless populations. Supervised consumption facilities reduce overdose and improve access to care, while pharmacological interventions may play a role in reducing harms and addressing other morbidity. High quality evidence on managed alcohol programs is limited.",
+    "TypeName": "Research Briefs",
+    "Authors": "Olivia Magwood, Ginetta Salvalaggio, Michaela Beder, Claire Kendall, Victoire Kpade, Wahab Daghmach, Gilbert Habonimana, Zack Marshall, Ellen Snyder, Tim O’Shea, Robin Lennox, Helen Hsu, Peter Tugwell, Kevin Pottie.",
+    "DOI": "10.1371/journal.pone.0227298",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 508,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 111,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 218,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 402,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 40,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "The impact of employment on recovery among individuals who are homeless with severe mental illness in the Vancouver At Home/Chez Soi trial.",
+    "ParentTitle": "Social psychiatry and psychiatric epidemiology",
+    "ShortTitle": "Yazdani, 2020. ",
+    "Study Type": "Estudio de metodos mixtos",
+    "Study detail": "Estudio de metodos mixtos",
+    "Year": 2020,
+    "Month": "Mayo",
+    "City": "",
+    "Country": "Alemania",
+    "Publisher": "National Library  of Medicine  National centerfor Biotechnology Information ",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "1619–1627",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32476057/",
+    "Abstract": "OBJECTIVE: To assess impact of employment on recovery in a sample of adults from Vancouver At Home (VAH) study, who were homeless and were diagnosed with severe mental disorders. METHODS: The VAH included two randomized controlled trials investigating the effect of housing first with support intervention in vulnerable population. Employment was assessed at baseline and during the follow-up using Demographics, Housing, Vocational, and Service Use History (DSHH), and Vocational Timeline Follow-Back (VTLFB) self-report questionnaires, respectively. Recovery was examined using Recovery Assessment Scale (RAS) at baseline and at 24-month follow-up visit. Multivariable regression models were built to examine: (1) the effect of current employment at baseline on RAS score at baseline, and RAS score at 24-month follow-up visit; and (2) and to examine the cumulative effect of recent employment over 8 follow-up visits on RAS score at 24-month visit. Cumulative effect of employment over the follow-up visits was weighted by recency using a pre-specified weighting function. RESULTS: Employment at baseline was associated with an increase in recovery score at baseline [8.06 (95% CI 1.21, 14.91); p = 0.02], but not with recovery score at 24-month follow-up visit [3.78 (-4.67, 12.24); p = 0.37]. Weighted cumulative effect of employment over 8 follow-up visits was associated with increase in RAS score at 24-month follow-up visit [8.33 (1.68, 14.99) p = 0.01]. CONCLUSION: Employment is associated with an increase in recovery. Our result suggests a dual effect of employment on recovery, an immediate effect through current employment, and a long-term effect of cumulative employment.",
+    "TypeName": "Research Briefs",
+    "Authors": "Kiana Yazdani, Mohammadali Nikoo, Eric C Sayre, Fiona Choi, Kerry Jang, Reinhard Michael Krausz",
+    "DOI": "10.1007/s00127-020-01887-9",
+    "Keywords": "Employment; Homelessness; Recovery; Severe mental illness.",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 504,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 156,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 213,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 41,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Trialing the feasibility of a critical time intervention for youth transitioning out of homelessness",
+    "ParentTitle": "The American journal of orthopsychiatry",
+    "ShortTitle": "Sean,2020.",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
+    "Year": 2020,
+    "Month": "Septiembre",
+    "City": "",
+    "Country": "Estados Unidos",
+    "Publisher": "",
+    "Institution": "",
+    "Volume": "90",
+    "Pages": "535-545",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32309974/",
+    "Abstract": "Little is known regarding the specific types of service models and collaborations that are necessary to support diverse populations of youth in transition out of homelessness. Transitional supports addressing the complex needs of this population are needed to stabilize the array of housing arrangements that youth access. This study was a pilot randomized controlled trial of one such critical time intervention, called the Housing Outreach Program-Collaboration (HOP-C). HOP-C is a multicomponent, multidisciplinary intervention that provides 6 months of mental health and peer support, along with transitional case management to youth who have transitioned into some form of stable housing out of homelessness. In this trial, 65 youth were randomized to receive HOP-C plus treatment as usual or transitional case management plus treatment as usual. Outcome assessments were completed by 30 treatment and 28 control participants. The findings suggest that this intervention is feasible with mental health, employment or education, and housing metrics favoring HOP-C with odds ratios ranging from 2.28 to 3.18 and better subjective housing stability. Other indicators showed less change. HOP-C appears feasible and should be tested in a fully powered trial, providing the intervention for a duration longer than 6 months. Overall, these data suggest the potential benefit in fostering city-level, multidisciplinary teams sourced from several organizations to support youth transitioning out of homelessness. Pragmatic trial method considerations for this population are also addressed as are the ethical considerations pertinent to engaging highly marginalized youth in clinical trials. (PsycInfo Database Record (c) 2020 APA, all rights reserved).",
+    "TypeName": "Research Briefs",
+    "Authors": "Sean A Kidd, Nina Vitopoulos, Tyler Frederick, Scott Leon, Wei Wang, Christopher Mushquash, Kwame McKenzie",
+    "DOI": "10.1037 / ort0000454",
+    "Keywords": "",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 506,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 102,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 211,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 42,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Systematic review and meta-analyses of randomized control trials of the effectiveness of psychosocial interventions for homeless adults",
+    "ParentTitle": "Journal of Advanced Nursery",
+    "ShortTitle": "Hyun, 2020",
+    "Study Type": "Revisión Sistemática con Metaanálisis",
+    "Study detail": "Revisión Sistemática con Metaanálisis",
+    "Year": 2020,
+    "Month": "Julio",
+    "City": "",
+    "Country": "Estados Unidos",
+    "Publisher": " John Wiley & Sons Ltd",
+    "Institution": "",
+    "Volume": "76",
+    "Pages": "773–786",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076796648&doi=10.1111%2fjan.14275&partnerID=40&md5=297035aa4568df9ff9f3d3e19a5b3593",
+    "Abstract": "Aims: To evaluate the effect of psychosocial interventions for homeless adults on their psychosocial outcomes. Design: A systematic review and meta-analyses were performed for critical appraisal and synthesis of the included studies. Data sources: A systematic search of studies published before 10 September 2018 was performed using PubMed, Cochrane Library, EMBASE, PsycINFO, and CINAHL. Review methods: The review included randomized controlled trials conducting psychosocial interventions and assessing psychosocial outcomes for homeless adults. After systematically describing study and intervention characteristics, we conducted meta-analyses by the type of outcome and subgroup meta-analyses by the type of intervention and outcome. Fourteen studies were included in this review and 11 were included in the meta-analyses. Results: A significant effect of psychosocial interventions in reducing anxiety and enhancing mental health status among homeless adults was noted. Conclusion: The meta-analyses showed that psychosocial interventions may reduce anxiety and enhance the mental health status of homeless people. Specifically, we suggest that relaxation response training may be effective in improving anxiety and mental health status and cognitive behavioural therapy may reduce anxiety. Impact: Although psychosocial interventions for homeless persons have been implemented for a decade, their impact for psychosocial outcomes among homeless adults has not been evaluated. This review suggest that psychosocial interventions may improve anxiety and mental health status among homeless adults. The findings of the present study may provide directions for developing psychosocial interventions to help vulnerable homeless adults in managing psychological outcomes.",
+    "TypeName": "Research Briefs",
+    "Authors": "Myungsun Hyun, Sun Hyoung Bae,Dabok Noh",
+    "DOI": "10.1111/jan.14275",
+    "Keywords": "Anxiety; Homelessness; Literature review; Mental health; Meta-analysis; Nursing; Psychosocial intervention; Psychosocial outcomes; Systematic review",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 509,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 123,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 119,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 126,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 213,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 201,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 202,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 303,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 402,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 43,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "What constitutes effective problematic substance use treatment from the perspective of people who are homeless? A systematic review and meta-ethnography",
+    "ParentTitle": "Harm Reduction Journal",
+    "ShortTitle": "Carver, H; Ring, N; Miler, J. and Parkes, T. (2020)",
+    "Study Type": "Revisión sistemática y meta-etnografía",
+    "Study detail": "Revisión sistemática y meta-etnografía",
+    "Year": 2020,
+    "Month": "Enero",
+    "City": "Edinburgh",
+    "Country": "United Kingdom",
+    "Publisher": "BioMed Central Ltd.",
+    "Institution": "",
+    "Volume": "17",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85078857222&doi=10.1186%2fs12954-020-0356-9&origin=inward&txGid=2f34e0c40b3062a01f69566c2f34ea43",
+    "Abstract": "Background: People experiencing homelessness have higher rates of problematic substance use but difficultyengaging with treatment services. There is limited evidence regarding how problematic substance use treatmentshould be delivered for these individuals. Previous qualitative research has explored perceptions of effectivetreatment by people who are homeless, but these individual studies need to be synthesised to generate furtherpractice-relevant insights from the perspective of this group.Methods: Meta-ethnography was conducted to synthesise research reporting views on substance use treatment bypeople experiencing homelessness. Studies were identified through systematic searching of electronic databases(CINAHL; Criminal Justice Abstracts; Health Source; MEDLINE; PsycINFO; SocINDEX; Scopus; and Web of Science) andwebsites and were quality appraised. Original participant quotes and author interpretations were extracted and coded thematically. Concepts identified were compared to determine similarities and differences between studies. Findings were translated (reciprocally and refutationally) across studies, enabling development of an original overarching line-of-argument and conceptual model. Results: Twenty-three papers published since 2002 in three countries, involving 462 participants, were synthesised. Findings broadly related, through personal descriptions of, and views on, the particular intervention components considered effective to people experiencing homelessness. Participants of all types of interventions had a preference for harm reduction-oriented services. Participants considered treatment effective when it provided a facilitative service environment; compassionate and non-judgemental support; time; choices; and opportunities to (re)learn how to live. Interventions that were of longer duration and offered stability to service users were valued, especially by women. From the line-of-argument synthesis, a new model was developed highlighting critical components of effective substance use treatment from the service user’s perspective, including a service context of good relationships, with person-centred care and an understanding of the complexity of people’s lives.",
+    "TypeName": "Research Briefs",
+    "Authors": "Hannah Carver, Nicola Ring, Joanna Miler & Tessa Parkes",
+    "DOI": "10.1186/s12954-020-0356-9",
+    "Keywords": "Substance use, Treatment, Interventions, Qualitative, Homelessness, Meta-ethnography, Inclusion health",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 509,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 116,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 219,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 44,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "A Community–Academic Collaboration to Support Chronic Disease Self-Management among Individuals Living in Permanent Supportive Housing",
+    "ParentTitle": "Progress in Community Health Partnerships: Research, Education, and Action",
+    "ShortTitle": "Schick, 2020",
+    "Study Type": "Ensayo clínico",
+    "Study detail": "Ensayo clínico",
+    "Year": 2020,
+    "Month": "",
+    "City": "",
+    "Country": "",
+    "Publisher": "Johns Hopkins University Press",
+    "Institution": "",
+    "Volume": "14",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32280126/",
+    "Abstract": "Background: Individuals experiencing chronic homelessness with a chronic health condition may qualify for permanent supportive housing (PSH). Given limited PSH resources, it is important to identify priority programming with demonstrated effectiveness. Objectives: A community–academic partnership was formed to address the priority health needs of individuals living in PSH. Methods: Community stakeholders identified diabetes selfmanagement as a priority health need. Wisdom, Power, Control (WPC), an evidence-based diabetes self-management program, was piloted for seven weeks with diabetic (type 2) or prediabetic PSH residents. A survey was administered at baseline and program completion. HbA1c was assessed at baseline and 3-month follow-up. Results: Those who completed the Program (N = 10), reported a significant increase in diabetes knowledge, selfefficacy and foot self-care. The average hemoglobin A1c (HbA1c) of the participants significantly decreased from 8.86 to 6.88. Conclusions: Pilot data from this study provides an example of a community–academic partnership that improved the health of individuals in PSH through evidence-based programming",
+    "TypeName": "Research Briefs",
+    "Authors": "Vanessa Schick, Laura Witte, Frances Isbell, Cathy Crouch, LaQuisha Umemba, Ninfa Peña-Purcell",
+    "DOI": "10.1353/cpr.2020.0011",
+    "Keywords": "Diabetes; type 2 diabetes; homelessness; disease selfmanagement; community based participatory research",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 502,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 138,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 201,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 203,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 222,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 214,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 303,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 45,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Empowering Features and Outcomes of Homeless Interventions: A Systematic Review and Narrative Synthesis",
+    "ParentTitle": "American Journal of Community Psychology",
+    "ShortTitle": "O’Shaughnessy, 2020.",
+    "Study Type": "Revisión Sistemática",
+    "Study detail": "Revisión Sistemática",
+    "Year": 2020,
+    "Month": "Septiembre",
+    "City": "Limerick",
+    "Country": "Irlanda",
+    "Publisher": "Wiley",
+    "Institution": "",
+    "Volume": "66",
+    "Pages": "144-165",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://onlinelibrary.wiley.com/doi/10.1002/ajcp.12422",
+    "Abstract": "The purpose of this systematic review and narrative synthesis was to identify homeless interventions with empowering features and evaluate their effectiveness for developing the psychological empowerment of services users. To identify and evaluate intervention studies, we combined the theoretical frameworks of empowering settings and psychological empowerment (PE). Our conceptualization of PE included outcomes aligned with the intrapersonal, interactional, and behavioral components. Relational outcomes were also included and conceptualized as antecedents for PE development. After systematic searching and screening, 37 studies were included for review. Interventions with empowering features included supported housing, case management, skills and knowledge acquisition, and mutual support. Interventions that were competency‐building effectively improved outcomes aligned with the intrapersonal PE component. Interventions that were collaborative and competency‐building effectively improved outcomes aligned with the behavioral PE component. Weak evidence suggested that interventions with empowering features may effectively improve outcomes aligned with the interactional PE component. Interventions that promoted and developed support effectively improved relational antecedents. Findings align the empirical evidence for homeless interventions with theoretical conceptions of empowering features and processes. Findings may be applied to the design and implementation of homeless interventions to incorporate empowering features and to facilitate the development of homeless services users’ PE.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Branagh R. O’Shaughnessy, Ronni Michelle Greenwood",
+    "DOI": "10.1002/ajcp.12422",
+    "Keywords": "Psychological empowerment, Homeless adults, Homeless intervention, Empowering settings",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 508,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 101,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 123,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 138,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 157,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 155,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 154,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 110,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
