@@ -1602,27 +1602,27 @@
     "ItemId": 22,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study.",
-    "ParentTitle": "The Lancet. Infection diseases ",
-    "ShortTitle": "Shi, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Improving the Attitudes to Homeless Persons in a Family Medicine Residency",
+    "ParentTitle": "Journal of Primary Care and Community Health",
+    "ShortTitle": "Zha, 2020",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Apr",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "The lancet",
+    "Month": "Julio",
+    "City": "",
+    "Country": "Usa",
+    "Publisher": "SAGE Publications Inc.",
     "Institution": "",
-    "Volume": "20",
-    "Pages": "425-434",
+    "Volume": "11",
+    "Pages": "",
     "Edition": "",
     "Issue": "4",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32105637",
-    "Abstract": "Background: A cluster of patients with coronavirus disease 2019 (COVID-19) pneumonia caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) were successively reported in Wuhan, China. We aimed to describe the CT findings across different timepoints throughout the disease course. METHODS: Patients with COVID-19 pneumonia (confirmed by next-generation sequencing or RT-PCR) who were admitted to one of two hospitals in Wuhan and who underwent serial chest CT scans were retrospectively enrolled. Patients were grouped on the basis of the interval between symptom onset and the first CT scan: group 1 (subclinical patients; scans done before symptom onset), group 2 (scans done ‚â§1 week after symptom onset), group 3 (>1 week to 2 weeks), and group 4 (>2 weeks to 3 weeks). Imaging features and their distribution were analysed and compared across the four groups. FINDINGS: 81 patients admitted to hospital between Dec 20, 2019, and Jan 23, 2020, were retrospectively enrolled. The cohort included 42 (52%) men and 39 (48%) women, and the mean age was 49¬∑5 years (SD 11¬∑0). The mean number of involved lung segments was 10¬∑5 (SD 6¬∑4) overall, 2¬∑8 (3¬∑3) in group 1, 11¬∑1 (5¬∑4) in group 2, 13¬∑0 (5¬∑7) in group 3, and 12¬∑1 (5¬∑9) in group 4. The predominant pattern of abnormality observed was bilateral (64 [79%] patients), peripheral (44 [54%]), ill-defined (66 [81%]), and ground-glass opacification (53 [65%]), mainly involving the right lower lobes (225 [27%] of 849 affected segments). In group 1 (n=15), the predominant pattern was unilateral (nine [60%]) and multifocal (eight [53%]) ground-glass opacities (14 [93%]). Lesions quickly evolved to bilateral (19 [90%]), diffuse (11 [52%]) ground-glass opacity predominance (17 [81%]) in group 2 (n=21). Thereafter, the prevalence of ground-glass opacities continued to decrease (17 [57%] of 30 patients in group 3, and five [33%] of 15 in group 4), and consolidation and mixed patterns became more frequent (12 [40%] in group 3, eight [53%] in group 4). INTERPRETATION: COVID-19 pneumonia manifests with chest CT imaging abnormalities, even in asymptomatic patients, with rapid evolution from focal unilateral to diffuse bilateral ground-glass opacities that progressed to or co-existed with consolidations within 1-3 weeks. Combining assessment of imaging features with clinical and laboratory findings could facilitate early diagnosis of COVID-19 pneumonia. FUNDING: None.",
-    "TypeName": "Journal Article",
-    "Authors": "Heshui Shi,  Xiaoyu Han , Nanchuan Jiang , Yukun Cao , Osamah Alwalid , Jin Gu , Yanqing Fan , Chuansheng Zheng ",
-    "DOI": "10.1016/S1473-3099(20)30086-4",
-    "Keywords": "",
+    "URL": "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089409782&doi=10.1177%2f2150132720949778&partnerID=40&md5=8e683aeb0f66067975d6cb1f16c7a86f",
+    "Abstract": "Introduction: Family medicine providers are at the forefront of serving homeless persons. It is important to prepare family medicine residents for this responsibility during residency. In the current study, we aimed to assess the effect of a series of enrichment activities on the attitudes toward homeless persons held by residents, faculty, and staff in a rural family medicine residency program. Methods: The residency program implemented a 6-month enrichment activities series that provided various educational experiences and aimed to improve the participants’ knowledge of and attitudes toward homeless persons. Participants completed 2 anonymous online surveys before and after the enrichment series: (1) the Health Professional’s Attitude Toward the Homeless Inventory (HPATHI) and (2) a short survey assessing the understanding of local issues that affected homeless persons. Two-tailed Student t tests were used to compare the survey results. Results: Of the 48 eligible participants, 42 (88%) completed the surveys before enrichment activities and 41 (85%) completed the surveys afterward. Engagement in the enrichment series was associated with a significant improvement in attitudes supporting social advocacy, but it did not affect self-reported levels of cynicism or personal advocacy. Participant knowledge of local homelessness issues improved, but the difference was not statistically significant. Conclusions: The longitudinal enrichment activities series, which was implemented in a rural family medicine residency program and aimed to provide experiences working with homeless individuals, was effective in improving attitudes supporting social advocacy among participants.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Mengyi Zha, Cheri L. Olson & Carol Goulet",
+    "DOI": "10.1177/2150132720949778",
+    "Keywords": "Attitudes; Education; Homelessness; Residency",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1630,145 +1630,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21012,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 155,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21052,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1779,27 +1659,27 @@
     "ItemId": 23,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical feature of COVID-19 in elderly patients: a comparison with young and middle-aged patients.",
-    "ParentTitle": "The Journal of infection",
-    "ShortTitle": "Liu, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Interventions to reduce tobacco use in people experiencing homelessness",
+    "ParentTitle": "Cochrane Database of Systematic Reviews",
+    "ShortTitle": "Vijayaraghavan, 2020",
+    "Study Type": "Revisión Sistemática con Metaanálisis",
+    "Study detail": "Revisión Sistemática con Metaanálisis",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Haikou",
-    "Country": "China",
-    "Publisher": "El sevier",
+    "Month": "Diciembre",
+    "City": "",
+    "Country": "",
+    "Publisher": "John Wiley & Sons, Ltd.",
     "Institution": "Hainan General Hospital",
-    "Volume": "80",
-    "Pages": "14-18",
+    "Volume": "",
+    "Pages": "",
     "Edition": "",
-    "Issue": "6",
+    "Issue": "12",
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32171866",
-    "Abstract": "Background: Due to the general susceptibility of new coronaviruses, the clinical characteristics and outcomes of elderly and young patients may be different. Objetive: To analyze the clinical characteristics of elderly patients with new-type coronavirus pneumonia (COVID-19). Methods: This is a retrospective study of patients with new coronavirus pneumonia (COVID-19) who were hospitalized in Hainan Provincial People's Hospital from January 15, 2020 to February 18, 2020. Compare the clinical characteristics of elderly with Young and Middle-aged patients. Results: A total of 56 patients were evaluated, 18 elderly patients (32.14%), and 38 young and middle-aged patients (67.86%). The most common symptoms in both groups were fever, followed by cough and sputum. Four patients in the elderly group received negative pressure ICU for mechanical ventilation, and five patients in the young and middle-aged group. One patient died in the elderly group (5.56%), and two patients died in the young and middle-aged group (5.26%). The PSI score of the elderly group was higher than that of the young and middle-aged group (P<0.001). The proportion of patients with PSI grades IV and V was significantly higher in the elderly group than in the young and middle-aged group (P<0.05). The proportion of multiple lobe involvement in the elderly group was higher than that in the young and middle-aged group (P<0.001), and there was no difference in single lobe lesions between the two groups. The proportion of lymphocytes in the elderly group was significantly lower than that in the young and middle-aged group (P<0.001), and the C-reactive protein was significantly higher in the young group (P<0.001). The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all <0.05. ",
-    "TypeName": "Journal Article",
-    "Authors": "Kai Liu , Ying Chen , Ruzheng Lin , Kunyuan Han",
-    "DOI": "10.1016/j.jinf.2020.03.005",
-    "Keywords": "",
+    "Abstract": "Background Populations experiencing homelessness have high rates of tobacco use and experience substantial barriers to cessation. Tobacco-caused conditions are among the leading causes of morbidity and mortality among people experiencing homelessness, highlighting an urgent need for interventions to reduce the burden of tobacco use in this population. Objectives To assess whether interventions designed to improve access to tobacco cessation interventions for adults experiencing homelessness lead to increased numbers engaging in or receiving treatment, and whether interventions designed to help adults experiencing homelessness to quit tobacco lead to increased tobacco abstinence. To also assess whether tobacco cessation interventions for adults experiencing homelessness affect substance use and mental health. Search methods We searched the Cochrane Tobacco Addiction Group Specialized Register, MEDLINE, Embase and PsycINFO for studies using the terms: unhoused*, homeless*, housing instability, smoking cessation, tobacco use disorder, smokeless tobacco. We also searched trial registries to identify unpublished studies. Date of the most recent search: 06 January 2020. Selection criteria We included randomized controlled trials that recruited people experiencing homelessness who used tobacco, and investigated interventions focused on the following: 1) improving access to relevant support services; 2) increasing motivation to quit tobacco use; 3) helping people to achieve abstinence, including but not limited to behavioral support, tobacco cessation pharmacotherapies, contingency management, and text- or app-based interventions; or 4) encouraging transitions to long-term nicotine use that did not involve tobacco. Eligible comparators included no intervention, usual care (as defined by the studies), or another form of active intervention.  Data collection and analysis We followed standard Cochrane methods. Tobacco cessation was measured at the longest time point for each study, on an intention-to treat basis, using the most rigorous definition available. We calculated risk ratios (RRs) and 95% confidence intervals (CIs) for smoking cessation for each study where possible. We grouped eligible studies according to the type of comparison (contingent reinforcement in addition to usual smoking cessation care; more versus less intensive smoking cessation interventions; and multi-issue support versus smoking cessation support only), and carried out meta-analyses where appropriate, using a Mantel-Haenszel random-effects model. We also extracted data on quit attempts, effects on mental and substance-use severity, and meta-analyzed these outcomes where sufficient data were available.  Main results We identified 10 studies involving 1634 participants who smoked combustible tobacco at enrolment. One of the studies was ongoing. Most of the trials included participants who were recruited from community-based sites such as shelters, and three included participants who were recruited from clinics. We judged three studies to be at high risk of bias in one or more domains. We identified low-certainty evidence, limited by imprecision, that contingent reinforcement (rewards for successful smoking cessation) plus usual smoking cessation care was not more effective than usual care alone in promoting abstinence (RR 0.67, 95% CI 0.16 to 2.77; 1 trial, 70 participants). We identified very low-certainty evidence, limited by risk of bias and imprecision, that more intensive behavioral smoking cessation support was more effective than brief intervention in promoting abstinence at six-month follow-up (RR 1.64, 95% CI 1.01 to 2.69; 3 trials, 657 participants; I 2 = 0%). There was low-certainty evidence, limited by bias and imprecision, that multi-issue support (cessation support that also encompassed help to deal with other challenges or addictions) was not superior to targeted smoking cessation supporting promoting abstinence (RR 0.95, 95% CI 0.35 to 2.61; 2 trials, 146 participants; I 2 = 25%). More data on these types of interventions are likely to change our interpretation of these data. Single studies that examined the effects of text-messaging support, e-cigarettes, or cognitive behavioral therapy for smoking cessation provided inconclusive results. Data on secondary outcomes, including mental health and substance use severity, were too sparse to draw any meaningful conclusions on whether there were clinically-relevant differences. We did not identify any studies that explicitly assessed interventions to increase access to tobacco cessation care; we were therefore unable to assess our secondary outcome ‘number of participants receiving treatment'. Authors' conclusions There is insufficient evidence to assess the effects of any tobacco cessation interventions specifically in people experiencing homelessness. Although there was some evidence to suggest a modest benefit of more intensive behavioral smoking cessation interventions when compared to less intensive interventions, our certainty in this evidence was very low, meaning that further research could either strengthen or weaken this effect. There is insufficient evidence to assess whether the provision of tobacco cessation support and its effects on quit attempts has any effect on the mental health or other substance-use outcomes of people experiencing homelessness. Although there is no reason to believe that standard tobacco cessation treatments work any differently in people experiencing homelessness than in the general population, these findings highlight a need for high-quality studies that address additional ways to engage and support people experiencing homelessness, in the context of the daily challenges they face. These studies should have adequate power and put effort into retaining participants for long-term follow-up of at least six months. Studies should also explore interventions that increase access to cessation services, and address the social and environmental influences of tobacco use among people experiencing homelessness. Finally, studies should explore the impact of tobacco cessation on mental health and substance-use outcomes.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Maya Vijayaraghavan, Holly Elser, Kate Frazer, Nicola Lindson, Dorie Apollonio",
+    "DOI": "10.1002/14651858.CD013413.pub2.",
+    "Keywords": "https://www.cochrane.org/news/featured-review-what-types-interventions-benefit-people-experiencing-homelessness-quit-smoking?fbclid=IwAR3MjW70L2-f3Wj2Tkz_GmmOqCneBHRj7hB1H4YQtg9qwXLRPk5o6DQDiUA",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1807,115 +1687,91 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 509,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 104,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21055,
+        "AttributeId": 109,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 118,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 119,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21013,
+        "AttributeId": 122,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
+        "AttributeId": 129,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 221,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 222,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21049,
+        "AttributeId": 223,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21052,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
+        "AttributeId": 302,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1926,27 +1782,27 @@
     "ItemId": 24,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Early antiviral treatment contributes to alleviate the severity and improve the prognosis of patients with novel coronavirus disease (COVID-19).",
-    "ParentTitle": "Journal of internal medicine",
-    "ShortTitle": "Wu, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases series",
+    "Title": "Management Strategies for People Experiencing Sheltered Homelessness during the COVID-19 Pandemic: Clinical Outcomes and Costs",
+    "ParentTitle": "Jama Network Open",
+    "ShortTitle": "Baggett , 2020.",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
     "Year": 2020,
     "Month": "Mar",
-    "City": "",
-    "Country": "China",
-    "Publisher": "Journal of Internal Medicine",
+    "City": "Boston",
+    "Country": "Usa",
+    "Publisher": "",
     "Institution": "",
     "Volume": "",
-    "Pages": "",
+    "Pages": "1-18",
     "Edition": "",
     "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32220033",
-    "Abstract": "Background: At present, the severity of patients infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been a focal point. Methods: To assess the factors associated with severity and prognosis of patients infected with SARS-CoV-2, we retrospectively investigated the clinical, imaging and laboratory characteristics of confirmed 280 cases of novel coronavirus disease (COVID-19) from 20 January to 20 February 2020. Results: The median age of patients in the mild group was 37.55 years, whilst that in the severe group was 63.04 years. The proportion of patients aged over 65 years in the severe group was significantly higher than that of the mild group (59.04% vs. 10.15%, P < 0.05). 85.54% of severe patients had diabetes or cardiovascular diseases, which was significantly higher than that of the mild group (51.81% vs. 7.11%, P = 0.025; 33.73% vs. 3.05%, P = 0.042). Patients in the mild group experienced earlier initiation of antiviral treatment (1.19 ± 0.45 vs. 2.65 ± 1.06 days in the severe group, P < 0.001). Our study showed that comorbidity, time from illness onset to antiviral treatment and age >=65 were three major risk factors for COVID-19 progression, whilst comorbidity and time from illness onset to antiviral treatment were two major risk factors for COVID-19 recovery. Conclusions: The elderly and patients with underlying diseases are more likely to experience a severe progression of COVID-19. It is recommended that timely antiviral treatment should be initiated to slow the disease progression and improve the prognosis.",
-    "TypeName": "Journal Article",
-    "Authors": "J Wu , W Li , X Shi , Z Chen, B Jiang , J Liu, D Wang , C Liu , Y Meng , L Cui , J Yu , H Cao , L Li",
-    "DOI": "10.1111/joim.13063",
-    "Keywords": "severe acute respiratory síndrome coronavirus 2 (SARS-CoV-2); coronavirus disease-19 (COVID-19); antiviral treatment; disease progression; prognosis.",
+    "URL": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774424",
+    "Abstract": "Abstract Importance: Approximately 356,000 people stay in homeless shelters nightly in the US. These individuals are at high risk for COVID-19. Objective: To assess clinical outcomes, costs, and cost-effectiveness of strategies for COVID-19 prevention and management among sheltered homeless adults. Design: We developed a dynamic microsimulation model of COVID-19. We modeled sheltered homeless adults in Boston, Massachusetts, using cohort characteristics and costs from Boston Health Care for the Homeless Program. Disease progression, transmission, and clinical outcomes data were from published literature and national databases. We examined surging, growing, and slowing epidemics (effective reproduction numbers [Re] 2.6, 1.3, and 0.9). Costs were from a health care sector perspective; time horizon was 4 months. Setting & participants: Simulated cohort of 2,258 adults residing in homeless shelters in Boston. Interventions: We assessed combinations of daily symptom screening with same-day polymerase chain reaction (PCR) testing of screen-positive individuals, universal PCR testing every 2 weeks, hospital-based COVID-19 care, alternate care sites [ACSs] for mild/moderate COVID-19 management, and moving people from shelters to temporary housing, compared to no intervention. Main outcomes: Infections, hospital-days, costs, and cost-effectiveness. Results: Compared to no intervention, daily symptom screening with ACSs for those with pending tests or confirmed COVID-19 and mild/moderate disease leads to 37% fewer infections and 46% lower costs when Re=2.6, 75% fewer infections and 72% lower costs when Re=1.3, and 51% fewer infections and 51% lower costs when Re=0.9. Adding universal PCR testing every 2 weeks further decreases infections in all epidemic scenarios, with incremental cost per case prevented of $1,000 (Re=2.6), $27,000 (Re=1.3), and $71,000 (Re=0.9). In all scenarios, moving shelter residents to temporary housing with universal PCR testing every 2 weeks is most effective but substantially more costly than other options. Results are most sensitive to the cost and sensitivity of PCR testing and the efficacy of ACSs in preventing transmission. Conclusions & Relevance: Daily symptom screening and ACSs for sheltered homeless adults will substantially decrease COVID-19 cases and reduce costs compared to no intervention. In a surging epidemic, adding universal PCR testing every 2 weeks further decreases cases at modest incremental cost and should be considered.",
+    "TypeName": "Pre-impreso",
+    "Authors": "Baggett TP, Scott JA, Le MH, Shebl FM, Panella C, Losina E, Flanagan C, Gaeta JM, Neilan A, Hyle EP, Mohareb A, Reddy KP, Siedner MJ, Harling G, Weinstein MC, Ciaranello A, Kazemian P, Freedberg KA.",
+    "DOI": "10.1001/jamanetworkopen.2020.28195",
+    "Keywords": "COVID-19; Homelessness; Cost-effectiveness analysis simulation model",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1954,157 +1810,37 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21005,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21016,
+        "AttributeId": 158,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21017,
+        "AttributeId": 159,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21014,
+        "AttributeId": 214,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21036,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21018,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21040,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21074,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21039,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21029,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2115,27 +1851,27 @@
     "ItemId": 25,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical progression of patients with COVID-19 in Shanghai, China.",
-    "ParentTitle": "The Journal of infection",
-    "ShortTitle": "Chen, 2020",
-    "Study Type": "Observational",
-    "Study detail": "",
+    "Title": "Mechanisms of change and participant outcomes in a Recovery Education Centre for individuals transitioning from homelessness: A qualitative evaluation",
+    "ParentTitle": "BMC Public Health",
+    "ShortTitle": "Reid1, 2020",
+    "Study Type": "Articulo de revista",
+    "Study detail": "Estudio de metodos mixtos",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Shangai",
-    "Country": "China",
-    "Publisher": "El sevier",
+    "Month": "Abril",
+    "City": "Toronto",
+    "Country": "Canada",
+    "Publisher": "BioMed Central Ltd.",
     "Institution": "",
-    "Volume": "80",
-    "Pages": "1-6",
+    "Volume": "20",
+    "Pages": "1-10",
     "Edition": "",
     "Issue": "5",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32171869",
-    "Abstract": "Background: Studies on the 2019 novel coronavirus disease (COVID-19) have generally been limited to the description of the epidemiology and initial clinical characteristics. We investigated the temporal pro- gression in patients with COVID-19. Methods: In this retrospective, single-center study, we included confirmed cases of COVID-19 from Jan 20 to Feb 6, 2020 in Shanghai. Final date of follow-up was February 25, 2020. Results: Of the 249 patients enrolled, the median age was 51 years old, and 126 (50.6%) were male. The duration from onset of symptoms to hospitalization was 4(2–7) days in symptomatic patients. Fever was occurred in 235(94.3%) patients. A total of 215 (86.3%) patients had been discharged after 16(12–20) days hospitalization. The estimated median duration of fever in all the patients with fever was 10 days (95 confidential intervals [CIs]: 8–11 days) after onset of symptoms. Patients who were transferred to inten- sive care units (ICU) had significantly longer duration of fever as compared to those not in ICU (31 days v.s. 9 days after onset of symptoms, respectively, P < 0.0 0 01). Radiological aggravation of initial image was observed in 163 (65.7%) patients on day 7 after onset of symptoms. 154(94.5%) of these patients showed radiological improvement on day 14. The median duration to negative reverse-transcriptase PCR tests of upper respiratory tract samples was 11 days (95 CIs: 10–12 days). Viral clearance was more likely to be delayed in patients in ICU than those not in ICU ( P < 0.0 0 01). In multivariate logistical analysis, age (Odds ratio [OR] = 1.06) and CD4 T cell count (OR = 0.55 per 100 cells/ul increase) were independently associated with ICU admission. Conclusions: The majority of COVID-19 cases are mild. The clinical progression pattern suggests that early control of viral replication and application of host-directed therapy in later stage is essential to improve the prognosis of COVID-19.",
+    "URL": "",
+    "Abstract": "Background: Recovery Education Centres (RECs) are increasingly implemented to support the process of recovery for individuals experiencing mental health challenges. However, the evidence on key REC mechanisms and outcomes, particularly for diverse subpopulations or service delivery contexts is scant. This study identified mechanisms and outcomes of an REC focused on adults with mental health challenges transitioning from homelessness. Methods: Qualitative methods were used to explore in-depth the experiences of homeless and unstably housed participants experiencing mental health challenges in Toronto, Canada. Twenty service users participated in semistructured interviews between July 2017 and June 2018, six to 14 months following REC enrollment. A realist informed interview guide explored participants’ perspectives on key REC mechanisms and outcomes. Interviews were audiorecorded, transcribed verbatim and analyzed using inductive thematic analysis. Investigator triangulation and member checking processes enhanced analytical rigour. Results: Participants perceived that program participation supported the process of recovery through several mechanisms: a judgment-free environment; supportive relationships, mutuality and role modelling; deconstruction of self-stigma; and reclaiming of one’s power. Participants described several outcomes at the personal, interpersonal and social levels, including improvements in health and well-being; self-esteem, confidence and identity; sense of empowerment, control and personal responsibility; as well as improvements in interpersonal skills, pro-social behaviours and ability to self-advocate; and increased goal development and future orientation. Conclusions: Findings suggest RECs can support the process of recovery among people transitioning from homelessness and can successfully support subpopulations experiencing mental health challenges and social disadvantage.",
     "TypeName": "Journal Article",
-    "Authors": "Jun Chen, Tangkai Qi, Li Liu, Yun Ling, Zhiping Qian, Tao Li , Feng Li, Qingnian Xu, Yuyi Zhang, Shuibao Xu, Zhigang Song, Yigang Zeng, Yinzhong Shen, Yuxin Shi , Tongyu Zhu, Hongzhou Lu",
-    "DOI": "10.1016/j.jinf.2020.03.004",
-    "Keywords": "COVID-19; Clinical characteristics; Clinical progression; SARS-CoV-2; Viral clearance",
+    "Authors": "Nadine Reid, Bushra Khan, Sophie Soklaridis, Nicole Kozloff, Rebecca Brown , Vicky Stergiopoulos",
+    "DOI": "10.1186 / s12889-020-08614-8",
+    "Keywords": "Recovery education;Recovery college; Homelessness; Mechanisms; Outcomes",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2143,121 +1879,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 504,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 119,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21016,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21017,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21019,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11103,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2268,27 +1908,27 @@
     "ItemId": 26,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China.",
-    "ParentTitle": "The Lancet. Oncology",
-    "ShortTitle": "Liang, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Medication adherence in patients with mental illness and recent homelessness: contributing factors and perceptions on mobile technology use.",
+    "ParentTitle": "International Journal of Pharmacy Practice.",
+    "ShortTitle": "Watson, 2020.",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
+    "Month": "Agosto",
     "City": "",
-    "Country": "China",
+    "Country": "Usa",
     "Publisher": "The lancet",
     "Institution": "",
-    "Volume": "21",
-    "Pages": "335-337",
+    "Volume": "28",
+    "Pages": "362-369",
     "Edition": "",
     "Issue": "3",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32066541",
-    "Abstract": "Results: A total of 56 patients were evaluated, 18 elderly patients (32.14%), and 38 young and middle-aged patients (67.86%). The most common symptoms in both groups were fever, followed by cough and sputum. Four patients in the elderly group received negative pressure ICU for mechanical ventilation, and five patients in the young and middle-aged group. One patient died in the elderly group (5.56%), and two patients died in the young and middle-aged group (5.26%). The PSI score of the elderly group was higher than that of the young and middle-aged group (P<0.001). The proportion of patients with PSI grades IV and V was significantly higher in the elderly group than in the young and middle-aged group (P<0.05). The proportion of multiple lobe involvement in the elderly group was higher than that in the young and middle-aged group (P<0.001), and there was no difference in single lobe lesions between the two groups. The proportion of lymphocytes in the elderly group was significantly lower than that in the young and middle-aged group (P<0.001), and the C-reactive protein was significantly higher in the young group (P<0.001). The Lopinavir and Ritonavir Tablets, Chinese medicine, oxygen therapy, and mechanical ventilation were statistically different in the elderly group and the young and middle-aged group, and the P values were all <0.05.",
-    "TypeName": "Journal Article",
-    "Authors": "Wenhua Liang, Weijie Guan, Ruchong Chen, Wei Wang, Jianfu Li, Ke Xu, Caichen Li, Qing Ai, Weixiang Lu, Hengrui Liang, Shiyue Li, Jianxing He.",
-    "DOI": "10.1016/S1470-2045(20)30096-6",
-    "Keywords": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32100398/",
+    "Abstract": "Objectives: The primary objective was to determine medication-taking behaviours and factors influencing adherence in patients with mental illness and recent homelessness. Secondary objectives were to explore patients' perceptions on mobile technology use to support adherence. Methods: A constructivist approach and qualitative description method was used. The sample population consisted of patients with recent homelessness and mental illness affiliated with a community-based outreach programme in Canada. Participants were purposefully selected; semi-structured interviews were conducted to elicit information on medication-taking strategies and mobile technology to support adherence. A standardized questionnaire collected demographic and medical information; the Medication Adherence Rating Scale (MARS) was used to evaluate self-reported adherence. Questionnaire data were analysed using summary descriptive statistics. Interview data were subject to qualitative content analysis. Key findings: Fifteen participants with a mean age of 44 years were included. The mean MARS score ± standard deviation was 7.3 ± 1.5. Themes arising from the data included patient factors (i.e. insight, attitudes towards medications, coping strategies) and external factors (i.e. therapeutic alliance, family support that impacted adherence) and technology use and health. Eight participants (53%) had access to a mobile phone. There was a moderate interest in the use of mobile technology to support adherence, with cost and technology literacy identified as barriers. Conclusion: External supports and individual medication management strategies were important in supporting medication adherence in this patient group. Perceived need for mobile technology, in addition to existing supports for adherence, was not high. Challenges accessing and maintaining consistent mobile technology and individual preferences should be considered when developing mobile technology-based interventions.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Tyler Watson, Theresa J Schindel, Scot H Simpson, Christine A Hughes.",
+    "DOI": "10.1111/ijpp.12608",
+    "Keywords": "Medication adherence; Mental health; Qualitative research; Text messaging; Vvulnerable populations.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2296,31 +1936,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21021,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500002,
+        "AttributeId": 140,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11103,
+        "AttributeId": 219,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11105,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2331,26 +1965,26 @@
     "ItemId": 28,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Covid-19 in critically ill patients in the seattle region - Case Series",
-    "ParentTitle": "The New England Journal of Medicine",
-    "ShortTitle": "Bhatraju, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases series",
+    "Title": "Mental and substance use disorders and food insecurity among homeless adults participating in the At Home/Chez Soi study",
+    "ParentTitle": "PLoS One",
+    "ShortTitle": "Lachaud, 2020",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Washington",
-    "Country": "Estados Unidos",
+    "Month": "mayo",
+    "City": "Toronto",
+    "Country": "Canadá",
     "Publisher": "The New England Journal of Medicine",
     "Institution": "",
-    "Volume": "382",
-    "Pages": "2012-2022",
+    "Volume": "15",
+    "Pages": "",
     "Edition": "",
     "Issue": "",
-    "URL": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2004500",
-    "Abstract": "Background: Community transmission of coronavirus 2019 (Covid-19) was detected in the state of Washington in February 2020. Methods: We identified patients from nine Seattle-area hospitals who were admitted to the intensive care unit (ICU) with confirmed infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). Clinical data were obtained through review of medical records. The data reported here are those available through March 23, 2020. Each patient had at least 14 days of follow-up. Results: We identified 24 patients with confirmed Covid-19. The mean (±SD) age of the patients was 64±18 years, 63% were men, and symptoms began 7±4 days before admission. The most common symptoms were cough and shortness of breath; 50% of patients had fever on admission, and 58% had diabetes mellitus. All the patients were admitted for hypoxemic respiratory failure; 75% (18 patients) needed mechanical ventilation. Most of the patients (17) also had hypotension and needed vasopressors. No patient tested positive for influenza A, influenza B, or other respiratory viruses. Half the patients (12) died between ICU day 1 and day 18, including 4 patients who had a do-not-resuscitate order on admission. Of the 12 surviving patients, 5 were discharged home, 4 were discharged from the ICU but remained in the hospital, and 3 continued to receive mechanical ventilation in the ICU. Conclusions: During the first 3 weeks of the Covid-19 outbreak in the Seattle area, the most common reasons for admission to the ICU were hypoxemic respiratory failure leading to mechanical ventilation, hypotension requiring vasopressor treatment, or both. Mortality among these critically ill patients was high. ",
-    "TypeName": "Journal Article",
-    "Authors": "Pavan K. Bhatraju, Bijan J. Ghassemieh, Michelle Nichols, Richard Kim, Keith R. Jerome, Arun K. Nalla, Alexander L. Greninger, Sudhakar Pipavath, Mark M. Wurfel, Laura Evans, Patricia A. Kritek,   T. Eoin West.",
-    "DOI": "10.1056/NEJMoa2004500",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32324795/",
+    "Abstract": "Background: Few studies have examined how food insecurity changes over time when living with severe mental disorders or substance use disorders. This study identifies food insecurity trajectories of homeless adults participating in a trial of a housing intervention and examines whether receiving the intervention and having specific mental and substance disorders predict food insecurity trajectories. Materials and methods: We studied 520 participants in the Toronto site of the At Home/Chez-Soi project. Food insecurity data were collected at seven times during a follow-up period of up to 5.5 years. Mental and substance use disorders were assessed at baseline. Food insecurity trajectories were identified using group based-trajectory modeling. Multinomial logistic regression was used to examine the effects of the intervention and mental and substance use disorders on food insecurity trajectories. Results: Four food insecurity trajectories were identified: persistently high food insecurity, increasing food insecurity, decreasing food insecurity, and consistently low food insecurity. Receiving the intervention was not a predictor of membership in any specific food insecurity trajectory group. Individuals with major depressive episode, mood disorder with psychotic features, substance disorder, and co-occurring disorder (defined as having at least one alcohol or other substance use disorder and at least one non-substance related mental disorder] were more likely to remain in the persistently high food insecurity group than the consistently low food insecurity group. Conclusion: A persistently high level of food insecurity is common among individuals with mental illness who have experienced homelessness, and the presence of certain mental health disorders increases this risk. Mental health services combined with access to resources for basic needs, and re-adaptation training are required to enhance the health and well-being of this population.",
+    "TypeName": "Articulo de revista",
+    "Authors": "James Lachaud, Cilia Mejia-Lancheros, Ri Wang, Kathryn Wiens, Rosane Nisenbaum, Vicky Stergiopoulos, Stephen W Hwang, Patricia O'Campo. ",
+    "DOI": "10.1371/journal.pone.0232001.",
     "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
@@ -2359,133 +1993,37 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21008,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21010,
+        "AttributeId": 146,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21012,
+        "AttributeId": 214,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21018,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21025,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21040,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2496,27 +2034,27 @@
     "ItemId": 29,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Covid-19 in critically ill patients in the seattle region - Case Series",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Cao, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Nia Imani Model of Care’s Impact on Homeless African-American Women",
+    "ParentTitle": "Western Journal of Nursing Research",
+    "ShortTitle": "Dressel, 2020.",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Diciembre",
+    "City": "Milwaukee",
+    "Country": "Usa",
+    "Publisher": "SAGE",
     "Institution": "",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "42",
+    "Pages": "1059-1067",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3555223",
-    "Abstract": "Background: The risk of acute kidney injury (AKI) in severe and critical COVID-19 patients needs to be defined. Methods: A total of 61 severe and critical COVID-19 patients were retrospectively analyzed for AKI in death and survival groups between January 2020 and February 2020.  Additionally, AKI was diagnosed according to the K-DIGO standard. All kidney events (K-E) and inferior venous cavity events (IVC-E) were confirmed with ultrasound imaging. The parameters: age, rate of AKI, K-E, and IVC-E, and biochemical indexes including urea (BU), creatinine (sCr), BNP, and times of hypersensitive C-reactive protein > 160mg / L (hsCRP Max) were tested about the bilateral relevance. And then the above parameters were compared between the two groups. The risk of AKI was assessed by Logistic regression. The intervals from initial AKI and K-E to death were compared. Findings: The mortality of 61 severe and critical COVID-19 patients was 55¬∑7%. AKI occurred in 25 cases, with a rate of 41¬∑0 %. The death group showed elder age (median: 65 years vs 56 years), higher AKI occurrence (70¬∑6% vs 3¬∑7%), increased BU and sCr, higher hsCRP Max and K-E rates than the survival group (p < 0¬∑05). Besides, there was no difference in the occurrence of ARDS, initial cardiac insufficiency, and hsCRP Max (p > 0¬∑05) between two groups. Regression results showed that AKI increased the risk of death (OR = 17¬∑37, 95% CI: 1¬∑34-225¬∑87). AKI was correlated with K-E (p < 0¬∑05), but not IVC-E or hsCRP Max (p > 0¬∑05). There was no difference in the intervals of AKI and K-E (median 4 days vs. 3 days) in the death group (p > 0¬∑05). Interpretation: The prevalence of AKI was high in severe and critical COVID-19 patients. Renal ultrasound is a potential predictor of AKI. ",
-    "TypeName": "Preprint",
-    "Authors": "Wen Cao, Yali Qu, Zirui Gao, Shuo Li, Chaoyang Lyu, Wenjuan Xu, Ning Hai, Ruijun Guo.",
-    "DOI": "10.2139/ssrn.3555223",
-    "Keywords": "COVID-19; AKI; ultrasound.",
+    "Issue": "12",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85085485683&doi=10.1177%2f0193945920922497&origin=inward&txGid=eb287d9c27ba46bb5c016fc93fa4151b",
+    "Abstract": "This qualitative study assessed the impact of the Nia Imani model of care on homeless African-American women, many of whom abused drugs, experienced interpersonal violence, and faced other challenges when seeking to improve their lives and health. Nia Imani Family, Inc., is Milwaukee, Wisconsin’s, only long-term transitional living facility. Grounded in Black feminist thought, our study included focus group interviews with 39 women who had lived at Nia Imani, and successfully completed its programs; and one individual interview with the founder, who had also experienced homelessness (N=40). Themes were identified through thematic analysis, and included the following: crucial social support, learning self worth, stability and structure, appreciation for strict rules, and importance of parenting and financial literacy classes. To ensure effective interventions, there is a need for nurses to understand how community-based and community-led programs, like Nia Imani, impact the health and well-being of African-American women, who have experienced homelessness",
+    "TypeName": "Articulo de revista",
+    "Authors": "Anne Dressel, Maren Hawkins, Alexa A. Lopez, Belinda Pittman-McGee, Peninnah Kako, Dorothy Gakii, Lucy Mkandawire-Valhmu. ",
+    "DOI": "10.1177/0193945920922497",
+    "Keywords": "Homelessness; African Americans; Women; Drug abusers",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2524,55 +2062,55 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21032,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 103,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 118,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21034,
+        "AttributeId": 125,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 154,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21061,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21055,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 500002,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 11101,
+        "AttributeId": 404,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""

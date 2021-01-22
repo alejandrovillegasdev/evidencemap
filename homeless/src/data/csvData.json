@@ -2,7 +2,7 @@
   "rows": [
     [
       {
-        "span": 30,
+        "span": 32,
         "isColumn": true,
         "id": 2000,
         "title": "Outcome "
@@ -46,7 +46,7 @@
         "title": "Abuso de sustancias\t\t"
       },
       {
-        "span": 5,
+        "span": 6,
         "isColumn": true,
         "id": 2007,
         "title": "Empleo e ingresos\t\t\t\t"
@@ -785,8 +785,8 @@
       }
     ]
   ],
-  "totalColBreadth": 24,
+  "totalColBreadth": 25,
   "totalColDepth": 3,
-  "totalRowBreadth": 59,
+  "totalRowBreadth": 60,
   "totalRowDepth": 1
 }

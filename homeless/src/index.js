@@ -1736,7 +1736,7 @@ $(window).on('load', function () {
             const topHeadWrapperCssPaddingLeft = $sideHead.width();
             const topHeadCssWidth = bodyWidth;
             const bodyCssWidth = bodyWidth - 1;
-            let sideHeadCssHeight = $window.height() - $topHead.height() - $footer.height() - $menu.height() - 48;
+            let sideHeadCssHeight = $window.height() - $topHead.height() - $footer.height() - $menu.height() - 100;
             let bodyCssHeight = sideHeadCssHeight - 180;
   
             $header = $('.header')
