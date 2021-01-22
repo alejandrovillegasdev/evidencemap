@@ -33,7 +33,7 @@ $(window).on('load', function () {
             },
             {
                 "attribute": {
-                    "AttributeSetId": 5414335,
+                    "AttributeSetId": 54143351,
                     "AttributeId": 506,
                     "AttributeSetDescription": "",
                     "AttributeType": "Selectable (show checkbox)",
@@ -44,7 +44,7 @@ $(window).on('load', function () {
             },
             {
               "attribute": {
-                  "AttributeSetId": 5414335,
+                  "AttributeSetId": 54143352,
                   "AttributeId": 508,
                   "AttributeSetDescription": "",
                   "AttributeType": "Selectable (show checkbox)",
@@ -64,9 +64,31 @@ $(window).on('load', function () {
             },
             "color": "#DBFF33"
         },
+        {
+          "attribute": {
+              "AttributeSetId": 54143353,
+              "AttributeId": 501,
+              "AttributeSetDescription": "",
+              "AttributeType": "Selectable (show checkbox)",
+              "AttributeName": "Cuasi-experimento",
+              "AttributeDescription": ""
+          },
+          "color": "#3379FF"
+      },
+      {
+        "attribute": {
+            "AttributeSetId": 54143354,
+            "AttributeId": 502,
+            "AttributeSetDescription": "",
+            "AttributeType": "Selectable (show checkbox)",
+            "AttributeName": "Ensayo clínico",
+            "AttributeDescription": ""
+        },
+        "color": "#B933FF"
+    },
           {
             "attribute": {
-                "AttributeSetId": 5414335,
+                "AttributeSetId": 54143356,
                 "AttributeId": 503,
                 "AttributeSetDescription": "",
                 "AttributeType": "Selectable (show checkbox)",

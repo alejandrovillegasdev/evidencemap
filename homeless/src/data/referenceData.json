@@ -780,27 +780,27 @@
     "ItemId": 10,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Analysis of death risk factors among 200 covid-19 patients in wuhan, china: a hospital-based case-cohort study.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Lin Fu, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cases and controls",
+    "Title": "COVID pandemic as an opportunity for improving mental health treatments of the homeless people.",
+    "ParentTitle": "International Journal of Social Psychiatry",
+    "ShortTitle": "Martin, 2020.",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Agosto",
+    "City": "Salamanca",
+    "Country": "España",
+    "Publisher": "SAGE",
     "Institution": "",
     "Volume": "",
-    "Pages": "",
+    "Pages": "1-9",
     "Edition": "",
     "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3551430",
-    "Abstract": "Background: Coronavirus disease 2019 (COVID-19) triggered by infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has been widely epidemic all over China. The aim of this study was to analyze the influence factors of death risk among 200 COVID-19 patients.Methods: Two hundred patients with confirmed SARS-CoV-2 infection were recruited. Demographic data and clinical characteristics were collected from electronic medical records. Biochemical indexes on admission were measured and patient's prognosis was tracked. The association of demographic data, clinical characteristics and biochemical indexes with death risk was analyzed.Findings: Of 200 COVID-19 patients, 163 (81.5%) had at least one of comorbidities, including diabetes, hypertension, hepatic disease, cardiac disease, chronic pulmonary disease and others. Among all patients, critical cases, defined as oxygenation index lower than 200, accounted for 26.2%. Severe cases, oxygenation index from 200 to 300, were 29.7%. Besides, common cases, oxygenation index higher than 300, accounted for 44.1%. At the end of follow-up, 34 (17%) were died on mean 10.9 day after hospitalization. Stratified analysis revealed that older ages, lower oxygenation index and comorbidities elevated death risk of COVID-19 patients. On admission, 91% COVID-19 patients were with at least one of extrapulmonary organ injuries. Univariable logistic regression showed that ALT and TBIL, two indexes of hepatic injury, AST, myoglobin and LDH, AST/ALT ratio, several markers of myocardial injury, creatinine, urea nitrogen and uric acid, three indexes of renal injury, were positively associated with death risk of COVID-19 patients. Multivariable logistic regression revealed that AST/ALT ratio, urea nitrogen, TBIL and LDH on admission were positively correlated with death risk of COVID-19 patients.Interpretation: Older age, lower oxygenation index and comorbidities on admission elevate death risk of COVID-19 patients. AST/ALT ratio, urea nitrogen, TBIL and LDH on admission may be potential prognostic indicators. Early hospitalization is of great significance to prevent multiple organ damage and improve the survival of COVID-19 patients.Funding: This study was supported by National Natural Science Foundation of China (81630084) and National Natural Science Foundation Incubation Program of the Second Affiliated Hospital of Anhui Medical University (2019GQFY06).Declaration of Interest: We declare no competing interests.Ethical Approval: This study was approved by the Ethics Committee of Anhui Medical University.",
-    "TypeName": "Preprint",
-    "Authors": "Lin Fu, Jun Fei, Hui-Xian Xiang, Ying Xiang, Zhu-Xia Tan, Meng-Die Li, Fang-Fang Liu, Hong-Yan Liu, Ling Zheng, Ying Li, Hui Zhao, DeXiang Xu ",
-    "DOI": "10.2139/ssrn.3551430",
-    "Keywords": "Coronavirus disease 2019; Severe acute respiratory syndrome coronavirus-2; Death risk; Comorbidities; Organ injury.",
+    "URL": "https://journals.sagepub.com/doi/10.1177/0020764020950772",
+    "Abstract": "Background: Homeless population has been severely affected by the COVID-19 pandemic. Their living conditions, comorbidity with different pathologies, and a greater frequency of mental disorders make this population vulnerable. Method: We implemented a program of serial visits in a hostel for confined homeless of the city council social services, for the monitoring and treatment of mental disorders and substance abuse problems. Accompanied by serial phone and email contacts. Results: A highly significant percentage (63%) had mental disorders or substance abuse, requiring pharmacological intervention, and 37% began follow-up in resources of the Mental Health and Addiction network of the Psychiatric Service at the end of the program. Hospital emergency service visits were drastically reduced. None of them were infected with COVID-19. An individualized Social plan was drawn up in order to reintegrate them with support in the community. Conclusions: The results have been really positive, meeting all the objectives and opening up developing new programs in the future, in the pandemic outbreak and out of it.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Carmen Martin, Pilar Andrés, Alberto Bullón, José Luis Villegas, Javier Ignacio de la Iglesia-Larrad, Berta Bote, Nieves Prieto, Carlos Roncero",
+    "DOI": "10.1177/0020764020950772",
+    "Keywords": "Homeless COVID-19, Prevention, Psychiatric evaluation, Rehabilitation",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -808,109 +808,61 @@
     "ItemStatus": "",
     "Codes":[
       {
-        "AttributeId": 21003,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 114,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 119,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21039,
+        "AttributeId": 140,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
+        "AttributeId": 158,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 216,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21013,
+        "AttributeId": 219,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21065,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
+        "AttributeId": 404,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -921,27 +873,27 @@
     "ItemId": 11,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in wuhan, china: a descriptive study.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Nanshan Chen, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cross sectional",
+    "Title": "Economic impact of faith-based residential addiction recovery for the homeless.",
+    "ParentTitle": "Health Nursing, Towson University, Towson, MD, United States",
+    "ShortTitle": "Lashley, 2020.",
+    "Study Type": "Cuasi-experimento",
+    "Study detail": "Cuasi-experimento",
     "Year": 2020,
-    "Month": "Feb",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Lancet Publishing Group",
+    "Month": "Septiembre",
+    "City": "Towson",
+    "Country": "Usa",
+    "Publisher": "Blackwell Publishing Inc.",
     "Institution": "Jinyintan Hospital",
-    "Volume": "395",
-    "Pages": "507-513",
-    "Edition": "10223",
-    "Issue": "",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/32007143/",
-    "Abstract": "Background: In December, 2019, a pneumonia associated with the 2019 novel coronavirus (2019-nCoV) emerged in Wuhan, China. We aimed to further clarify the epidemiological and clinical characteristics of 2019-nCoV pneumonia. Methods: In this retrospective, single-centre study, we included all confirmed cases of 2019-nCoV in Wuhan Jinyintan Hospital from Jan 1 to Jan 20, 2020. Cases were confirmed by real-time RT-PCR and were analysed for epidemiological, demographic, clinical, and radiological features and laboratory data. Outcomes were followed up until Jan 25, 2020. Findings: Of the 99 patients with 2019-nCoV pneumonia, 49 (49%) had a history of exposure to the Huanan seafood market. The average age of the patients was 55·5 years (SD 13·1), including 67 men and 32 women. 2019-nCoV was detected in all patients by real-time RT-PCR. 50 (51%) patients had chronic diseases. Patients had clinical manifestations of fever (82 [83%] patients), cough (81 [82%] patients), shortness of breath (31 [31%] patients), muscle ache (11 [11%] patients), confusion (nine [9%] patients), headache (eight [8%] patients), sore throat (five [5%] patients), rhinorrhoea (four [4%] patients), chest pain (two [2%] patients), diarrhoea (two [2%] patients), and nausea and vomiting (one [1%] patient). According to imaging examination, 74 (75%) patients showed bilateral pneumonia, 14 (14%) patients showed multiple mottling and ground-glass opacity, and one (1%) patient had pneumothorax. 17 (17%) patients developed acute respiratory distress syndrome and, among them, 11 (11%) patients worsened in a short period of time and died of multiple organ failure. Interpretation: The 2019-nCoV infection was of clustering onset, is more likely to affect older males with comorbidities, and can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome. In general, characteristics of patients who died were in line with the MuLBSTA score, an early warning model for predicting mortality in viral pneumonia. Further investigation is needed to explore the applicability of the MuLBSTA score in predicting the risk of mortality in 2019-nCoV infection. Funding: National Key R&D Program of China.",
-    "TypeName": "Journal Article",
-    "Authors": "Nanshan Chen, Min Zhou, Xuan Dong, Jieming Qu, Fengyun Gong, Yang Han, Yang Qiu, Jingli Wang, Ying Liu, Yuan Wei, Jia’an Xia, Ting Yu, Xinxin Zhang, Li Zhang.",
-    "DOI": "10.1016/S0140-6736(20)30211-7",
-    "Keywords": "",
+    "Volume": "37",
+    "Pages": "722-728",
+    "Edition": "",
+    "Issue": "5",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85088590076&doi=10.1111%2fphn.12779&origin=inward&txGid=9d86449b6df20e49cb9f7fdcc1c66a31",
+    "Abstract": "Objective: To examine the economic and fiscal impact of a faith-based long-term residential addiction recovery program for homeless men on the state and local economy. Design: This descriptive study used entry, within-program, and exit data to determine the program's fiscal and economic impact. Sample: The population consisted of 5,122 homeless men at an inner-city mission in Baltimore City from 2006 to 2019. Measurements: To compare costs and savings at different program intervals, economists examined program data before, during, and following completion of the program. Data were analyzed using the IMPLAN input-output model. Results: The study revealed that each man who participates in the residential recovery program for 1 year produces a total savings of $14,263 to state and county governments. Each man who successfully completes the program saves state and county governments over $5,000 per year post graduation. Each man who works for 1 year following graduation and reallocates his spending from illicit drugs to goods and services in the economy supports 1.5 jobs and generates over $240,000 in additional revenue and economic output. Conclusion: The findings from this study support the value of this faith-based residential program in promoting economic productivity in the surrounding state and region. © 2020 Wiley Periodicals LLC.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Lashley, M",
+    "DOI": "10.1111/phn.12779",
+    "Keywords": "Addiction; Economics; Homeless persons; Program evaluation.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -949,217 +901,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 501,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 116,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21076,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21017,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21016,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21014,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21041,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21052,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21034,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21037,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21010,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21067,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21029,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1170,27 +930,27 @@
     "ItemId": 12,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Leukopenia predicts risk for death in critically ill patients with covid-19 in wuhan, china: a single-centered, retrospective study.",
-    "ParentTitle": "The Lancet Infectious Diseases",
-    "ShortTitle": "Juyi Li, 2020.",
-    "Study Type": "Observational",
+    "Title": "Effectiveness of a Functional Literacy Program for Sheltered Homeless Adults.",
+    "ParentTitle": "OTJR Occupation, Participation and Health",
+    "ShortTitle": "Grajo, 2020.",
+    "Study Type": "Ensayo clínico",
     "Study detail": "Case series",
     "Year": 2020,
-    "Month": "",
-    "City": "Wuhan",
-    "Country": "",
-    "Publisher": "Social Science Research Network",
+    "Month": "Enero",
+    "City": "Nueva York",
+    "Country": "Usa",
+    "Publisher": "SAGE Publications Inc.",
     "Institution": "",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "40",
+    "Pages": "17-26",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3555248",
-    "Abstract": "Background: A pneumonia associated with a novel coronavirus (COVID-19) emerged in Wuhan, Hubei province, China. The epidemiological, clinical characteristics the patients with COVID-19 have been reported, but biomarkers for risk of death have not been well discribed. Methods: Retrospective, single-center case series of the 134 hospitalized patients confirmed with COVID-19 at the Central Hospital of Wuhan, China, from Jan 1 to Feb 20, 2020. All participants were analyzed for real-time RT-PCR, epidemiological, clinical, and radiological, laboratory, microbiological and drug therapy data. Outcomes of moderate vs severe vs critically ill patients, died patients vs non-died ill patients were compared. We aimed to explore potential biomarkers for risk of death in critically ill patients with COVID-19. Findings: 134 discharged patients including deaths hospitalized with COVID-19 pneumonia were included in this study. The median age of all patients was 61.00 years, 69 (51.49 %) of the patients were 60 years or older, and 75 (55.97 %) of the patients were male. 44.03 % patients had cardiovascular disease and 25.37 % patients had endocrine disorder (diabetes). The most common symptom of the patients was fever (84.33 %) and cough (76.87 %). As increase in the severity of COVID-19 pneumonia, higher median values of leukocytes count, neutrophils count, D-dimer and C-reactive protein (all P < 0.05), lower platelets count and albumin (all P < 0.05). After adjusting for age, cardiovascular disease and acute respiratory distress syndrome, plasma levels of albumin remained a significant association with an lower odds ratio for risk of death in critical group (P< 0.05). The area under the curve of albumin was 0.79, the optimal cut-of point for albumin was 35.1 g/ L. At this level, sensitivity was 76.47 %; specificity was 73.81 %.Interpretation: Levels of albumin decreased with the progress of the disease, and could be used as an independent predictive marker for risk of death in critically ill patients with COVID-19, which could help clinicians to idientify patients with high risk of death at an early stage.Funding Statement: This study was supported by the Health and Family Planning Commission of Wuhan City (WX18M02 and WX18C25).Declaration of Interests: The authors declare no competing interests.Ethics Approval Statement: This study was approved by the Ethics Commission of the Central Hospital of Wuhan. Written informed consent was waived by the Ethics Commission of the designated hospital for emerging infectious diseases",
-    "TypeName": "Preprint",
-    "Authors": "Li, Juyi and Li, Meng and Zheng, Shasha and Li, Menglan and Wang, Xiufang and Zhang, Minhua and Sun, Minxian and Chen, Jian and Li, Xiang and Deng, Aiping and Cai, Yi and Zhang, Hongmei",
-    "DOI": "10.2139/ssrn.3555248",
-    "Keywords": "Pneumonia; COVID-19; albumin; critically ill patients; biomarkers.",
+    "Issue": "1",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85067859600&doi=10.1177%2f1539449219850126&origin=inward&txGid=cf5f0e3fe1706a01ef7f97911bfb18ed",
+    "Abstract": "This study aims to determine whether a functional literacy program using principles from the Cognitive Orientation to daily Occupational Performance approach and Occupational Adaptation theory, and embedded in community-based daily activities, could enhance occupational participation in a sample of sheltered homeless adults. This study used a two-group, controlled design with pre- and post-intervention measures. Intervention was carried out in a group setting in 1.5 hr, twice-weekly sessions over 8 weeks. Intervention addressed literacy skills needed to complete participant identified, desired daily activities. Statistically significant differences were found between intervention and control groups’ perceived functional literacy skills with regard to occupational performance (Z = −4.075, p <.0001, d = 1.02) and satisfaction (Z = −4.113, p <.0001, d = 1.40); reading frequency (Z = −3.594, p <.0001, d = 0.48), reading effectiveness (Z = −10.673, p <.0001, d = 0.68), level of support (Z = −10.410, p <.0001, d = 1.81), and reading efficiency (Z = −10.297, p <.0001, d = 1.83). The intervention enhanced perceived reading and occupational participation in the study’s sample. Further research is needed to replicate and translate results in daily practice.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Lenin C. Grajo, Sharon A. Gutman, Hannah Gelb, Katie Langan, Karen Marx, Devon Paciello, Christie Santana, Ashley Sgandurra, and Krysti Teng",
+    "DOI": "10.1177/1539449219850126",
+    "Keywords": "Occupational therapy; Illiteracy; Homelessness.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1198,247 +958,25 @@
     "ItemStatus": "",
     "Codes":[
       {
-        "AttributeId": 21003,
+        "AttributeId": 506,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 154,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21023,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21076,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21017,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21014,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21052,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21036,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21037,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21067,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21029,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21077,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21064,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21034,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1449,27 +987,27 @@
     "ItemId": 13,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical characteristics predicting progression of covid-19.",
-    "ParentTitle": "The Lancet",
-    "ShortTitle": "Dong Ji, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Effectiveness of a housing support team intervention with a recovery-oriented approach on hospital and emergency department use by homeless people with severe mental illness: a randomised controlled trial.",
+    "ParentTitle": "Epidemiology and Psychiatric Sciences",
+    "ShortTitle": "Tinland, 2020.",
+    "Study Type": "Ensayo clínico",
+    "Study detail": "Ensayo clínico",
     "Year": 2020,
-    "Month": "Feb",
-    "City": "Beijing",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Septiembre",
+    "City": "",
+    "Country": "",
+    "Publisher": "Cambridge",
     "Institution": "Chinese PLA general hospital ",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "29",
+    "Pages": "1-11",
     "Edition": "",
     "Issue": "",
-    "URL": "https://papers.ssrn.com/abstract=3539674",
-    "Abstract": "Background: With the outbreak of COVID-19 from Wuhan, Hubei Province, China since January 2020, there is a tremendous pressure on medical resources. We studied predictive factors of progression to severe disease to facilitate proper allocation of patients to different level of medical facilities. Methods: All COVID-19 patients admitted to our hospital from 20 Jan 2020 were enrolled and follow-up until 16 Feb 2020. The patients were divided into two groups: stable non-severe and progressive to severe diseases. Clinical data was prospectively collected and compared between the two groups. Findings: Forty-nine COVID-19 patients, mean age: 43·6±17·1 years, 63·3% male, were enrolled. Sixteen (32·7%) had at least one comorbidity (hypertension, diabetes mellitus, cardiovascular disease and lung disease). Thirty-four 34 (69·4%) had stable non-severe disease and 15 (30·6%) progressed to severe disease. Univariate analysis showed that comorbidity, age >50, lymphocyte counts <1500 /μL and serum ferritin >400 ng/mL at presentation were predictive of progression to severe diseases. Seventy-three percent of patients (11/15) with three or all four risk factors progressed to severe disease, requiring intubation or intensive unit care as compared with 11·8% (4/34) of subjects with 0-2 risk factors (odds ratio 6·2, 95 % CI: 1·7 to 22·8, p=0·006). None of the subjects with absence of all 4 risk factors progressed to more severe diseases.  Interpretation: Around one-fifth of patients with COVID-19 will progress to severe diseases. Four simple clinical parameters at presentation, namely comorbidity, age, lymphocyte counts and serum ferritin were able to identify a group of patients with low risk of progression. This will greatly facilitate optimal utilization of the very tight medical resources in places with huge patient loads. Funding: Chinese PLA General Hospital and Beijing Municipal Science and Technology Commission.",
-    "TypeName": "Preprint",
-    "Authors": "Dong Ji , Dawei Zhang , Zhu Chen , Zhe Xu, Peng Zhao, Mingjie Zhang, Lunqing Zhang, Gregory Cheng, Yudong Wang, Guang Yang, Hongxia Liu, Boyu Li, Junsheng Ji, George Lau, Enqiang Qin.",
-    "DOI": "10.2139/ssrn.3539674",
-    "Keywords": "COVID-19; prediction; risk factors; severity of disease.",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85067859600&doi=10.1177%2f1539449219850126&origin=inward&txGid=cf5f0e3fe1706a01ef7f97911bfb18ed",
+    "Abstract": "AIMS: Many people who are homeless with severe mental illnesses are high users of healthcare services and social services, without reducing widen health inequalities in this vulnerable population. This study aimed to determine whether independent housing with mental health support teams with a recovery-oriented approach (Housing First (HF) program) for people who are homeless with severe mental disorders improves hospital and emergency department use. METHODS: We did a randomised controlled trial in four French cities: Lille, Marseille, Paris and Toulouse. Participants were eligible if they were 18 years or older, being absolutely homeless or precariously housed, with a diagnosis of schizophrenia (SCZ) or bipolar disorder (BD) and were required to have a high level of needs (moderate-to-severe disability and past hospitalisations over the last 5 years or comorbid alcohol or substance use disorder). Participants were randomly assigned (1:1) to immediate access to independent housing and support from the Assertive Community Treatment team (social worker, nurse, doctor, psychiatrist and peer worker) (HF group) or treatment as usual (TAU group) namely pre-existing dedicated homeless-targeted programs and services. Participants and interviewers were unmasked to assignment. The primary outcomes were the number of emergency department (ED) visits, hospitalisation admissions and inpatient days at 24 months. Secondary outcomes were recovery (Recovery Assessment Scale), quality of life (SQOL and SF36), mental health symptoms, addiction issues, stably housed days and cost savings from a societal perspective. Intention-to-treat analysis was performed. RESULTS: Eligible patients were randomly assigned to the HF group (n = 353) or TAU group (n = 350). No differences were found in the number of hospital admissions (relative risk (95% CI), 0.96 (0.76-1.21)) or ED visits (0.89 (0.66-1.21)). Significantly less inpatient days were found for HF v. TAU (0.62 (0.48-0.80)). The HF group exhibited higher housing stability (difference in slope, 116 (103-128)) and higher scores for sub-dimensions of S-QOL scale (psychological well-being and autonomy). No differences were found for physical composite score SF36, mental health symptoms and rates of alcohol or substance dependence. Mean difference in costs was в‚¬-217 per patient over 24 months in favour of the HF group. HF was associated with cost savings in healthcare costs (RR 0.62(0.48-0.78)) and residential costs (0.07 (0.05-0.11)). CONCLUSION: An immediate access to independent housing and support from a mental health team resulted in decreased inpatient days, higher housing stability and cost savings in homeless persons with SCZ or BP disorders.",
+    "TypeName": "Articulo de revista",
+    "Authors": "A. Tinland, S. Loubière, M. Boucekine, L. Boyer, G. Fond, V. Girard and P. Auquier",
+    "DOI": "10.1017/S2045796020000785",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1477,151 +1015,49 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21003,
+        "AttributeId": 502,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21040,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
+        "AttributeId": 217,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21023,
+        "AttributeId": 207,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21048,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21049,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21064,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1632,27 +1068,27 @@
     "ItemId": 14,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical characteristics of 101 non-survivors hospitalized with covid-19 - a single center, retrospective study",
-    "ParentTitle": "medRvix",
-    "ShortTitle": "Qiao Shi, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Effectiveness of Housing First for Homeless Adults with Mental Illness Who Frequently Use Emergency Departments in a Multisite Randomized Controlled Trial",
+    "ParentTitle": "Administration and policy in mental health and mental health services research",
+    "ShortTitle": "Kerman, 2020",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
-    "Country": "China",
-    "Publisher": "Social Science Research Network",
+    "Month": "Julio",
+    "City": "",
+    "Country": "Canadá",
+    "Publisher": "",
     "Institution": "Renmin Hospital of Wuhan University",
     "Volume": "",
-    "Pages": "",
+    "Pages": "515-525",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.medrxiv.org/content/10.1101/2020.03.04.20031039v4",
-    "Abstract": "Background: The outbreak of COVID-19 has aroused global concerns. We aimed to describe the clinical characteristics of COVID-19 nonsurvivors and analyze possible causes for the rapid disease progress to death. Methods: Patients with confirmed COVID-19 died in Renmin Hospital of Wuhan University before February 15, 2020, were identified. We obtained epidemiological, demographic, and clinical data from electronic medical records. Results: Among 101 nonsurvivors, the median age was 71.0 years (IQR, 59.0-80.0), 59.4% were male, 79.2% had one or more comorbidities including hypertension (58.4%), cardiovascular disease (22.8%), diabetes (20.8%) etc. The most common symptoms were fever (76.2%), cough (58.4%) and dyspnea (54.5%). Respiratory failure (99.0%), acute cardiac injury (52.5%), sepsis (40.6%) and acute kidney injury (23.8%) were most common complications. Compared with patients died after 3 days of admission, patients died within 3 days of admission had significantly higher white blood cell count (10.8 vs 6.7×109 /L, P=0.001) and neutrophil count (8.9 vs 5.5×109 /L, P=0.001), longer prothrombin time (13.2 vs 12.5 s, P=0.040), higher D-dimer concentration (7.64 vs 2.82, P=0.040), higher lactate level (2.9 vs 2.2 mmol/L, P=0.042), lower oxygen saturation (85.0% vs 91.0%, P=0.008), and were more likely to suffer sepsis (52.1% vs 30.2%, P=0.025). Conclusions: Older patients with underlying comorbidities suffering COVID-19 were at high risk of death. Respiratory failure, acute cardiac injury and acute kidney injury played crucial roles in the death of COVID-19 patients. Early development of sepsis was associated with the rapid disease progress to death.",
-    "TypeName": "Preprint",
-    "Authors": "Qiao Shi, Kailiang Zhao, Jia Yu,  Fang Jiang,  Jiarui Feng, Kaiping Zhao, Xiaoyi Zhang,  Xiaoyan Chen, Peng Hu, Yupu Hong, Man Li, Fang Liu, Chen Chen, Weixing Wang.",
-    "DOI": "10.1101/2020.03.04.20031039",
-    "Keywords": "COVID-19; Death; Organ dysfunction; Sepsis; SARS-CoV-2",
+    "Issue": "4",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85077710832&doi=10.1007%2fs10488-020-01008-3&origin=inward&txGid=b3c6a01f3136aeb90a07abea2b554551",
+    "Abstract": "Frequent emergency department (ED) users experiencing homelessness are associated with high costs for healthcare systems yet interventions for this group have been minimally investigated. This study used 24-month data from a multisite randomized controlled trial of Housing First (HF) to examine how effective the intervention is in helping frequent ED users with a mental illness to achieve housing stability, improve behavioural health and functioning, and reduce their ED use. Findings showed that HF is effective in stably housing frequent ED users despite their complex health needs. Reductions in ED use and substance use problems, and improvements in mental health symptoms and community functioning were found for frequent ED users in both the HF and treatment as usual conditions.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Kerman, N. , Aubry, T., Adair, CE , Distasio, J. , Latimer, E. , Somers, J. , Stergiopoulos, V",
+    "DOI": "10.1007 / s10488-020-01008-3",
+    "Keywords": "Homelessness; Mental illness; Emergency departments; Service use; Housing frst",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1660,223 +1096,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21003,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 136,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21023,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21039,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21033,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21027,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21034,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21031,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21036,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -1887,27 +1125,27 @@
     "ItemId": 15,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Dysregulation of immune response in patients with covid-19 in wuhan, china.",
-    "ParentTitle": "Clinical infectious diseases",
-    "ShortTitle": "Chuan Qin, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cross sectional",
+    "Title": "Effectiveness of permanent supportive housing and income  assistance interventions for homeless individuals in  high-income countries: a systematic review",
+    "ParentTitle": "The Lancet Public Health ",
+    "ShortTitle": "Aubry,2020",
+    "Study Type": "Articulo de revista",
+    "Study detail": "Articulo de revista",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Wuhan",
+    "Month": "Toronto-ottawa",
+    "City": "Canadá",
     "Country": "China",
-    "Publisher": "Oxford Academic",
+    "Publisher": "",
     "Institution": "Tongji Hospital",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "5",
+    "Pages": "343-360",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32161940",
-    "Abstract": "Background: In December 2019, coronavirus disease 2019 (COVID-19) emerged in Wuhan and rapidly spread throughout China. Methods: Demographic and clinical data of all confirmed cases with COVID-19 on admission at Tongji Hospital from January 10 to February 12, 2020, were collected and analyzed. The data of laboratory examinations, including peripheral lymphocyte subsets, were analyzed and compared between severe and non-severe patients. Results: Of the 452 patients with COVID-19 recruited, 286 were diagnosed as severe infection. The median age was 58 years and 235 were male. The most common symptoms were fever, shortness of breath, expectoration, fatigue, dry cough and myalgia. Severe cases tend to have lower lymphocytes counts, higher leukocytes counts and neutrophil-lymphocyte-ratio (NLR), as well as lower percentages of monocytes, eosinophils, and basophils. Most of severe cases demonstrated elevated levels of infection-related biomarkers and inflammatory cytokines. The number of T cells significantly decreased, and more hampered in severe cases. Both helper T cells and suppressor T cells in patients with COVID-19 were below normal levels, and lower level of helper T cells in severe group. The percentage of naïve helper T cells increased and memory helper T cells decreased in severe cases. Patients with COVID-19 also have lower level of regulatory T cells, and more obviously damaged in severe cases. Conclusions: The novel coronavirus might mainly act on lymphocytes, especially T lymphocytes. Surveillance of NLR and lymphocyte subsets is helpful in the early screening of critical illness, diagnosis and treatment of COVID-19.",
+    "Issue": "6",
+    "URL": "www.thelancet.com/public-health ",
+    "Abstract": "Background Permanent supportive housing and income assistance are valuable interventions for homeless individuals.  Homelessness can reduce physical and social wellbeing, presenting public health risks for infectious diseases,  disability, and death. We did a systematic review, meta-analysis, and narrative synthesis to investigate the effectiveness  and cost-effectiveness of permanent supportive housing and income interventions on the health and social wellbeing  of individuals who are homeless in high-income countries.",
     "TypeName": "Journal Article",
-    "Authors": "Chuan Qin, Luoqi Zhou, Ziwei Hu, Shuoqi Zhang, Sheng Yang, Yu Tao, MD, Cuihong Xie, Ke Ma, Ke Shang, Wei Wang, Dai-Shi Tian.",
-    "DOI": "10.1093/cid/ciaa248",
-    "Keywords": "COVID-19; Lymphocyte subsets; T lymphocyte; immune response.",
+    "Authors": "Tim Aubry, Gary Bloch, Vanessa Brcic, Ammar Saad, Olivia Magwood, Tasnim Abdalla, Qasem Alkhateeb, Edward Xie, Christine Mathew,  Terry Hannigan, Chris Costello, Kednapa Thavorn, Vicky Stergiopoulos, Peter Tugwell, Kevin Pottie",
+    "DOI": "10.1016/S2468-2667(20)30055-4",
+    "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -1915,169 +1153,61 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 509,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 103,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21004,
+        "AttributeId": 128,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21012,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 209,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 211,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21028,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21041,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21067,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21066,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21068,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
+        "AttributeId": 302,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2088,27 +1218,27 @@
     "ItemId": 16,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "The clinical and chest ct features associated with severe and critical covid-19 pneumonia.",
-    "ParentTitle": "Investigative radiology",
-    "ShortTitle": "Kunhua Li, 2020..",
-    "Study Type": "Observational",
-    "Study detail": "Cross sectional",
+    "Title": "Evolving an evidence-based model for homelessness prevention",
+    "ParentTitle": "Health Soc Care Community.",
+    "ShortTitle": "Oudshoorn, 2020",
+    "Study Type": "Revisión Sistemática",
+    "Study detail": "Revisión Sistemática",
     "Year": 2020,
-    "Month": "Jun",
+    "Month": "Septiembre",
     "City": "",
-    "Country": "China",
-    "Publisher": "Wolters Kluwer",
-    "Institution": "Tongji Hospital",
-    "Volume": "55",
-    "Pages": "327-331",
+    "Country": "",
+    "Publisher": "",
+    "Institution": "",
+    "Volume": "28",
+    "Pages": "1754– 1763.",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32118615",
-    "Abstract": "OBJECTIVE: To investigate the clinical and CT features associated with severe and critical Corona Virus Disease 2019 (COVID-19) pneumonia. MATERIALS AND METHODS: Eighty-three patients with COVID-19 pneumonia including 25 severe/critical cases and 58 ordinary cases were enrolled. The chest CT images and clinical data of them were reviewed and compared. The risk factors associated with disease severity were analyzed. RESULTS: Compared with the ordinary patients, the severe/critical patients had older ages, higher incidence of comorbidities, cough, expectoration, chest pain and dyspnea. The incidences of consolidation, linear opacities, crazy-paving pattern and bronchial wall thickening in severe/critical patients were significantly higher than those of the ordinary patients. Besides, severe/critical patients showed higher incidences of lymph node enlargement, pericardial effusion and pleural effusion than the ordinary patients. The CT scores of severe/critical patients were significantly higher than those of the ordinary patients (P < 0.001). Receiver operating characteristic (ROC) curve showed that the sensitivity and specificity of CT Score were 80.0% and 82.8% respectively for the discrimination of the two types. The clinical factors of age > 50 years old, comorbidities, dyspnea, chest pain, cough, expectoration, decreased lymphocytes and increased inflammation indicators were risk factors for severe/critical COVID-19 pneumonia. CT findings of consolidation, linear opacities, crazy-paving pattern, bronchial wall thickening, high CT scores and extrapulmonary lesions were features of severe/critical COVID-19 pneumonia. CONCLUSIONS: There are significant differences in clinical symptoms, laboratory examinations and CT manifestations between the ordinary patients and the severe/critical patients. Many factors are related to the severity of the disease, which can help clinicians to judge the severity of the patient and evaluate the prognosis.",
-    "TypeName": "Journal Article",
-    "Authors": "Kunhua Li , Jiong Wu, Faqi Wu, Dajing Guo, Linli Chen, Zheng Fang, Chuanming Li.",
-    "DOI": "10.1097/RLI.0000000000000672",
-    "Keywords": "COVID-19; SARS-CoV-2; acute respiratory disease; pneumonia; severity; risk factor.",
+    "Issue": "5",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32323903/",
+    "Abstract": "While some progress has been made in addressing chronic homelessness through supportive models, a comprehensive solution for housing loss must include prevention. The purpose of this article is twofold: to conduct a review of the literature on the domains of the Framework for Homelessness Prevention; and to use literature on the concept of quaternary prevention, preventing the harms of service provision, to theorise an additional domain. The Framework for Homelessness Prevention draws upon theory from public health exploring primary, secondary and tertiary prevention, and also integrates primordial prevention. This leads to a typology of homelessness prevention that incorporates the following five domains: (a) Structural prevention; (b) Systems prevention; (c) Early intervention; (d) Eviction prevention; and (e) Housing stability. By systematically reviewing the literature we build out the evidence-base supporting these domains. The team used research databases, internet searches and retrospective reference list reviews to identify high-quality journal articles on prevention, which were then sorted by level of prevention. Through this process, we evolved our thinking on the Framework in considering that quaternary prevention was not initially included. Therefore, we explored the literature related to quaternary prevention in the context of homelessness and offer a sixth domain for the Framework: Empowerment. Ultimately, a comprehensive Framework for Homelessness Prevention will support communities and governments to more effectively prevent homelessness through upstream approaches.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Abe Oudshoorn, Erin Dej, Colleen Parsons, Stephen Gaetz. ",
+    "DOI": "10.1111/hsc.13000",
+    "Keywords": "empowerment; framework; homelessness; homelessness prevention; housing first; prevention.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2116,139 +1246,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21003,
+        "AttributeId": 508,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 136,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21006,
+        "AttributeId": 212,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21039,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21052,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2259,27 +1275,27 @@
     "ItemId": 17,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Epidemiological, clinical characteristics of cases of sars-cov-2 infection with abnormal imaging findings.",
-    "ParentTitle": "International journal of infectious diseases",
-    "ShortTitle": "Xiaoli Zhang, 2020.",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Examining the Relationships between Cumulative Childhood Adversity and the Risk of Criminal Justice Involvement and Victimization among Homeless Adults with Mental Illnesses after Receiving Housing First Intervention",
+    "ParentTitle": "Canadian Journal of Psychiatry",
+    "ShortTitle": "Edalati, 2020.",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
     "Year": 2020,
-    "Month": "May",
+    "Month": "Junio",
     "City": "",
-    "Country": "China",
-    "Publisher": "Elsevier",
+    "Country": "Canadá",
+    "Publisher": "SAGE Publications Inc.",
     "Institution": "",
-    "Volume": "",
-    "Pages": "81-87",
+    "Volume": "65",
+    "Pages": "409-417",
     "Edition": "",
-    "Issue": "",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32205284",
-    "Abstract": "Purpose: To investigate the epidemiological and clinical characteristics of COVID-19 patients with abnormal imaging findings. Methods: Patients confirmed with SARS-CoV-2 infection in Zhejiang province from January 17 to February 8 who had undergone CT or X-ray were enrolled. Epidemiological and clinical data were analyzed among those with abnormal or normal imaging findings. Results: Excluding 72 patients with normal images, 230 of 573 patients showed abnormalities affecting more than two lung lobes. The median radiographic score was 2.0, and there was a negative correlation between that score and the oxygenation index (ρ = -0.657, P < 0.001). Patients with abnormal images were older (46.65 ± 13.82), with a higher rate of coexisting condition (28.8%), a lower rate of exposure history, and longer time between onset and confirmation (5 days) than non-pneumonia patients (all P < 0.05). A higher rate of fever, cough, expectoration and headache, a lower level of lymphocytes, albumin, and serum sodium levels and a higher total bilirubin, creatine kinase, lactate dehydrogenase, and C-reactive protein levels and a lower oxygenation index were observed in pneumonia patients (all P < 0.05). Muscle ache, shortness of breath, nausea and vomiting, lower lymphocytes levels, and higher serum creatinine and radiographic score at admission were predictive factors for the severe/critical subtype. Conclusion: Patients with abnormal images have more obvious clinical manifestations and laboratory changes. Combing clinical features and radiographic scores can effectively predict severe/critical types.",
-    "TypeName": "Journal Article",
-    "Authors": "Xiaoli Zhang, Huan Cai, Jianhua Hu, Jiangshan Lian, Jueqing Gu, Shanyan Zhang, Chanyuan Ye, Yingfeng Lu, Ciliang Jin, Guodong Yu, Hongyu Jia, Yimin Zhang, Jifang Sheng, Lanjuan Li, Yida Yang.",
-    "DOI": "10.1016/j.ijid.2020.03.040",
-    "Keywords": "Clinical; Epidemiological; Imaging findings; Predictive factors; SRAS-CoV-2.",
+    "Issue": "6",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85078719166&doi=10.1177%2f0706743720902616&origin=inward&txGid=cc6b732e7fb7beae59227ad6712354fe",
+    "Abstract": "Objectives: Exposure to adverse childhood experiences (ACEs) is associated with increased risk of criminal justice involvement and repeated victimization among homeless individuals. This study aimed to (1) examine whether the relationship between cumulative ACE score and odds of experiencing criminal justice involvement and victimization remains significant over time after receiving the Housing First (HF) intervention and (2) investigate the moderating effect of cumulative ACE score on the effectiveness of the HF intervention on the likelihood of experiencing these outcomes among homeless individuals with mental illnesses. Methods: We used longitudinal data over the 2-year follow-up period from the At Home/Chez Soi demonstration project that provided HF versus treatment as usual (TAU) to homeless adults with mental illness in five Canadian cities (N = 1,888). Results: In all 4 follow-up time points, the relationship between cumulative ACE score and both outcomes remained significant, regardless of study arm (HF vs. TAU) and other confounding factors. However, cumulative ACE score did not moderate intervention effects on odds of experiencing either outcome, suggesting that the effectiveness of HF versus TAU, with regard to the odds of being victimized or criminal justice involvement, did not differ by cumulative ACE scores over the course of study. Conclusions: Findings suggest that providing services for homeless individuals with mental illness should be trauma informed and include specialized treatment strategies targeting the experience of ACEs and trauma to improve their treatment outcomes. An intensive approach is required to directly address the problem of criminal justice involvement and victimization in these individuals. © The Author(s) 2020.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Edalati, H., Nicholls, T.L., Schütz, C.G., Somers, J.M., Distasio, J., Aubry, T., Crocker, A.G.",
+    "DOI": "10.1177/0706743720902616",
+    "Keywords": "Adverse childhood Experiences; Crime; Homelessness; Housing First; Mental illness; Victimization",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2287,229 +1303,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21022,
+        "AttributeId": 507,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21012,
+        "AttributeId": 226,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21062,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21036,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21033,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21032,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21010,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21064,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21063,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21055,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2520,26 +1332,26 @@
     "ItemId": 18,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms",
-    "ParentTitle": "Gut",
-    "ShortTitle": "Jin, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Jin, 2020",
+    "Title": "Feasibility and acceptability of an intervention for enhancing reintegration in adults with experience of homelessness",
+    "ParentTitle": "European Journal of Public Health",
+    "ShortTitle": "Sundin, 2020",
+    "Study Type": "Ensayo clínico",
+    "Study detail": "Ensayo clínico",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Zhejiang",
-    "Country": "China",
-    "Publisher": "BMJ Journals",
+    "Month": "Junio",
+    "City": "",
+    "Country": "United Kingdom",
+    "Publisher": "Oxford University Press",
     "Institution": "",
-    "Volume": 69,
-    "Pages": "1002-1009",
+    "Volume": 30,
+    "Pages": "595-601",
     "Edition": "",
-    "Issue": "6",
-    "URL": "https://gut.bmj.com/content/69/6/1002",
-    "Abstract": "Objective The SARS-CoV-2-infected disease (COVID-19) outbreak is a major threat to human beings. Previous studies mainly focused on Wuhan and typical symptoms. We analysed 74 confirmed COVID-19 cases with GI symptoms in the Zhejiang province to determine epidemiological, clinical and virological characteristics.Design COVID-19 hospital patients were admitted in the Zhejiang province from 17 January 2020 to 8 February 2020. Epidemiological, demographic, clinical, laboratory, management and outcome data of patients with GI symptoms were analysed using multivariate analysis for risk of severe/critical type. Bioinformatics were used to analyse features of SARS-CoV-2 from Zhejiang province.Results Among enrolled 651 patients, 74 (11.4%) presented with at least one GI symptom (nausea, vomiting or diarrhoea), average age of 46.14 years, 4-day incubation period and 10.8% had pre-existing liver disease. Of patients with COVID-19 with GI symptoms, 17 (22.97%) and 23 (31.08%) had severe/critical types and family clustering, respectively, significantly higher than those without GI symptoms, 47 (8.14%) and 118 (20.45%). Of patients with COVID-19 with GI symptoms, 29 (39.19%), 23 (31.08%), 8 (10.81%) and 16 (21.62%) had significantly higher rates of fever &amp;gt;38.5¬∞C, fatigue, shortness of breath and headache, respectively. Low-dose glucocorticoids and antibiotics were administered to 14.86% and 41.89% of patients, respectively. Sputum production and increased lactate dehydrogenase/glucose levels were risk factors for severe/critical type. Bioinformatics showed sequence mutation of SARS-CoV-2 with m6A methylation and changed binding capacity with ACE2.Conclusion: We report COVID-19 cases with GI symptoms with novel features outside Wuhan. Attention to patients with COVID-19 with non-classic symptoms should increase to protect health providers.",
-    "TypeName": "Journal Article",
-    "Authors": "Xi Jin, Jiang-Shan Lian, , Jian-Hua Hu , Jianguo  Gao, Lin  Zheng, Yi-Min Zhang, Shao-Rui  Hao, Hong-Yu Jia, Huan  Cai, Xiao-Li  Zhang, , Guo-Dong Yu,  Kai-Jin Xu, Xiao-Yan Wang, Xiao-Yan and Gu, Jue-Qing and Zhang, Shan-Yan and Ye, Chan-Yuan and Jin, Ci-Liang and Lu, Ying-Feng and Yu, Xia and Yu, Xiao-Peng and Huang, Jian-Rong and Xu, Kang-Li and Ni, Qin and Yu, Cheng-Bo and Zhu, Biao and Li, Yong-Tao and Liu, Jun and Zhao, Hong and Zhang, Xuan and Yu, Liang and Guo, Yong-Zheng and Su, Jun-Wei and Tao, Jing-Jing and Lang, Guan-Jing and Wu, Xiao-Xin and Wu, Wen-Rui and Qv, Ting-Ting and Xiang, Dai-Rong and Yi, Ping and Shi, Ding and Chen, Yanfei and Ren, Yue and Qiu, Yun-Qing and Li, Lan-Juan and Sheng, Jifang and Yang, Yida",
-    "DOI": "10.1136/gutjnl-2020-320926",
+    "Issue": "3",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85086525443&doi=10.1093%2feurpub%2fckz202&origin=inward&txGid=931fbb46dd6fe1c73ae51fa47685506a",
+    "Abstract": "Background: Service centres for homeless adults are potential settings for implementation of reintegration interventions. This study aimed to evaluate (i) the acceptability of a group-based programme among individuals from the broad population of homeless people and (ii) if a future study of its feasibility and acceptability for re-housed homeless people is warranted. Methods: Recruiting participants and intervention facilitators from partnering service centres was thought to improve recruitment and retention, cost-effectiveness and social interactions compared to professional-led interventions. Seven adults with experience of homelessness (three females, four males, mean age 39 years, range 18-63) were recruited to participate in the intervention. The research protocol comprised completion pre/post of scales [Recovering Quality of Life questionnaire; Working Alliance Inventory-short form revised (WAI-SR)] and focus groups, and WAI-SR and focus groups after sessions 3 and 6. Results: The intervention and research protocols were feasible, with all participants engaging in all sessions, completing all scales and attending all focus groups. The quantitative data demonstrated the feasibility of obtaining practically useful measures of relevant outcomes. In the four focus groups, the intervention received very favourable feedback. Conclusions: This study demonstrated initial feasibility and acceptability of an intervention that places minimal burden on infrastructure and promotes user autonomy. This is an important advance as there is increasing recognition that the challenge of reintegration is as much a psychological and social problem as a housing problem. If effective, this style of intervention may serve as a template for future interventions with similar populations. © 2019 The Author(s) 2019. Published by Oxford University Press on behalf of the European Public Health Association. All rights reserved.",
+    "TypeName": "Articulo de revista",
+    "Authors": "undin, E.C., Mrowiec, A., Bowpitt, G., Boatman, C.A., Williams, A.J., Sarkar, M., Baguley, T.S.",
+    "DOI": "10.1093/eurpub/ckz203",
     "Keywords": "",
     "StandardNumber": "",
     "Availability": "",
@@ -2548,151 +1360,43 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21045,
+        "AttributeId": 502,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21049,
+        "AttributeId": 118,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21056,
+        "AttributeId": 101,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21063,
+        "AttributeId": 201,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21002,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21003,
+        "AttributeId": 206,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21013,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21030,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21020,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21069,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21070,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11103,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11105,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11106,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2703,27 +1407,27 @@
     "ItemId": 19,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Comorbidity and its impact on 1590 patients with Covid-19 in China: A nationwide analysis.",
-    "ParentTitle": "The European respiratory journal",
-    "ShortTitle": "Guan. 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cohort",
+    "Title": "Health‑related quality of life and related factors among chronically  homeless adults living in diferent permanent supportive housing  models: a cross‑sectional study",
+    "ParentTitle": "Quality of Life Research",
+    "ShortTitle": "Spector,2020.",
+    "Study Type": "Estudio de metodos mixtos",
+    "Study detail": "Estudio de metodos mixtos",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "",
-    "Country": "China",
-    "Publisher": "European respiratory Journal",
+    "Month": "Marzo",
+    "City": "Chicago",
+    "Country": "USA",
+    "Publisher": "Springer",
     "Institution": "",
-    "Volume": 55,
-    "Pages": "",
+    "Volume": 29,
+    "Pages": "1-11",
     "Edition": "",
-    "Issue": "5",
-    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/32217650",
-    "Abstract": "Background: The coronavirus disease 2019 (Covid-19) outbreak is evolving rapidly worldwide. Objetive: To evaluate the risk of serious adverse outcomes in patients with coronavirus disease 2019 (Covid-19) by stratifying the comorbidity status. Methods: We analysed the data from 1590 laboratory-confirmed hospitalised patients 575 hospitals in 31 province/autonomous regions/provincial municipalities across mainland China between December 11th, 2019 and January 31st, 2020. We analyse the composite endpoints, which consisted of admission to intensive care unit, or invasive ventilation, or death. The risk of reaching to the composite endpoints was compared according to the presence and number of comorbidities. Results: The mean age was 48.9‚ÄÖyears. 686 patients (42.7%) were females. Severe cases accounted for 16.0% of the study population. 131 (8.2%) patients reached to the composite endpoints. 399 (25.1%) reported having at least one comorbidity. The most prevalent comorbidity was hypertension (16.9%), followed by diabetes (8.2%). 130 (8.2%) patients reported having two or more comorbidities. After adjusting for age and smoking status, COPD [hazards ratio (HR) 2.681, 95% confidence interval (95%CI) 1.424-5.048], diabetes (HR 1.59, 95%CI 1.03-2.45), hypertension (HR 1.58, 95%CI 1.07-2.32) and malignancy (HR 3.50, 95%CI 1.60-7.64) were risk factors of reaching to the composite endpoints. The HR was 1.79 (95%CI 1.16-2.77) among patients with at least one comorbidity and 2.59 (95%CI 1.61-4.17) among patients with two or more comorbidities. Conclusion: Among laboratory-confirmed cases of Covid-19, patients with any comorbidity yielded poorer clinical outcomes than those without. A greater number of comorbidities also correlated with poorer clinical outcomes.",
-    "TypeName": "Journal Article",
-    "Authors": "Wei-Jie  Guan,  Wen-Hua  Liang,  Yi Zhao,  Heng-Rui  Liang,  Zi-Sheng  Chen,  Yi-Min  Li, Xiao-Qing  Liu, Ru-Chong  Chen, Chun-Li Tang,  Tao Wang, Chun-Quan Ou, Li Li,  Ping-Yan  Chen, Ling Sang, Wei Wang, Jian-Fu  Li, Cai-Chen  Li. and Hu, Ya-Hua and Peng, Peng and Wang, Jian-Ming and Liu, Ji-Yang and Chen, Zhong and Li, Gang and Zheng, Zhi-Jian and Qiu, Shao-Qin and Luo, Jie and Ye, Chang-Jiang and Zhu, Shao-Yong and Cheng, Lin-Ling and Ye, Feng and Li, Shi-Yue and Zheng, Jin-Ping and Zhang, Nuo-Fu and Zhong, Nan-Shan and He, Jian-Xing and China Medical Treatment Expert Group for Covid-19, [Collective Name]",
-    "DOI": "10.1183/13993003.00547-2020",
-    "Keywords": "Mortality; Cardiovascular disease; Chronic obstructive pulmonary disease; Diabetes; Hypertension; Malignancy.",
+    "Issue": "8",
+    "URL": "https://sci-hub.se/",
+    "Abstract": "Purpose Permanent supportive housing (PSH) is an efective intervention to improve residential stability and reduce the utilization of costlier healthcare services for the chronically homeless. However, there has been little focus on health-related  quality of life (HRQL) once they enter PSH, and the potential infuence of other factors including the PSH model. Study  results can shed light on the HRQL of the PSH population and inform strategies to improve PSH program efectiveness in  this area.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Antoinette L. Spector, Katherine G Quinn, Timothy L.McAulife, Wayne DiFranceisco, Arturo Bendixen, Julia Dickson‑Gomez.",
+    "DOI": "10.1007/s11136-020-02482-w",
+    "Keywords": "Health-related quality of life, Supportive housing, Homelessness, Well-being",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2731,181 +1435,43 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21006,
+        "AttributeId": 504,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 102,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 202,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21019,
+        "AttributeId": 213,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21021,
+        "AttributeId": 214,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21009,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21020,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21022,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21043,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21041,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11103,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11105,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 303,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -2916,27 +1482,27 @@
     "ItemId": 20,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Elevated serum IgM levels indicate poor outcome in patients with coronavirus disease 2019 pneumonia: A retrospective case-control study",
-    "ParentTitle": "",
-    "ShortTitle": "Wang, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases and controls",
+    "Title": "Impact of Peer Specialist Services on Residential Stability and Behavioral Health Status Among Formerly Homeless Veterans With Cooccurring Mental Health and Substance Use Conditions.",
+    "ParentTitle": "Medical Care",
+    "ShortTitle": "Ellison, 2020.",
+    "Study Type": "Estudio cualitativo",
+    "Study detail": "Estudio cualitativo",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Shangai",
-    "Country": "China",
-    "Publisher": "The lancet",
+    "Month": "Abril",
+    "City": "",
+    "Country": "Usa",
+    "Publisher": "Lippincott Williams and Wilkins",
     "Institution": "",
-    "Volume": "",
-    "Pages": "",
+    "Volume": "58",
+    "Pages": "307 - 313",
     "Edition": "",
     "Issue": "6",
-    "URL": "https://papers.ssrn.com/abstract=3557987",
-    "Abstract": "Background: The coronavirus disease 2019 (COVID-19) pneumonia outbreak began in Wuhan and pandemics tend to occur. Although SARS-CoV-2-specific immunoglobulins have been detected in serum of COVID-19 patients, their dynamics and association with outcomes have not been characterized. Methods: A total of 116 hospitalized patients with confirmed COVID-19 pneumonia and SARS-CoV-2-specific immunoglobulins tested in Tongji Hospital were retrospectively investigated. Clinical, laboratory, radiological characteristics and outcomes data were compared between mild-moderate group and died group. Further, a paired case-control study was conducted where each dead case was matched to three mild-moderate patients of similar age. Findings: Among 116 subjects included, 101 mild-moderate patients survived and 15 cases died. SARS-CoV-2-specific IgM levels peaked in forth week after onset of COVID-19 pneumonia, while serum IgG levels increased over 8 weeks. Serum IgM levels were higher in dead patients than mild-moderate patients (p =0.024), but not IgG. Serum IgM levels were negatively correlated with clinical outcome, eosinophil count and albumin levels (r = -0.269, P=0.003; r = -0.188, P = 0.043; and r = -0.198, P=0.033, resp.). The area under the ROC curve (AUC) for IgM antibody was 0.681 (95% CI: 0.517-0.845, P = 0.024). In case-control study paired by age, serum IgM was higher in dead patients than mild-moderate patients (p =0.019), positively correlated with leucocyte count (r = 0.260, P = 0.045), while negatively correlated with clinical outcome and albumin levels (r = -0.337, P=0.008; r = -0.265, P = 0.041). AUC for IgM levels was 0.704 (95% CI: 0.534-0.873, P = 0.019). Interpretation: These results indicate that dynamics of SARS-CoV-2 specific IgM and IgG antibodies was similar with that of SARS-CoV, while elevated serum IgM levels indicate poor outcome in patients with COVID-19 pneumonia.Funding Statement: This work was supported by National Natural Science Foundation of China (No.81702989).Declaration of Interests: The authors declare no conflict of interest.Ethics Approval Statement: This study was reviewed and approved by the Medical Ethical Committee of Tongji Hospital of Huazhong University of Science and Technology (IRB ID: TJIRB20200343).",
-    "TypeName": "Preprint",
-    "Authors": "Zhihua Wang, Huijun Li, Jingjing Li, Chunguang Yang, Xiaolin Guo, Zhiquan Hu, Zhiqiang Chen, Shaogang Wang, Jihong Liu.",
-    "DOI": "10.1101/2020.03.22.20041285",
-    "Keywords": "2019-nCoV; SARS-CoV-2; COVID-19; Coronavirus; Immunoglobulin.",
+    "URL": "https://www.scopus.com/record/display.uri?eid=2-s2.0-85078055309&doi=10.1097%2fMLR.0000000000001284&origin=inward&txGid=49a16cd284c18afb79a19df91b0ed324",
+    "Abstract": "Objectives: This study tested the impacts of peer specialists on housing stability, substance abuse, and mental health status for previously homeless Veterans with cooccurring mental health issues and substance abuse. Methods: Veterans living in the US Housing and Urban Development —Veterans Administration Supported Housing (HUD-VASH) program were randomized to peer specialist services that worked independently from HUD-VASH case managers (ie, not part of a case manager/peer specialist dyad) and to treatment as usual that included case management services. Peer specialist services were communitybased, using a structured curriculum for recovery with up to 40 weekly sessions. Standardized self-report measures were collected at 3 timepoints. The intent-to-treat analysis tested treatment effects using a generalized additive mixed-effects model that allows for different nonlinear relationships between outcomes and time for treatment and control groups. A secondary analysis was conducted for Veterans who received services from peer specialists that were adherent to the intervention protocol.  Results: Treated Veterans did not spend more days in housing compared with control Veterans during any part of the study at the 95% level of confidence. Veterans assigned to protocol adherent peer specialists showed greater housing stability between about 400 and 800 days postbaseline. Neither analysis detected significant effects for the behavioral health measures. Conclusions: Some impact of peer specialist services was found for housing stability but not for behavioral health problems. Future studies may need more sensitive measures for early steps in recovery and may need longer time frames to effectively impact this highly challenged population.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Marsha L. Ellison, Russell K. Schutt, Lo-Hua Yuan, Chantele Mitchell-Miland, Mark E. Glickman, Sharon McCarthy, David Smelson, Mark R. Schultz, Matthew Chinman.",
+    "DOI": "10.1097/MLR.0000000000001284",
+    "Keywords": "Veteran; Homelessness; Peer support",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -2944,181 +1510,25 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21006,
+        "AttributeId": 503,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21007,
+        "AttributeId": 111,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21005,
+        "AttributeId": 210,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21019,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21020,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21012,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21004,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21022,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21047,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21043,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21041,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21053,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500001,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11103,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11102,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11105,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
@@ -3129,27 +1539,27 @@
     "ItemId": 21,
     "DateCreated": "2018-02-19T09:04:35.75",
     "DateEdited": "2018-02-19T09:04:35.75",
-    "Title": "Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study",
-    "ParentTitle": "BMJ",
-    "ShortTitle": "Chen, 2020",
-    "Study Type": "Observational",
-    "Study detail": "Cases series",
+    "Title": "Impact on the use and cost of other services following intervention by an inpatient pathway homelessness team in an acute mental health hospital.",
+    "ParentTitle": "Journal of mental health (Abingdon, England)",
+    "ShortTitle": "Khan, 2020.",
+    "Study Type": "Estudio de metodos mixtos",
+    "Study detail": "Estudio de metodos mixtos",
     "Year": 2020,
-    "Month": "Mar",
-    "City": "Shangai",
-    "Country": "China",
-    "Publisher": "BMJ Journals",
+    "Month": "",
+    "City": "",
+    "Country": "",
+    "Publisher": "",
     "Institution": "",
     "Volume": "368",
     "Pages": "",
     "Edition": "",
     "Issue": "6",
-    "URL": "http://www.bmj.com/content/368/bmj.m1091.abstract",
-    "Abstract": "Objective: To delineate the clinical characteristics of patients with coronavirus disease 2019 (covid-19) who died.Design Retrospective case series.Setting Tongji Hospital in Wuhan, China.Participants Among a cohort of 799 patients, 113 who died and 161 who recovered with a diagnosis of covid-19 were analysed. Data were collected until 28 February 2020.Main outcome measures Clinical characteristics and laboratory findings were obtained from electronic medical records with data collection forms.Results The median age of deceased patients (68 years) was significantly older than recovered patients (51 years). Male sex was more predominant in deceased patients (83; 73%) than in recovered patients (88; 55%). Chronic hypertension and other cardiovascular comorbidities were more frequent among deceased patients (54 (48%) and 16 (14%)) than recovered patients (39 (24%) and 7 (4%)). Dyspnoea, chest tightness, and disorder of consciousness were more common in deceased patients (70 (62%), 55 (49%), and 25 (22%)) than in recovered patients (50 (31%), 48 (30%), and 1 (1%)). The median time from disease onset to death in deceased patients was 16 (interquartile range 12.0-20.0) days. Leukocytosis was present in 56 (50%) patients who died and 6 (4%) who recovered, and lymphopenia was present in 103 (91%) and 76 (47%) respectively. Concentrations of alanine aminotransferase, aspartate aminotransferase, creatinine, creatine kinase, lactate dehydrogenase, cardiac troponin I, N-terminal pro-brain natriuretic peptide, and D-dimer were markedly higher in deceased patients than in recovered patients. Common complications observed more frequently in deceased patients included acute respiratory distress syndrome (113; 100%), type I respiratory failure (18/35; 51%), sepsis (113; 100%), acute cardiac injury (72/94; 77%), heart failure (41/83; 49%), alkalosis (14/35; 40%), hyperkalaemia (42; 37%), acute kidney injury (28; 25%), and hypoxic encephalopathy (23; 20%). Patients with cardiovascular comorbidity were more likely to develop cardiac complications. Regardless of history of cardiovascular disease, acute cardiac injury and heart failure were more common in deceased patients.Conclusion Severe acute respiratory syndrome coronavirus 2 infection can cause both pulmonary and systemic inflammation, leading to multi-organ dysfunction in patients at high risk. Acute respiratory distress syndrome and respiratory failure, sepsis, acute cardiac injury, and heart failure were the most common critical complications during exacerbation of covid-19.",
-    "TypeName": "Journal Article",
-    "Authors": "Tao Chen,Di Wu, Huilong Chen, Weiming Yan, Danlei Yang, Guang Chen, Ke Ma, Dong Xu, Haijing Yu, Hongwu Wang, Tao Wang, Wei Guo, Jia Chen, Chen Ding, Xiaoping Zhang, Jiaquan Huang, Meifang Han, Shusheng Li, Xiaoping Luo, Jianping Zhao, Qin Ning.",
-    "DOI": "10.1136/bmj.m1091",
-    "Keywords": "2019-nCoV; SARS-CoV-2; COVID-19; Coronavirus; Immunoglobulin.",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32336180/",
+    "Abstract": "Background: Mental illness in people experiencing homelessness is common and a key reason for attendance at emergency departments and admission to hospital.Aims: This paper describes how the KHP Pathway homeless team impacted use and cost of health and wider services. The Pathway model had never been adopted by a mental health hospital, and there had never been an economic analysis to evaluate service use before and after intervention.Method: Service use was measured using an adapted version of the Client Service Receipt Inventory (CSRI) with a simple before and after design at admission, 3 months and 6 months after discharge from hospital.Results: During the first 3-month follow-up, over half the participants saw a GP, with an increase in the proportion seeing a psychiatrist, social worker and a mental health nurse. Attendance at emergency departments was substantially lower than at baseline. The mean total service cost was £818 at base line and £414 at 3 months.Conclusions: The adapted version of the CSRI demonstrates that patients seen by the Pathway Homelessness Team were supported to use community and scheduled health and care services. The service overcomes barriers, frequently experienced by people experiencing homelessness, in accessing support and community healthcare in the UK.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Zana Khan, Paul McCrone , Sophie Koehne",
+    "DOI": "10.1080 / 09638237.2020.1755017",
+    "Keywords": "Homeless; Inclusion Health Groups; exclusion; in-patient; inclusion health; pathway; service evaluation; service use.",
     "StandardNumber": "",
     "Availability": "",
     "OldItemId": "",
@@ -3157,235 +1567,31 @@
     "ItemStatus": "",
     "Codes": [
       {
-        "AttributeId": 21002,
+        "AttributeId": 504,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21022,
+        "AttributeId": 136,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21076,
+        "AttributeId": 209,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21030,
+        "AttributeId": 212,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
       },
       {
-        "AttributeId": 21046,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21048,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21044,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21045,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21050,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21049,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21051,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21042,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21038,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21059,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21064,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21066,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21007,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21067,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21006,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21008,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21011,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21021,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21018,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21019,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21005,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21009,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21017,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21024,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21015,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21052,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21003,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21054,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21060,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21058,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21056,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 21061,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 500002,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11104,
-        "AdditionalText": "",
-        "ArmId": 0,
-        "ArmTitle": ""
-      },
-      {
-        "AttributeId": 11101,
+        "AttributeId": 301,
         "AdditionalText": "",
         "ArmId": 0,
         "ArmTitle": ""
