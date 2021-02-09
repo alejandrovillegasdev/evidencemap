@@ -976,12 +976,12 @@ $(window).on('load', function () {
             const $filters = $('.settings');
   
             let settingsHtml = '<div class="title clearfix">' +
-              '<span>Settings</span>' +
-              '<a class="btnSettings right" id="close">close</a>' +
-              '<a class="btnSettings left disabled" id="update">update</a>' +
+              '<span>Filtros</span>' +
+              '<a class="btnSettings right" id="close">X</a>' +
+              '<a class="btnSettings left disabled" id="update">cargar</a>' +
               '</div>';
             settingsHtml += createFiltersPanel();
-            settingsHtml += createStylesPanel();
+            // settingsHtml += createStylesPanel();
   
             $filters.html(settingsHtml);
   
@@ -1759,12 +1759,12 @@ $(window).on('load', function () {
             const topHeadCssWidth = bodyWidth;
             const bodyCssWidth = bodyWidth - 1;
             let sideHeadCssHeight = $window.height() - $topHead.height() - $footer.height() - $menu.height() - 100;
-            let bodyCssHeight = sideHeadCssHeight - 180;
+            let bodyCssHeight = sideHeadCssHeight - 200;
   
             $header = $('.header')
   
             if ($header.length > 0 && $header.css('display') !== 'none') {
-              sideHeadCssHeight = sideHeadCssHeight - $header.height() - 180;
+              sideHeadCssHeight = sideHeadCssHeight - $header.height() - 280;
               bodyCssHeight = sideHeadCssHeight;
             }
   
@@ -1807,7 +1807,7 @@ $(window).on('load', function () {
           }
   
           // Call all the methods to initialize the page.
-          // createSettingsPanel();
+          createSettingsPanel();
           buildTable();
           adjustTable();
           buildLegend();
