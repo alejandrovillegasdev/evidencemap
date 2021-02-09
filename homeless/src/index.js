@@ -48,7 +48,7 @@ $(window).on('load', function () {
                 "AttributeId": 510,
                 "AttributeSetDescription": "",
                 "AttributeType": "Selectable (show checkbox)",
-                "AttributeName": "Revisión Sistemática con Metaanálisis",
+                "AttributeName": "Revisión Sistemática",
                 "AttributeDescription": ""
             },
             "color": "#FF5333"

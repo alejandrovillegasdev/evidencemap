@@ -5,7 +5,7 @@
         "span": 32,
         "isColumn": true,
         "id": 2000,
-        "title": "Outcome "
+        "title": "Desenlace "
       }
     ],
     [
@@ -239,7 +239,7 @@
         "span": 12,
         "isColumn": false,
         "id": 1000,
-        "title": "Intervention"
+        "title": "Intervención"
       },
       {
         "span": 3,
@@ -615,7 +615,7 @@
         "span": 1,
         "isColumn": false,
         "id": 142,
-        "title": "prevención, detección, tratamiento y seguimiento de enferemedades oncologicas "
+        "title": "Prevención, detección, tratamiento y seguimiento de enferemedades oncologicas "
       }
     ],
     [
@@ -623,7 +623,7 @@
         "span": 1,
         "isColumn": false,
         "id": 143,
-        "title": "prevención, detección, tratamiento y seguimiento de VIH-SIDA"
+        "title": "Prevención, detección, tratamiento y seguimiento de VIH-SIDA"
       }
     ],
     [
@@ -631,7 +631,7 @@
         "span": 1,
         "isColumn": false,
         "id": 144,
-        "title": "prevención, detección, tratamiento y seguimiento de Hepatitis"
+        "title": "Prevención, detección, tratamiento y seguimiento de Hepatitis"
       }
     ],
     [
@@ -639,7 +639,7 @@
         "span": 1,
         "isColumn": false,
         "id": 145,
-        "title": "prevención, detección, tratamiento y seguimiento de tuberculosis "
+        "title": "Prevención, detección, tratamiento y seguimiento de tuberculosis "
       }
     ],
     [
@@ -785,7 +785,7 @@
       }
     ]
   ],
-  "totalColBreadth": 25,
+  "totalColBreadth": 30,
   "totalColDepth": 3,
   "totalRowBreadth": 60,
   "totalRowDepth": 1

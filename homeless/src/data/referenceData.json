@@ -3187,5 +3187,149 @@
         "ArmTitle": ""
       }
     ]
+  },
+  {
+    "ItemId": 46,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Management Strategies for People Experiencing Sheltered Homelessness during the COVID-19 Pandemic: Clinical Outcomes and Costs",
+    "ParentTitle": "National library of medicine ",
+    "ShortTitle": "Freedberg, 2020",
+    "Study Type": "Experimento controlado aleatorizado",
+    "Study detail": "Experimento controlado aleatorizado",
+    "Year": 2020,
+    "Month": "Agosto",
+    "City": "Boston",
+    "Country": "Estados Unidos",
+    "Publisher": "Wiley",
+    "Institution": "",
+    "Volume": "",
+    "Pages": "",
+    "Edition": "",
+    "Issue": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32817967/",
+    "Abstract": "Approximately 356,000 people stay in homeless shelters nightly in the US. These individuals are at high risk for COVID-19.",
+    "TypeName": "Pre-impreso",
+    "Authors": "Kenneth A Freedberg , Travis P. Baggett , Justine A Scott , Mylinh H Le , Fatma M Shebl , Christopher Panella , Elena Losina , Clare Flanagan , Jessie Gaeta , Anne M Neilan , Emily P Hyle , Amir M Mohareb , Krishna P Reddy , Mark P Siedner , Guy Harling , Milton C Weinstein , Andrea Ciaranello , Pooyan Kazemian",
+    "DOI": "10.1101/2020.08.07.20170498",
+    "Keywords": "Psychological empowerment, Homeless adults, Homeless intervention, Empowering settings",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 506,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 122,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 206,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
+  },
+  {
+    "ItemId": 47,
+    "DateCreated": "2018-02-19T09:04:35.75",
+    "DateEdited": "2018-02-19T09:04:35.75",
+    "Title": "Specialized assertive community treatment intervention for homeless youth with first episode psychosis and substance use disorder: A 2-year follow-up study",
+    "ParentTitle": "National library of medicine ",
+    "ShortTitle": "Gauthier, 2020.",
+    "Study Type": "Observacional",
+    "Study detail": "Observacional",
+    "Year": 2020,
+    "Month": "Abril",
+    "City": "Montreal ",
+    "Country": "Canadá ",
+    "Publisher": "Wiley",
+    "Institution": "",
+    "Volume": "66",
+    "Pages": "144-165",
+    "Edition": "",
+    "Issue": "6",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/31274239/",
+    "Abstract": "Aim: No previous study has investigated interventions for homeless youth suffering from first episode psychosis and comorbid substance use disorder (HYPS). An intensive assertive community intervention team (IACIT) offering outreach interventions, housing support as well as integrated care for early psychosis and substance use disorder (SUD) was created in 2012 at the Centre Hospitalier de l'Université de Montréal (CHUM). To explore the impact of the addition of an IACIT to an early intervention for psychosis service (EIS) on housing stability, functional and symptomatic outcomes and mental health service use.",
+    "TypeName": "Articulo de revista",
+    "Authors": "Virginie Doré-Gauthier, Jean-Philippe Miron, Dider Jutras-Aswad, Clairélaine Ouellet-Plamondon, Amal Abdel-Baki ",
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/31274239/",
+    "Keywords": "Assertive community treatment; Early intervention; First episode psychosis; Homelessness; Substance use disorder",
+    "StandardNumber": "",
+    "Availability": "",
+    "OldItemId": "",
+    "ParentAuthors": "",
+    "ItemStatus": "",
+    "Codes": [
+      {
+        "AttributeId": 507,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 101,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 135,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 116,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 223,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 219,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 202,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 301,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      },
+      {
+        "AttributeId": 402,
+        "AdditionalText": "",
+        "ArmId": 0,
+        "ArmTitle": ""
+      }
+    ]
   }
 ]
