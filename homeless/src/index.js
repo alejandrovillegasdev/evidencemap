@@ -1759,7 +1759,7 @@ $(window).on('load', function () {
             const topHeadCssWidth = bodyWidth;
             const bodyCssWidth = bodyWidth - 1;
             let sideHeadCssHeight = $window.height() - $topHead.height() - $footer.height() - $menu.height() - 100;
-            let bodyCssHeight = sideHeadCssHeight - 220;
+            let bodyCssHeight = sideHeadCssHeight - 195;
   
             $header = $('.header')
   

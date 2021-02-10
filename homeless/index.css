@@ -88,6 +88,7 @@ header {
 	grid-template-columns: 550px 1fr;
 	align-items: center;
 	position: relative;
+	height: 100px;
 }
 
 .header-container img {
