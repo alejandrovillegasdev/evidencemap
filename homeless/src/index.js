@@ -329,7 +329,7 @@ $(window).on('load', function () {
             let tableRowHtml = '';
             const cols = csvData.rows[csvData.totalColDepth - 1]
   
-            for (let i = csvData.totalColDepth +1; i < csvData.rows.length; i++) {
+            for (let i = csvData.totalColDepth; i < csvData.rows.length; i++) {
               const row = csvData.rows[i];
               tableRowHtml += '<tr>';
   
