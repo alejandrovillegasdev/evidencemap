@@ -1,7 +1,361 @@
-[
+[{
+  "id": 600,
+  "label": "Intervenciones",
+  "checked": false,
+  "children": [
+    {
+      "id": 101,
+      "label": "Housing First\t\t\t",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 102,
+      "label": "Programas de soporte permanente de alojamiento",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 103,
+      "label": "Alojamiento temporal",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 104,
+      "label": "Cigarrillos electrónicos",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 105,
+      "label": "Monitoreo de monóxido de carbono (CO)",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 106,
+      "label": "Intervenciones farmacologicas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 107,
+      "label": "Terapia de remplazo transdermico de nicotina",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 108,
+      "label": "Intervenciones brindadas por clínicas para dejar de fumar",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 109,
+      "label": "Programas de acompañamiento interdisciplinario",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 110,
+      "label": "Grupos de apoyo (AA, NA, JA)",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 111,
+      "label": "Intervenciones de base comunitaria",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 112,
+      "label": "Comunidades terapeuticas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 113,
+      "label": "Terapias alternativas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 114,
+      "label": "Interrevenciones farmacologicas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 115,
+      "label": "Visitas domiciliarias",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 116,
+      "label": "Estrategias de reducción de daño",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 117,
+      "label": "Intervenciones motivacionales",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 118,
+      "label": "Intervenciones de autoconocimiento",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 119,
+      "label": "Intervenciones psicoeducativas ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 120,
+      "label": "Intervenciones de manejo del estrés",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 121,
+      "label": "Tecnicas aplicadas (relajación, entrenamiento en resolucion de conflictos)",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 122,
+      "label": "Manejo de contingencia",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 123,
+      "label": "Manejo de caso ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 124,
+      "label": "Terapias alternativas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 125,
+      "label": "Programas de apoyo a padres",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 126,
+      "label": "Habilidades para la vida",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 127,
+      "label": "Actividad física de base comunitaria",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 128,
+      "label": "Promoción de comportamientos saludables",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 129,
+      "label": "Intervención basada en mensajes de texto \t\t\t\t\t",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 130,
+      "label": "Alertas computarizadas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 131,
+      "label": "Intervención basada en redes sociales\t\t\t\t",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 132,
+      "label": "Intervenciones basadas en telefonía\t\t\t\t",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 133,
+      "label": "Programas de atención ambulatoria",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 134,
+      "label": "Programas de atencion en calle/ moviles",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 135,
+      "label": "Programas de atención de base comunitaria",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 136,
+      "label": "Intervenciones hospitalarias ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 137,
+      "label": "Intervenciones para disminuir las consultas a urgencias ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 138,
+      "label": "Educación en salud",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 139,
+      "label": "Intervenciones no farmacologicas para disminución de malestar",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 140,
+      "label": "Intervenciones farmacologicas ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 141,
+      "label": "Intervenciones para garantizar aseguramiento en salud",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 142,
+      "label": "Prevención, detección, tratamiento y seguimiento de enferemedades oncologicas ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 143,
+      "label": "Prevención, detección, tratamiento y seguimiento de VIH-SIDA",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 144,
+      "label": "Prevención, detección, tratamiento y seguimiento de Hepatitis",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 145,
+      "label": "Prevención, detección, tratamiento y seguimiento de tuberculosis ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 146,
+      "label": "Supervisión nutricional",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 147,
+      "label": "Comedores comunitarios",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 148,
+      "label": "Dieta de base en refugio",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 150,
+      "label": "Campañas educativas ",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 151,
+      "label": "Clínica odontológica de base comunitaria",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 152,
+      "label": "Repatriación",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 153,
+      "label": "Subsidios",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 154,
+      "label": "Entrenamiento en habilidades para el trabajo condicionadas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 155,
+      "label": "Entrenamiento en habilidades para el trabajo no condicionadas",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 156,
+      "label": "Empleo",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 157,
+      "label": "Terapia ocupacional",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 158,
+      "label": "Aislamiento",
+      "checked": false,
+      "children": []
+    },
+    {
+      "id": 159,
+      "label": "Cuidado para enfermos",
+      "checked": false,
+      "children": []
+    }
+  ]
+},
   {
     "id": 5000003,
-    "label": "Desenlace",
+    "label": "Desenlaces",
     "checked": false,
     "children": [
       {
@@ -310,361 +664,6 @@
       {
         "id": 503,
         "label": "Estudio cualitativo",
-        "checked": false,
-        "children": []
-      }
-    ]
-  },
-  {
-    "id": 600,
-    "label": "Desenlaces",
-    "checked": false,
-    "children": [
-      {
-        "id": 101,
-        "label": "Housing First\t\t\t",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 102,
-        "label": "Programas de soporte permanente de alojamiento",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 103,
-        "label": "Alojamiento temporal",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 104,
-        "label": "Cigarrillos electrónicos",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 105,
-        "label": "Monitoreo de monóxido de carbono (CO)",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 106,
-        "label": "Intervenciones farmacologicas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 107,
-        "label": "Terapia de remplazo transdermico de nicotina",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 108,
-        "label": "Intervenciones brindadas por clínicas para dejar de fumar",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 109,
-        "label": "Programas de acompañamiento interdisciplinario",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 110,
-        "label": "Grupos de apoyo (AA, NA, JA)",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 111,
-        "label": "Intervenciones de base comunitaria",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 112,
-        "label": "Comunidades terapeuticas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 113,
-        "label": "Terapias alternativas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 114,
-        "label": "Interrevenciones farmacologicas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 115,
-        "label": "Visitas domiciliarias",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 116,
-        "label": "Estrategias de reducción de daño",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 117,
-        "label": "Intervenciones motivacionales",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 118,
-        "label": "Intervenciones de autoconocimiento",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 119,
-        "label": "Intervenciones psicoeducativas ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 120,
-        "label": "Intervenciones de manejo del estrés",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 121,
-        "label": "Tecnicas aplicadas (relajación, entrenamiento en resolucion de conflictos)",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 122,
-        "label": "Manejo de contingencia",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 123,
-        "label": "Manejo de caso ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 124,
-        "label": "Terapias alternativas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 125,
-        "label": "Programas de apoyo a padres",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 126,
-        "label": "Habilidades para la vida",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 127,
-        "label": "Actividad física de base comunitaria",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 128,
-        "label": "Promoción de comportamientos saludables",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 129,
-        "label": "Intervención basada en mensajes de texto \t\t\t\t\t",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 130,
-        "label": "Alertas computarizadas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 131,
-        "label": "Intervención basada en redes sociales\t\t\t\t",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 132,
-        "label": "Intervenciones basadas en telefonía\t\t\t\t",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 133,
-        "label": "Programas de atención ambulatoria",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 134,
-        "label": "Programas de atencion en calle/ moviles",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 135,
-        "label": "Programas de atención de base comunitaria",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 136,
-        "label": "Intervenciones hospitalarias ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 137,
-        "label": "Intervenciones para disminuir las consultas a urgencias ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 138,
-        "label": "Educación en salud",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 139,
-        "label": "Intervenciones no farmacologicas para disminución de malestar",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 140,
-        "label": "Intervenciones farmacologicas ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 141,
-        "label": "Intervenciones para garantizar aseguramiento en salud",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 142,
-        "label": "Prevención, detección, tratamiento y seguimiento de enferemedades oncologicas ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 143,
-        "label": "Prevención, detección, tratamiento y seguimiento de VIH-SIDA",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 144,
-        "label": "Prevención, detección, tratamiento y seguimiento de Hepatitis",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 145,
-        "label": "Prevención, detección, tratamiento y seguimiento de tuberculosis ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 146,
-        "label": "Supervisión nutricional",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 147,
-        "label": "Comedores comunitarios",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 148,
-        "label": "Dieta de base en refugio",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 150,
-        "label": "Campañas educativas ",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 151,
-        "label": "Clínica odontológica de base comunitaria",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 152,
-        "label": "Repatriación",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 153,
-        "label": "Subsidios",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 154,
-        "label": "Entrenamiento en habilidades para el trabajo condicionadas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 155,
-        "label": "Entrenamiento en habilidades para el trabajo no condicionadas",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 156,
-        "label": "Empleo",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 157,
-        "label": "Terapia ocupacional",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 158,
-        "label": "Aislamiento",
-        "checked": false,
-        "children": []
-      },
-      {
-        "id": 159,
-        "label": "Cuidado para enfermos",
         "checked": false,
         "children": []
       }
